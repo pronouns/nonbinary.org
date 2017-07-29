@@ -1,0 +1,497 @@
+'''English neutral pronouns''' are an ongoing problem in this language. This is a best known as a matter of concern not only when writing documents that need to use inclusive language. It's also of concern for any [[nonbinary]] people who prefer not to have their pronouns imply that they are female or male. As shown in surveys, many nonbinary people are okay with being called "he" or "she," but there are also many nonbinary people who don't want to be called by either of these. The surveys show that the most popular gender-neutral pronoun for nonbinary people is [[singular they]], but nearly as many prefer or accept some other neutral pronoun. See examples of this in [[Pronouns#Use for non binary people|pronouns in use for nonbinary people]].
+
+==History==
+
+In English, people are usually called by a [[pronouns|pronoun]] that implies their gender. For example, [[English neutral pronouns#She|she]] for women, and [[English neutral pronouns#He|he]] for men. The use of [[singular they]] as a gender-neutral pronoun has been documented as standard usage in English throughout the past thousand years. However, prescriptive grammarians in the late eighteenth century decided that it was bad grammar, because it works like a plural, and because it isn't done in Latin.&lt;ref&gt;Henry Churchyard, "Singular 'Their' in Jane Austen and Elsewhere." [http://www.crossmyt.com/hc/linghebr/austheir.html http://www.crossmyt.com/hc/linghebr/austheir.html]&lt;/ref&gt;
+
+Prescriptive grammarians of the late eighteenth century instead recommended using "he" as a gender-neutral pronoun when one  is needed, instead of "singular they."&lt;ref name="bustillos 250"&gt;Maria Bustillos, "Our desperate, 250-year-long search for a gender neutral pronoun." January 6, 2011. [http://www.theawl.com/2011/01/our-desperate-250-year-long-search-for-a-gender-neutral-pronoun http://www.theawl.com/2011/01/our-desperate-250-year-long-search-for-a-gender-neutral-pronoun]&lt;/ref&gt; However, "gender-neutral he" results in writings that are unclear about whether they mean only men or not, which makes problems in law.&lt;ref&gt;Geoffrey Pullum, "Canada Supreme Court Gets the Grammar Right." ''Language Log.'' August 18. 2004. [http://itre.cis.upenn.edu/~myl/languagelog/archives/001362.html http://itre.cis.upenn.edu/~myl/languagelog/archives/001362.html]&lt;/ref&gt;
+
+Seeking a solution to the problem of a lack of a gender-neutral pronoun in English that satisfies all needs, people since the mid nineteenth century have proposed many new gender-neutral singular pronouns.&lt;ref name="aetherlumina archive history"&gt;"History." ''Gender Neutral Pronoun FAQ''. https://web.archive.org/web/20050207103316/http://www.aetherlumina.com/gnp/history.html&lt;/ref&gt; For example, [[English neutral pronouns#Sie|sie]], [[English neutral pronouns#E|Spivak pronouns]], and others. None of these new words (neologisms) have become standard use or adopted into books of English grammar. However, some sets of these neologistic pronouns have seen use for real people with [[nonbinary]] gender identities, and for characters in fiction. These neologisms are the main topic explored in this article.
+
+===Regional nominative pronouns===
+
+There have been some native English dialects that have their own gender-neutral pronouns, such as a, ou, and yo. These are often regional. One curious thing that a, ou, and yo all have in common is that they have only been recorded in their nominative form. It's possible that these three sets of pronouns may not actually have other forms (possessive, reflexive, etc). For this reason, these three sets of native English pronouns are listed separately from the other pronouns on this page that have complete forms. Although it's easy to make up more forms for these pronouns (such as inventing "ouself"), this is not what linguists have recorded in use.
+
+====A====
+
+'''A''' (nominative form only). "In 1789, William H. Marshall records […] Middle English epicene ‘a’, used by the 14th century English writer John of Trevisa, and both the OED and Wright's English Dialect Dictionary confirm the use of ‘a’ for he, she, it, they, and even I. This ‘a’ is a reduced form of the Anglo-Saxon he = ‘he’ and heo = ‘she’.” Source: Baron, Dennis (1986). Grammar and Gender. New Haven: Yale University Press. ISBN 0-300-03526-8. as cited by: Williams, John (1990s)." &lt;ref&gt;[https://web.archive.org/web/20100418022839/http://www.aetherlumina.com/gnp/history.html "History - Native-English GNPs". Gender-Neutral Pronoun FAQ.] Retrieved 2007-01-01.&lt;/ref&gt; Some living British dialects still use the gender-neutral "a" pronoun.&lt;ref&gt;"Epicene pronouns." ''American Heritage Book of English Usage''. [http://web.archive.org/web/20080630041424/http://www.bartleby.com/64/C005/004.html http://web.archive.org/web/20080630041424/http://www.bartleby.com/64/C005/004.html]&lt;/ref&gt;
+
+====Ou====
+
+'''Ou''' (nominative form only) was first recorded in a native English dialect the sixteenth century. "In 1789, William H. Marshall records the existence of a dialectal English epicene pronoun, singular ou: '"Ou will" expresses either he will, she will, or it will.' Marshall traces ou to Middle English epicene a, used by the fourteenth-century English writer John of Trevisa, and both the OED and Wright's English Dialect Dictionary confirm the use of a for he, she, it, they, and even I." In K. A. Cook's short story "The Differently Animated and Queer Society," the queer character Moon asks to be called by "ou" pronouns.&lt;ref&gt;K. A. Cook, "The Differently Animated and Queer Society." ''Crooked Words.'' Unpaged.&lt;/ref&gt;
+
+====Yo====
+
+'''Yo''' (nominative form only). In addition to an interjection and greeting, "yo" is a gender-neutral pronoun in a dialect of African-American Vernacular English spoken by middle school students in Baltimore, Maryland, the student body of which is 97% African-American. These students had spontaneously created the pronoun as early as 2004, and commonly used it. A study by Stotko and Troyer in 2007 examined this pronoun. The speakers used "yo" only for same-age peers, not adults or authorities. They thought of it as a slang word that was informal, but they also thought if it as just as acceptable as "he" or "she". "Yo" was used for people whose gender was unknown, as well as for specific people whose gender was known, often while using a pointing gesture at the person in question. The researchers collected examples of the word in use, such as "yo threw a thumbtack at me," "you acting like I said what yo said," and "she ain't really go with yo." The researchers only collected examples of "yo" used in the nominative form. That is, they found no possessive forms such as "yo's," and no reflexive forms such as "yoself." As such, "yo" pronouns might be used only in nominative form, similar to another native English gender-neutral pronoun, "[[English neutral pronouns#A|a]]." Either that, or these forms exist, and the researchers just didn't collect them.&lt;ref&gt;Rebecca Hersher, "'Yo' said what?" April 24, 2013. ''NPR: Code Switch''. [http://www.npr.org/blogs/codeswitch/2013/04/25/178788893/yo-said-what]&lt;/ref&gt;&lt;ref&gt;Elizabeth J. Elrod, "Give us a gender neutral pronoun, yo!: The need for and creation of a gender neutral, singular, third person, personal pronoun." ''Undergraduate Honors Theses'' paper 200. 2014. http://dc.etsu.edu/honors/200 or http://dc.etsu.edu/cgi/viewcontent.cgi?article=1203&amp;context=honors (PDF)&lt;/ref&gt;
+
+==The list==
+
+This list is of third-person singular pronouns in the English language only. (Pronouns in other languages should go in a different section.) These pronouns have all been used in English. Some are "new" pronouns, and others have been in use for over a hundred years.
+
+Please feel free to add more, though note that if you don't provide citations for [[Talk:English neutral pronouns#Notability|notability]] or include all five forms your entry may be moved to the talk page or be removed entirely. List pronoun sets in alphabetical order by their nominative form, or by the name of the set.
+
+===*e (splat pronouns)===
+
+'''*e, h*, h*s, h*s, h*self''' (this was the exact set used in LambdaMOO).&lt;ref&gt;Klaus Beck, ''Computervermittelte Kommunikation im Internet.'' p. 157.&lt;/ref&gt;&lt;ref&gt;Laura Borràs Castanyer, ed. ''Textualidades electrónicas: Nuevos escenarios para la literatura.'' p. 158.&lt;/ref&gt; Called "splat pronouns," because the asterisk symbol is also called a "splat," these all use an asterisk to represent ambiguity between "he" and "she." 
+
+'''Usage:'''
+
+Some software and Internet resources in the 1990s used them informally as gender-neutral pronouns. The multi-user online environment LambdaMOO offered these "splat" pronouns in addition to "[[English neutral pronouns#E|Spivak]]" pronouns. In 2002, 10 out of 4061 people on LambdaMOO had chosen to use splat pronouns for themselves.&lt;ref name="aetherluminarefs"&gt;https://web.archive.org/web/20070310125817/http://aetherlumina.com/gnp/references.html&lt;/ref&gt; However, splat pronouns didn't make any appearance in the 2015 or 2016 Nonbinary Stats surveys.
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''*e'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''h*''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''h*s'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''h*s''.
+* '''Reflexive:''' Each child feeds ''h*self''.
+
+'''On Pronoun Island:''' [http://pronoun.is/*e/h*/h*s/h*s/h*self http://pronoun.is/*e/h*/h*s/h*s/h*self
+
+===Alternating pronouns===
+
+'''he, her, his, herself''' (for one of many possible examples). Instead of using an alternative or neutral pronoun set, some people prefer an alternation between the binary-gendered sets. Justice Ginsburg is in favor of alternating "he" and "she" pronouns to make legal documents gender-inclusive.&lt;ref name="bustillos 250"&gt;&lt;/ref&gt;
+
+'''Use in fiction:''' In K. A. Cook's short story "Blue Paint, Chocolate and Other Similes," in ''Crooked Words,'' most of the story involves the narrator Ben moving from one set of pronouns to another for Chris as he tries to figure out Chris's gender. When the narrator is trying to determine whether Chris is male or female, Ben alternates between thinking of Chris as he or she. Upon recognizing that Chris identifies as nonbinary, the narrator begins using [[English neutral pronouns#Ze|ze]] pronouns for Chris. Then, Ben finally finds a good moment to ask for Chris's pronoun preference.&lt;ref&gt;K. A. Cook, "Blue Paint, Chocolate and Other Similes." ''Crooked Words.'' Unpaged.&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell ''her'' a joke ''he'' laughs.
+* '''Accusative:''' When I greet ''her'' I hug ''him''.
+* '''Pronominal possessive:''' When ''he'' does not get a haircut, ''her'' hair grows long.
+* '''Predicative possessive:''' If my mobile phone runs out of power, ''he'' lets me borrow ''hers''.
+* '''Reflexive:''' Each child feeds ''herself''. '''or''' Each child feeds ''himself''.
+
+'''Usage:''' In the Nonbinary Stats 2016 survey, 12% of respondents chose "mix it up; use different pronouns frequently and randomly" both alone and in addition to other pronoun choices.&lt;ref name=NBGQ2016&gt;[http://nonbinarystats.tumblr.com/post/141311159050/nbgq-survey-2016-the-worldwide-results NB/GQ Survey 2016 - the worldwide results], March 2016.&lt;/ref&gt;
+
+===Co===
+
+'''co, co, co's (cos), co's, coself'''. Mary Orovan created these in 1970, derived from the Indo-European ''*ko'', as an inclusive alternative to "he or she."&lt;ref name="d baron epicene"&gt;Dennis Baron, "The Epicene Pronouns: A chronology of the word that failed." [http://www.english.illinois.edu/-people-/faculty/debaron/essays/epicene.htm http://www.english.illinois.edu/-people-/faculty/debaron/essays/epicene.htm]&lt;/ref&gt;&lt;ref name="aetherlumina listing 1"&gt;https://web.archive.org/web/20070310125817/http://aetherlumina.com/gnp/references.html&lt;/ref&gt; In the pages about inclusive pronouns in the book ''Words and Women'', authors Miller and Swift talk about this pronoun's origins, history, and contemporary usage: 
+
+&lt;blockquote&gt;"'Humanizing English,' an eight-page pamphlet first published in 1970, included [Mary] Orovan's proposed common gender pronoun ''co,'' which is now being used in everyday speech and writing by members of several alternative-life-style communities. Twin Oaks Community, a group of some sixty adults and children living in Louisa, Virginia, adopted Orovan's nonsexist grammatical form in 1972. The pronoun  has since spread to other communities in Virginia and Missouri, is used in a book on radical therapy published in 1973 by Harper &amp; Row, and it routinely replaces 'he or she' or 'he/she' in the magazine ''Communities,''' which is addressed to cooperative-living groups across the country. Orovan derived ''co'' from the Indo-European root form ''ko,'' the common ancestor of both the masculine and feminine English pronouns. Co, with its suggestion of 'together,' is not used to replace either the masculine or feminine pronoun when applied to a specific individual, but only as an alternative to the unisex generic ''he.'' Twin Oaks' newsletter ''Leaves,'' for example, comments in an article on communal work undertaken by members, 'Vacations are indeed a burden for the remaining members, but everyone takes cos turn at carrying the burden.'"&lt;ref&gt;Casey Miller and Kate Swift, ''Words and Women.'' Pages 129-130.&lt;/ref&gt;&lt;/blockquote&gt;
+
+Today, "Co" is still used in some intentional communities, such as in the legal policies of Twin Oaks in Virginia, which provides information on the pronoun in its [http://www.twinoaks.org/community/visit/guide.html visitor guide] web page.
+
+'''Use by nonbinary people:''' Although the word was coined to include men and women in the generic sense, some specific individuals do choose to be called by co. In surveys of nonbinary people and what pronouns they prefer, a survey published in 2012 found 2 respondents who preferred "co,"&lt;ref name="anlamasanda 2012"&gt;anlamasanda, "Results of pronoun survey." January 1, 2012. http://anlamasanda.tumblr.com/post/15140114246&lt;/ref&gt; a survey in 2013 found 14 such respondents,&lt;ref name="cassolotl 2013"&gt;cassolotl (Lottelodge), July 2013. https://docs.google.com/spreadsheets/d/1jI4B5Zpb6s5eFTFxjAHRabML2DA3-DHV8cBwZmCKWHE/edit#gid=1&lt;/ref&gt;, in 2015 found 38 of them worldwide,&lt;ref name="cassolotl 2015"&gt;cassolotl, "Nonbinary Stats 2015 (worldwide) - the results." February 20, 2015. http://cassolotl.tumblr.com/post/111585517125&lt;/ref&gt;, and in 2016 found 36 of them worldwide.&lt;ref name="cassolotl 2016"&gt;cassolotl (Nonbinary Stats), "NB/GQ Survey 2016 - the worldwide results." March 2016. http://nonbinarystats.tumblr.com/post/141311159050/nbgq-survey-2016-the-worldwide-results&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''co'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''co''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''co's'' hair grows long. (Or ''cos'' hair grows.)
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''co's''.
+* '''Reflexive:''' Each child feeds ''coself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/co/co/co's/co's/coself http://pronoun.is/co/co/co's/co's/coself]
+
+===E===
+
+There are several very similar sets of pronouns with the nominative form of "E," which have been independently proposed or revived over the last hundred years.&lt;ref name="aetherlumina listing 2"&gt;[https://web.archive.org/web/20070310130020/http://aetherlumina.com/gnp/listing.html ''4.2.5. Comprehensive Listing of Neologisms'', March 10 2007]&lt;/ref&gt;&lt;ref name="d baron epicene"&gt;&lt;/ref&gt; The oldest of these is 
+
+====E (Spivak pronouns)====
+'''E, Em, Eir, Eirs, Emself'''. These are sometimes called spivak pronouns. In 1990, Michael Spivak used them in his manual, ''The Joy of TeX,'' so that no person in his examples had a specified gender. These pronouns became well-known on the Internet because they were built into a popular multi-user chat, LambdaMOO, in 1991. Many users enjoyed choosing pronouns that didn't specify their gender. The pronouns then became a common feature of other multi-user chats made throughout the 1990s. Although many other variations have been attributed to Michael Spivak, this is the actual set Spivak used in ''The Joy of TeX'' in 1990 or 1991. Note that he always capitalized all forms of it, but not all users of these pronouns do so. &lt;ref name="aetherluminarefs"&gt;https://web.archive.org/web/20070310125817/http://aetherlumina.com/gnp/references.html&lt;/ref&gt; Spivak doesn't indicate whether he created these pronouns, or adopted or adapted them from somewhere else. Spivak is credited with having created these pronouns, although his book doesn't outright say that they're of his own creation. (Compare Elverson's [[English neutral pronouns#Ey|ey]] pronouns, which are very similar, with only a small spelling difference in the nominative form.)
+
+'''Use in real life and non-fiction:'''
+* When a programmer added this pronoun set to LambdaMOO in 1991, he used the same spelling as Spivak, but not capitalized.&lt;ref&gt;V.Dentata, "MOO Bash FAQ." 1999. http://www.amanita.net/bashfaq.html &lt;/ref&gt; Regarding LambdaMOO, John Costello wrote, "I know the wizard who originally included the spivak pronouns on the MOO. He says he did it just on a whim after having read ''the Joy of TeX'' — he never thought they'd acquire the sexual and political nimbus they have over the years."&lt;ref name="aetherluminarefs"&gt;&lt;/ref&gt; LambdaMOO's "help spivak" command explains that these pronouns "were developed by mathematician Michael Spivak for use in his books."&lt;ref&gt;Sue Thomas, ''Hello World: Travels in Virtuality.'' 2004. P. 33.&lt;/ref&gt; Programmer Roger "Rog" Crew tested the LambdaMOO system by putting more pronoun options into it in May, 1991, including Spivak's set he remembered from ''The Joy of TeX.'' Crew didn't delete the pronouns after testing them, and later expressed "dismay" that the spivak pronouns became popular.&lt;ref&gt;Sue Thomas, ''Hello World: Travels in Virtuality.'' p. 34.&lt;/ref&gt;&lt;ref&gt;Steve Jones, ''Cybersociety 2.0: Revisiting Computer-Mediated Community and Technology.'' p. 141.&lt;/ref&gt; 
+* Spivak pronouns became such a part of 1990s Internet culture that a handbook to that culture, ''Yib's Guide to Mooing'' (2003), uses spivak pronouns whenever speaking of a hypothetical person whose gender need not be specified.&lt;ref&gt;Elizabeth Hess, ''Yib's Guide to Mooing: Getting the Most from Virtual Communities on the Internet.'' 2003. p. 3, p. 283.&lt;/ref&gt;
+* In Internet environments, spivak was categorized not only as a set of pronouns, but as a gender identity, which Thomas describes: "The spivak gender [...] is more representative of an emotional and intellectual state than of a physical configuration. It should be pointed out at the start that the sexuality available to a spivak is a bonus of online life, but it isn't the raison d'etre. Rather, it's a subtle notion of a gender-free condition. It's not androgynous. It's not unisexual. It's simply ambiguous."&lt;ref&gt;Sue Thomas, ''Hello World: Travels in Virtuality.'' p. 31-32.&lt;/ref&gt; Some self-described spivaks use spivak as a proper noun for their non-binary gender identity.
+
+'''Use in fiction:'''
+* Steven Shaviro's theoretical fiction novel ''[http://www.dhalgren.com/Doom/ Doom Patrols]'' (1995-1997) uses spivak pronouns at times.&lt;ref&gt;Steven Shaviro, "Preface." ''Doom Patrols.'' [http://www.dhalgren.com/Doom/ch00.html http://www.dhalgren.com/Doom/ch00.html]&lt;/ref&gt;
+* The English translation of Sayuri Ueda's science fiction novel ''The Cage of Zeus'' (2011) uses spivak pronouns for genetically engineered characters with non-dyadic bodies and non-binary gender.&lt;ref&gt;Sayuri Ueda, ''The Cage of Zeus.'' 2011.&lt;/ref&gt;
+
+'''Use for real non-binary people:'''
+* In 1996, 74 out of 7064 users on LambdaMOO went by spivak pronouns, making it the second most popular nonbinary pronoun there.&lt;ref&gt;Steve Jones, ''Cybersociety 2.0: Revisiting Computer-Mediated Community and Technology.'' p. 142.&lt;/ref&gt; In 2002, 108 out of 4061 users on LambdaMOO used spivak pronouns, making it the most popular neologistic pronoun set there.&lt;ref name="aetherluminarefs"&gt;&lt;/ref&gt;
+* In 1996, 10 out of 1015 users on MediaMOO went by spivak pronouns, making these the second most popular nonbinary pronoun.&lt;ref&gt;Steve Jones, ''Cybersociety 2.0: Revisiting Computer-Mediated Community and Technology.'' p. 141.&lt;/ref&gt;
+* The author Bogi "prezzey" Takács goes by spivak pronouns.&lt;ref&gt;[https://www.smashwords.com/profile/view/bogitakacs Bogi Takács' biography on Smashwords], captured March 2016.&lt;/ref&gt;
+* In the 2016 Nonbinary Stats survey, 7% of participants were happy for people to use Spivak pronouns when referring to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''E'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''Em''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''Eir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''Eirs''.
+* '''Reflexive:''' Each child feeds ''Emself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/e http://pronoun.is/e]
+
+====E (es)====
+'''e, em, es (e's), (e's), (not recorded)'''. Created in 1890 by James Rogers of Crestview, Florida.&lt;ref name="aetherlumina listing 2"&gt;&lt;/ref&gt;&lt;ref name="d baron epicene"&gt;&lt;/ref&gt; In about 1977, version where all forms starts with capital letters was independently "created by psychologist Donald G. MacKay of the University of California at Los Angeles."&lt;ref name="d baron epicene"&gt;&lt;/ref&gt; In 1989, independently created by Victor J. Stone, Professor of Law.&lt;ref name="d baron epicene"&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''e'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''em''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''es'' hair grows long.
+* '''Predicative possessive:''' (not recorded)
+* '''Reflexive:''' (not recorded)
+
+===Ey (Elverson pronouns)===
+
+'''ey, em, eir, eirs, emself'''. (Compare the spivak pronoun [[English neutral pronouns#E|E]], which is very similar, with only a small spelling difference in the nominative form.) Called the Elverson pronouns, these were "created by Christine M. Elverson of Skokie, Illinois, to win a contest in 1975. (Black, Judie, ‘Ey has a word for it’, 1975-08-23.). Promoted as preferable to other major contenders (sie, zie and singular ‘they’) by John Williams's Gender-neutral Pronoun FAQ (2004)."&lt;ref&gt;http://en.wiktionary.org/wiki/Appendix:List_of_protologisms_by_topic/third_person_singular_gender_neutral_pronouns#cite_note-1&lt;/ref&gt;
+
+'''Use in real life and non-fiction:'''
+* The Elverson pronouns were used by Eric Klein in the ''Laws of Oceania'', 1993, to be gender-inclusive in a nonfictional micronation. Sometimes this pronoun set is mistakenly called "[[English neutral pronouns#E|spivak pronouns]]," which differ only in the nominative form.
+* In the 2016 Nonbinary Stats survey, 5 of around 3,000 participants were happy for people to use Elverson pronouns when referring to them - around 0.2%.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''Use in fiction:''' 
+* CJ Carter's science fiction novel, ''Que Será Serees'' (2011) is about a species of people with a single gender, who are all called by Elverson's "ey" pronouns. Carter encourages other authors to use these gender-neutral pronouns.&lt;ref&gt;CJ Carter, "Genderless singular pronouns." [http://tib.cjcs.com/genderless-pronouns-ey-em-and-eir-2/ http://tib.cjcs.com/genderless-pronouns-ey-em-and-eir-2/]&lt;/ref&gt;&lt;ref&gt;"Que Será Serees". ''CJ's Creative Studio''. [http://cjcs.com/writing/fiction/que-sera-serees/ http://cjcs.com/writing/fiction/que-sera-serees/]&lt;/ref&gt;
+* In K. A. Cook's short story "Misstery Man," the self-described non-binary character Darcy asks to be called by "ey and eir" pronouns.&lt;ref&gt;K. A. Cook, "Misstery Man." ''Crooked Words.'' Unpaged.&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''ey'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''em''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''eir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''eirs''.
+* '''Reflexive:''' Each child feeds ''emself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/ey http://pronoun.is/ey]
+
+===Fae===
+
+'''fae, faer, faer, faers, faerself'''. A fairy (faery, faerie, fey or Fair Folk) themed set created by Ciel (Tumblr user shadaras) in 2014 (or earlier?)&lt;ref&gt;http://quasiboi.co.vu/post/74445593229/list-of-pronouns&lt;/ref&gt; It may also have been independently coined earlier by someone else. This is the most commonly used [[nounself pronouns|nounself pronoun]] set, and it may have been created earlier than them. It may have been what inspired many people to create nounself pronouns in 2014. A similar fairy-themed set is '''fey, fey, feys, feys, feyself''', which was recorded in 2014,&lt;ref name="askanonbinary general"&gt;[http://askanonbinary.tumblr.com/general Ask A Nonbinary's list of unthemed pronouns], captured March 2016&lt;/ref&gt; of unknown origin. 
+
+'''Usage:'''
+* In the 2016 Nonbinary Stats survey, 4% of participants were happy for people to use ''fae'' pronouns when referring to them&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;. "Fae" was the only nounself pronoun with a comparable level of popularity in that survey.
+
+Forms:
+
+*'''Nominative:''' When I tell someone a joke ''fae'' laughs. 
+*'''Accusative:''' When I greet a friend I hug ''faer''. 
+*'''Pronominal possessive:''' When someone does not get a haircut, ''faer'' hair grows long. 
+*'''Predicative possessive:''' If my mobile phone runs out of power, ''fae'' lets me borrow ''faers''. 
+*'''Reflexive:''' Each child feeds ''faerself''. 
+
+'''On Pronoun Island:''' [http://pronoun.is/fae/faer/faer/faers/faerself http://pronoun.is/fae/faer/faer/faers/faerself]
+
+===Female pronouns===
+
+''See [[English neutral pronouns#She|She]]''.
+
+
+===He===
+
+'''he, him, his, his, himself'''. Often called male pronouns, grammarians acknowledge that this standard set of pronouns can also be used as gender-neutral or gender-inclusive pronouns for unspecified persons, such as in instructions and legal documents. In the eighteenth century, when prescriptive grammarians decided that "singular they" was no longer acceptable as a gender-neutral pronoun, they instead recommended "gender-neutral he." "Prescriptive grammarians have been calling for 'he' as the gender-neutral pronoun of choice since at least 1745, when a British schoolmistress named Anne Fisher laid down the law in ''A New Grammar''."&lt;ref name="bustillos 250"&gt;&lt;/ref&gt; The use of "gender-neutral he" can make problems in how laws are interpreted, because it's unclear whether it is meant to be gender-inclusive or male-only. For example, in 1927, "the Canadian Supreme Court ruled that women were not persons because its statutes referred to 'persons' with male pronouns."&lt;ref&gt;"Pronoun perspectives." ''Gender neutral pronoun blog.'' [https://genderneutralpronoun.wordpress.com/links/pronoun-perspectives/ https://genderneutralpronoun.wordpress.com/links/pronoun-perspectives/]&lt;/ref&gt;&lt;ref&gt;Geoffrey Pullum, "Canada Supreme Court Gets the Grammar Right." ''Language Log.'' August 18. 2004. [http://itre.cis.upenn.edu/~myl/languagelog/archives/001362.html http://itre.cis.upenn.edu/~myl/languagelog/archives/001362.html]&lt;/ref&gt; In the USA in the nineteenth century, suffragists Susan B. Anthony and Elizabeth Cady Stanton fought for laws to stop using the "gender-neutral he," because there were cases where this pronoun had been arbitrarily interpreted as a "male he" in order to exclude women from legal protections, or from the right to a license that they had passed exams for. This abuse of legal language happened even in if the documents explicitly said that "he" was meant to include women.&lt;ref name="bustillos 250"&gt;&lt;/ref&gt; Thanks to work in the 1970s by feminists Casey Miller and Kate Swift, "gender-neutral he" has been significantly phased out of use, replaced by the more inclusive [[English neutral pronouns#He or she|he or she]].&lt;ref&gt;Elizabeth Isele, "Casey Miller and Kate Swift: Women Who Dared To Disturb the Lexicon." ''Women in Literature and Life Assembly,'' Vol. 3, Fall 1994. [http://scholar.lib.vt.edu/ejournals/old-WILLA/fall94/h2-isele.html]&lt;/ref&gt;
+
+'''Use for real non-binary people:''' There are non-binary people who ask to be called by "he" pronouns, such as comedian [[Nonbinary celebrities#Eddie Izzard|Eddie Izzard]], writer [[Nonbinary celebrities#Richard O'Brien|Richard O'Brien]], songwriter [[Antony Hegarty]], and guitarist [[Nonbinary celebrities#Pete Townshend|Pete Townshend]].
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''he'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''him''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''his'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''his''.
+* '''Reflexive:''' Each child feeds ''himself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/he http://pronoun.is/he]
+
+'''Usage:'''
+* In the 2016 Nonbinary Stats survey, 23% of participants were happy for people to use ''he'' pronouns when referring to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+===He or she===
+
+''See also: [[English neutral pronouns#Alternating pronouns|alternating pronouns]]''
+
+'''he or she, him or her, his or her, his or hers, himself or herself'''. These are very commonly used as gender-neutral pronouns for unspecified persons, such as in instructions and legal documents. Although grammatically acceptable, and a step more inclusive than only using "he" in these contexts, its length soon makes it cumbersome.&lt;ref&gt;https://web.archive.org/web/20050205052157/http://www.aetherlumina.com/gnp/faq.html&lt;/ref&gt; It almost always puts the "male" pronoun before the "female" pronoun, which is a little less than equality. (Similar efforts at inclusive language almost always end up with this same male-first ordering: "the habit of always saying 'male and female,' 'husbands and wives,' 'men and women' revealed an unquestioned priority," as pointed out by Casey Miller and Kate Swift in ''Words and Women'' (1976),&lt;ref&gt;Casey Miller and Kate Swift, ''Words and Women.'' Page x.&lt;/ref&gt; a book on sexism in language and feminist efforts for inclusive language.) "He or she" also gives the impression of including binary genders, while excluding the possibility of other genders.
+
+'''Use by nonbinary people:''' Interestingly enough, although "he or she" may be the most popularly used inclusive pronoun set (along with "they"), and therefore may seem an obvious choice for nonbinary people, this set doesn't seem to be popularly used by nonbinary people. It was not entered at all in the Nonbinary Stats survey in 2016,&lt;ref name=NBGQ2016&gt;&lt;/ref&gt; nor did it appear as such in surveys published in 2012 or 2013. However, this may be an artifact of the way the surveys were taken. The 2016 survey found 12.2% of the respondents asked people to "mix up" their pronouns ([[English neutral pronouns#Alternating pronouns|alternating pronouns]]). A 2012 survey found 20 respondents who wished to be called both "he" and "she."&lt;ref&gt;anlamasanda, 
+"Results of pronoun survey." January 1, 2012. http://anlamasanda.tumblr.com/post/15140114246&lt;/ref&gt; It may be the case that people who prefer to be called "he or she" simply entered their preference into the surveys in a slightly different format. It may also be the case that it's virtually unheard-of for nonbinary people to feel that "he or she" represents them. Either way, its absence in these surveys is intriguing, and may need to be addressed more specifically in future surveys.
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''he or she'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''him or her''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''his or her'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''his or hers''.
+* '''Reflexive:''' Each child feeds ''himself or herself''.
+
+
+
+===It===
+
+'''it, it, its, its, itself'''. This standard English set of genderless pronouns is used for inanimate objects, animals, and human infants. During Dickens’ time, these were also acceptable pronouns for older human children and spirits of the dead, as these permutations of humanity were seen as not really male or female. This pronoun is not male or female. Using it for an adult human is often seen as an insult, dehumanizing. While considered offensive by most, some nonbinary people use "it" as a means of reclamation and to challenge the idea that genderlessness is inherently dehumanizing.
+
+Because "it" pronouns are the default on LamdaMOO and on similar multi-user environments, they tend to be common there, but less common than "he" or "she." In 1996, "it" pronouns were the most popular non-binary pronoun choice on LambdaMOO (1162 out of 7065 player characters) and MediaMOO (280 out of 1015 player characters).&lt;ref&gt;Steve Jones, ''Cybersociety 2.0: Revisiting Computer-Mediated Community and Technology.'' p. 142.&lt;/ref&gt;
+
+'''Use for real nonbinary people:'''
+* In the 2015 Nonbinary Stats survey, 6% of the participants (164 of 2901 respondents) asked to be called by "it" pronouns.&lt;ref name="cassolotl 2015"&gt;&lt;/ref&gt;
+* In the 2016 Nonbinary Stats survey, 5% of the participants were happy for people to use ''it'' pronouns when referring to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''it'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''it''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''its'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''its''.
+* '''Reflexive:''' Each child feeds ''itself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/it http://pronoun.is/it]
+
+===Male pronouns===
+
+''See [[English neutral pronouns#He|he]]''.
+
+
+===Name===
+
+''See [[English neutral pronouns#No pronouns|no pronouns]] or [[nounself pronouns]]''.
+
+===Ne===
+
+Several sets of pronouns use "ne" in the nominative form. In the 2016 Nonbinary Stats survey, ten different pronouns starting with ''ne'' were entered by 16 participants.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt; One set of "ne" pronouns is one of the oldest sets of neo-pronouns, but not all its forms were recorded: '''ne, nim, nis, (not recorded), (not recorded)''', which was created around 1850,&lt;ref name="aetherlumina listing 2"&gt;&lt;/ref&gt; and appeared in print in 1884.&lt;ref name="d baron epicene"&gt;&lt;/ref&gt; Some of the better-attested sets of "ne" pronouns, in alphabetical order:
+
+====Ne (nem)====
+'''ne, nem, nir, nirs, nemself'''. In ''[http://spectracomic.smackjeeves.com Spectra]'', a science fiction comic by Cori Walters, characters with nonbinary genders are called by these pronouns. Walters uses this pronoun for one of the three gender roles in a species that has only one sex, and all people voluntarily choose their gender roles. The comic started in 2013 and is still in progress.&lt;ref&gt;''Spectra.'' [http://spectracomic.smackjeeves.com http://spectracomic.smackjeeves.com/]&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''ne'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''nem''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''nir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''nirs''.
+* '''Reflexive:''' Each child feeds ''nemself''.
+
+====Ne (ner)====
+'''ne, ner, nis, nis, nemself'''. In a 1974 issue of ''Today's Education,'' "Mildred Fenner attributes this to Fred Wilhelms."&lt;ref name="d baron epicene"&gt;&lt;/ref&gt;&lt;ref name="aetherlumina listing 2"&gt;&lt;/ref&gt; Veterinarian Al Lippart independently proposed the same set of pronouns in 1999, recommending them for use when it would be inappropriate to specify the gender of a human, animal, or deity.&lt;ref&gt;Al Lippart, "Intoducing the New Neutral Third Person Singular Personal Pronoun." 1999. ''Introducing... Ne.'' [http://www.lippart.com/ne.html http://www.lippart.com/ne.html] &lt;/ref&gt; Lawyer Roberta Morris also independently proposed this same set of pronouns in 2009, saying that these pronouns would be more efficient for within the 140 character limit of Twitter than "he or she." Morris also pointed out that the "n" can refer to "neuter."&lt;ref&gt;Roberta Morris, "The need for a neuter pronoun: A solution." September 29, 2009. [http://myunpublishedworks2.blogspot.com/2009/09/need-for-neuter-pronoun-solution.html http://myunpublishedworks2.blogspot.com/2009/09/need-for-neuter-pronoun-solution.html]&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''ne'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''ner''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''nis'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''nis''.
+* '''Reflexive:''' Each child feeds ''nemself''.
+
+===No pronouns===
+
+Many nonbinary people prefer not to be referred to by pronouns of any kind; see below for statistics. This can be because they have learned that any set of pronouns can potentially feel uncomfortable for them ([[gender dysphoria]]). In fiction and other writing, avoiding the use of any pronouns for a person can be used to avoid giving any sign of that person's gender. Instead of using pronouns, a person can be referred to by their name, a word that describes them, or the sentence can be rephrased.
+
+While the grammatical labels on the sample sentences below are no longer correct, the sentences can be adjusted to exclude pronouns while still talking about a specific person.
+
+* '''Nominative:''' ''(Demonstrative + noun replaces pronoun)'' When I tell someone a joke, that person laughs.
+* '''Accusative:''' ''(Eliminated second reference to the person)'' I greet my friend with a hug.
+* '''Pronominal possessive:''' ''(Replaced with an "it" that technically has no antecedent but clearly refers to the possessed thing)'' When someone does not get a haircut, it grows long.
+* '''Predicative possessive:''' ''(Possessive eliminated)'' If my mobile phone runs out of power, my friend lends me another.
+* '''Reflexive:''' ''(Reflexive emphasizing independence replaced with adverb)'' Each child gets food independently.
+
+Using names or descriptions without changing the sentence structure:
+
+* '''Nominative:''' When I tell ''Taylor'' a joke ''Taylor'' laughs.
+* '''Accusative:''' When I greet ''Ash'' I hug ''Ash''.
+* '''Pronominal possessive:''' When ''the kid'' does not get a haircut, ''the kid's'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''the friend's''.
+* '''Reflexive:''' ''Morgan'' feeds ''Morgan''.
+
+Other noteworthy techniques for removing third-person pronouns from a sentence include: 
+
+*'''Passive voice:''' "Taylor's mopping the kitchen. When ''he'' finishes, we'll go for a walk" becomes "Taylor's mopping the kitchen. When it's done, we'll go for a walk." Here "it" refers to the kitchen or maybe the task of mopping, and we use passive voice because there's no need to repeat who's doing it.
+*'''Second person:''' Instead of talking about someone in third person, why not talk to them instead? Say you're talking to Kevin and Elisa, who prefers no third-person pronouns, is in the room. You could tell Kevin, "I'd love to go with you for coffee, but Elisa's already claimed me for the evening," but if you do that and want to start expanding on what Elisa's up to, you might be tempted to use third-person pronouns. Instead you could shift to Elisa and say "but ''you've'' got me booked for the evening," and then Elisa could tell about the plans without being spoken for.
+*'''Substitute an article for a possessive pronoun:''' "Morgan couldn't find his coat" becomes "Morgan couldn't find the coat." "Ash broke her toe" becomes "Ash broke a toe." 
+*'''Other ways to rephrase.''' "The alien slithered closer, and its eyes glowed" becomes "The alien slithered closer, eyes glowing."
+
+'''In use for real nonbinary people:'''
+* Thirty-six percent of the [http://cassolotl.tumblr.com/post/54769253277 lottelodge survey] answered "Just my name" to the question "What are your preferred pronouns?". (Multiple answers were permitted.)
+* In the 2016 Nonbinary Stats survey, 11% of participants were happy for people to avoid using pronouns when referring to them, and a further 5 people specified that they want people to use their name as a pronoun.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+===One===
+
+'''one, one, one’s, one’s, oneself'''. This is a standard English set of pronouns used for a hypothetical person whose gender is not specified.
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''one'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''one''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''one's'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''one's''.
+* '''Reflexive:''' Each child feeds ''oneself''.
+
+'''Usage:'''
+* In the 2016 Nonbinary Stats survey, only 3 participants were happy for people to use the pronoun ''one'' when referring to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+
+===Per===
+
+'''per (person), per, per, pers, perself'''. Called "person pronouns," these are meant to be used for a person of any gender. Compare Phelps's [[English neutral pronouns#Phe|phe]] pronouns, which are also based on the word "person." John Clark created "per" pronouns in a 1972 issue of the ''Newsletter of the American Anthropological Association''.&lt;ref name="d baron epicene"&gt;&lt;/ref&gt;
+
+'''Use in real life and non-fiction:''' Person pronouns were one of the sets of pronouns built in to MediaMOO for users to choose from.&lt;ref&gt;Laura Borràs Castanyer, ed. ''Textualidades electrónicas: Nuevos escenarios para la literatura.'' p. 158.&lt;/ref&gt; Richard Ekins and Dave King used these pronouns in the book ''The Transgender Phenomenon'' (2006).&lt;ref&gt;Richard Ekins and Dave King. ''The Transgender Phenomenon.'' Sage Publications, 2006.&lt;/ref&gt;
+
+'''Use in fiction:''' In Marge Piercy's feminist novel, ''Woman on the Edge of Time,'' 1976, Piercy used "per" pronouns for all citizens of a utopian future in which gender was no longer seen as a big difference between people.&lt;ref name="aetherluminarefs"&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''per'' laughs. (Or ''person'' laughs.)
+* '''Accusative:''' When I greet a friend I hug ''per''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''per'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''pers''.
+* '''Reflexive:''' Each child feeds ''perself''.
+
+'''Usage:''' Despite its apparently extensive use in literature, in the 2016 Nonbinary Stats survey, only one participant was happy for people to use the pronoun ''per'' when referring to per.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''On Pronoun Island:''' [http://pronoun.is/per http://pronoun.is/per]
+
+
+===She===
+
+'''she, her, her, hers, herself'''. Often called female pronouns, although in standard usage, they're not used exclusively for women. Grammarians agree that it is standard and acceptable for this set to be used for women, female animals, and ships. The set is also poetically used for countries and fields of studies, which grammarians also see as acceptable. Some feminists recommend replacing "gender-neutral he" with "gender-neutral she." "In 1970, Dana Densmore’s article “Speech is the Form of Thought” appeared in No More Fun and Games: A Journal of Female Liberation; Densmore is evidently the first U.S. advocate of 'she' as a gender-neutral pronoun, a solution many writers, particularly academic writers, favor today."&lt;ref name="bustillos 250"&gt;&lt;/ref&gt; 1974, Gena Corea recommended replacing the "gender-neutral he" with a "gender-neutral she," and like Denmore, argued that the word "she" would be understood to include the word "he."&lt;ref name="d baron epicene"&gt;&lt;/ref&gt;
+
+'''Use as a gender-neutral pronoun in fiction:'''
+* Anne Leckie's science fiction novels ''Ancillary Justice'' (2013) and ''Ancillary Sword'' (2014) were set in a futuristic society that is indifferent to gender, so all the characters are called by gender-neutral "she" pronouns, leaving their actual gender and sex undisclosed. Leckie says she had an assumption at the time that gender is binary, so these are likely not non-binary characters.&lt;ref&gt;Geek's Guide to the Galaxy, "Sci-fi's hottest new writer won't tell you the sex of her characters." October 11, 2014. ''Wired.'' [http://www.wired.com/2014/10/geeks-guide-ann-leckie/ http://www.wired.com/2014/10/geeks-guide-ann-leckie/]&lt;/ref&gt;
+* Cartoonist Rebecca Sugar [http://www.reddit.com/user/RebeccaSugar explained] that in her animated science fiction series, ''Steven Universe,'' the alien people called Gems really have no sex or gender, even though they all look like women. For this reason, the Gems are only arbitrarily called by "she" pronouns. Sugar said, "Technically, there are no female Gems! There are only Gems! [...] Why not look like human females? That's just what Gems happen to look like! [...] There's a 50 50 chance to use some pronoun on Earth, so why not feminine ones-- it's as convenient as it is arbitrary!"&lt;ref&gt;Rebecca Sugar. ''Reddit.'' [http://www.reddit.com/user/RebeccaSugar http://www.reddit.com/user/RebeccaSugar]&lt;/ref&gt; This is a gender-neutral use of "she" pronouns.
+
+
+'''Use for real non-binary people:''' There are non-binary gender people who ask people to use "she" pronouns for them, such as actor [[Nonbinary celebrities#Rain Dove|Rain Dove]], singer-songwriter [[Nonbinary celebrities#Ellie Jackson|Ellie Jackson]], musician [[Nonbinary celebrities#JD Samson|JD Samson]], singer [[Nonbinary celebrities#Kieran Strange|Kieran Strange]], and actor [[Nonbinary celebrities#Tilda Swinton|Tilda Swinton]].
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''she'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''her''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''her'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''hers''.
+* '''Reflexive:''' Each child feeds ''herself''.
+
+'''Usage:'''
+* In the 2016 Nonbinary Stats survey, 25% of participants were happy for people to use ''he'' pronouns when referring to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''On Pronoun Island:''' [http://pronoun.is/she http://pronoun.is/she]
+
+===S/he===
+
+'''s/he (sHe), hir, hir, hirs, hirself'''. A set of English gender-neutral pronouns used in books by Timothy Leary in the 1970s, and then by counterculture writers influenced by Leary. For example, in Robert Anton Wilson's book ''Prometheus Rising'' (first published in 1983), which is strongly based on Leary's writings about consciousness, Wilson uses SHe [sic] pronouns to include humans of any kind, as short for "she or he."&lt;ref&gt;Robert Anton Wilson, ''Prometheus Rising.'' Second edition. Grand Junction, Colorado: Hilaritas Press, 2016. Page 55.&lt;/ref&gt; It was used in non-fiction writings about spirituality by the Elf Queen's Daughters and the Silver Elves from the 1970s to the present 2010s. It was also used in fiction in Peter David's ''Star Trek'' books.&lt;ref name="aetherlumina feb 29 2012"&gt;&lt;/ref&gt; Sometimes with mixed caps, as shown. This pronoun was not entered in the Nonbinary Stats survey in 2016.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt; However, notable nonbinary people who have asked to be called by s/he pronouns include revolutionary communist [[Leslie Feinberg]]. In hir book ''Trans Liberation: Beyond Pink or Blue,'' Feinberg wrote, 
+
+&lt;blockquote&gt;"I asked Beacon Press to use ''s/he'' [sic] in the author description of me on the cover of ''Transgender Warriors'' [another book by Feinberg]. That pronoun is a contribution from the women's liberation movement. Prior to that struggle, the pronoun 'he' was almost universally used to describe humankind-- 'mankind.' So ''s/he''' opened up the pronoun to include 'womankind.' I used ''s/he'' on my book jacket because it is recognizable as a gender-neutral pronoun to people. But I personally prefer the pronoun ''ze'' because, for me, it melds mankind and womankind into humankind."&lt;ref&gt;Leslie Feinberg, ''Trans Liberation: Beyond Pink or Blue.'' Page 71.&lt;/ref&gt;&lt;/blockquote&gt;
+
+At different times, Feinberg has asked to go by "s/he," "ze," or "she" pronouns depending on hir needs and the message meant to send. As quoted in hir obituary, Feinberg had said, "I care which pronoun is used, but people have been disrespectful to me with the wrong pronoun and respectful with the right one. It matters whether someone is using the pronoun as a bigot, or if they are trying to demonstrate respect."&lt;ref&gt;Minnie Bruce Pratt, "Transgender Pioneer and Stone Butch Blues Author Leslie Feinberg Has Died." ''Advocate.'' November 17, 2014. [http://www.advocate.com/arts-entertainment/books/2014/11/17/transgender-pioneer-leslie-feinberg-stone-butch-blues-has-died http://www.advocate.com/arts-entertainment/books/2014/11/17/transgender-pioneer-leslie-feinberg-stone-butch-blues-has-died]&lt;/ref&gt;. Another notable nonbinary person, singer-songwriter [[Nonbinary celebrities#Genesis Breyer P-orridge|Genesis Breyer P-orridge]] asks to be referred to by a significantly different version of the s/he pronouns: '''s/he, h/er, h/er, h/ers, h/erself'''.&lt;ref&gt;"Genesis Breyer P-orridge." [http://www.genesisbreyerporridge.com/genesisbreyerporridge.com/Genesis_BREYER_P-ORRIDGE_Home.html http://www.genesisbreyerporridge.com/genesisbreyerporridge.com/Genesis_BREYER_P-ORRIDGE_Home.html]&lt;/ref&gt; This version of the s/he pronouns seems to be less widely known, but there are many different versions of them in use.
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''s/he'' laughs. (Or ''sHe'' laughs. Or ''s/He'' laughs.)
+* '''Accusative:''' When I greet a friend I hug ''hir''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''hir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''hirs''.
+* '''Reflexive:''' Each child feeds ''hirself''.
+
+===They===
+
+See main article: [[singular they]].
+
+===Thon===
+
+'''thon, thon, thons, thon's, thonself'''. American composer Charles Crozat Converse of Erie, Pennsylvania proposed this pronoun in 1858, based on a contraction of "that one."&lt;ref name="barge viewpoints"&gt;Fred Barge, "Viewpoints from involvement -- 'thon'". ''Dynamic Chiropractic.'' August 14, 1992. [http://www.dynamicchiropractic.com/mpacms/dc/article.php?id=43422 http://www.dynamicchiropractic.com/mpacms/dc/article.php?id=43422]&lt;/ref&gt; The Gender-Neutral Pronoun FAQ gives this pronoun's date of origin as 1884 instead,&lt;ref name="aetherlumina listing 2"&gt;&lt;/ref&gt; while ''Words and Women'' gives 1859.&lt;ref&gt;Casey Miller and Kate Swift, ''Words and Women.'' Page 130.&lt;/ref&gt; The "thon" pronoun was included in some dictionaries: Webster's International Dictionary (1910), and Funk &amp; Wagnalls New Standard Dictionary (1913), and Webster's Second International (1959). Funk &amp; Wagnalls offered these sentences to show how it should be used: "If Harry or his wife comes, I will be on hand to greet thon," and "Each pupil must learn thon's lesson." "Thon" was used throughout the writings by the founders of chiropractic, B.J. and D.D. Palmer, in 1910.&lt;ref name="barge viewpoints"&gt;&lt;/ref&gt; "Thon" is therefore familiar to chiropractors, and sometimes still appears in chiropractic writings, and in works by people who were influenced by that field. 
+
+'''In use for real nonbinary people:'''
+* In the 2015 Nonbinary Stats survey, 3 people out of 2901 respondents wished to be called by "thon."&lt;ref name="cassolotl 2015"&gt;&lt;/ref&gt;
+* In the 2016 Nonbinary Stats survey, one person out of over 3,000 said that they were happy for people to use ''thon'' to refer to thon.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''thon'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''thon''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''thons'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''thon's''.
+* '''Reflexive:''' Each child feeds ''thonself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/they http://pronoun.is/they]
+
+===Ve===
+
+There are several sets of pronouns that use "ve" in the nominative form, the earliest of which was created in 1970. In the 2016 Nonbinary Stats survey, seven people entered seven entirely different sets of pronouns starting with ''ve''.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt; 
+
+'''ve, ver, vis, vis, verself''' is the exact set used by Egan, Hulme, and Reynolds (see below). The set's date of creation and creator are not yet known to the editors of this wiki. A nearly-identical but incompletely recorded set was '''ve, vir, vis, (not recorded), (not recorded)''', which was created in 1970, and published in the May issue of ''Everywoman.''&lt;ref name="aetherlumina listing 2"&gt;&lt;/ref&gt;&lt;ref name="d baron epicene"&gt;&lt;/ref&gt; 
+
+'''Use in fiction:'''
+* In Keri Hulme's mystery novel ''The Bone People'' (1984), a character is called by these ve pronouns.&lt;ref&gt;Outis, "Gender-neutral characters and pronouns." November 20, 2013. [https://www.goodreads.com/topic/show/1580481-gender-neutral-characters-and-pronouns https://www.goodreads.com/topic/show/1580481-gender-neutral-characters-and-pronouns]&lt;/ref&gt;
+* Used  by Greg Egan for non-binary gender characters-- including artificial intelligences, as well as transgender humans who identify as a specific nonbinary gender they call "asex"-- in his novels ''Distress'' (1995) and ''Diaspora'' (1998).&lt;ref&gt;John McIntosh, "ve, vis, ver." [http://www.urticator.net/essay/0/30.html]&lt;/ref&gt; Egan is sometimes credited with having created these pronouns, but it doesn't appear that he claims to have done so.
+* In Alastair Reynolds's science fiction novel ''On the Steel Breeze'' (2013) one character is called by these ve pronouns. The novel never gives any exposition about this character's sex, gender, or pronouns, and ver gender-neutrality doesn't influence the plot. The lack of remark gives the impression that a nonbinary gender is unremarkable, but this is also why some readers thought the pronouns were a misprint.&lt;ref&gt;Outis, "Gender-neutral characters and pronouns." November 20, 2013. [https://www.goodreads.com/topic/show/1580481-gender-neutral-characters-and-pronouns https://www.goodreads.com/topic/show/1580481-gender-neutral-characters-and-pronouns]&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''ve'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''ver''. (Or: "I hug ''vir''.) 
+* '''Pronominal possessive:''' When someone does not get a haircut, ''vis'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''virs''.
+* '''Reflexive:''' Each child feeds ''verself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/ve http://pronoun.is/ve]
+
+===Xe===
+
+There are several similar sets of neologistic gender-neutral pronouns that use "[[English neutral pronouns#Xe|xe]]," "ze," "[[English neutral pronouns#Zhe|zhe]]," or "[[English neutral pronouns#Zie|zie]]" in nominative form. Regardless of spelling, their nominative form is pronounced "zee," and was based on the pronoun [[English neutral pronouns#Sie|sie]]. The earliest documented version was created in 1972.&lt;ref name="d baron epicene"&gt;&lt;/ref&gt; In alphabetical order, versions of this pronoun set include:
+
+====Xe, hir====
+
+'''xe, hir, hir, hirs, hirself'''. Compare the similar "[[English neutral pronouns#Ze|ze]], hir..." set, which is apparently used in more literature and by more people. The "xe" version was "Used on alt.support.intergendered and alt.support.crossdressing," transgender communities on the Internet in the 1990s.&lt;ref&gt;"GNP FAQ." [https://web.archive.org/web/20120229202924/http:/aetherlumina.com/gnp/listing.html]&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''xe'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''hir''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''hir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''hirs''.
+* '''Reflexive:''' Each child feeds ''hirself''.
+
+====Xe, xir====
+
+'''xe, xir, xir, xirs, xirself'''. This pronoun set saw some use on the Internet at least as early as 1998.&lt;ref&gt;Benton, "ADOM and sex." rec.games.roguelike.adom (newsgroup). May 18, 1998. [https://groups.google.com/forum/#!msg/rec.games.roguelike.adom/6RBaViEF0gE/v33A7kKysiwJ https://groups.google.com/forum/#!msg/rec.games.roguelike.adom/6RBaViEF0gE/v33A7kKysiwJ]&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''xe'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''xir''. 
+* '''Pronominal possessive:''' When someone does not get a haircut, ''xir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''xirs''.
+* '''Reflexive:''' Each child feeds ''xirself''.
+
+====Xe, xyr (xem)====
+
+'''xe, xyr (xem), xyr, xyrs, xyrself (xemself)'''. This pronoun set makes its earliest known appearance in 1993 in a conversation in an autism mailing list on the Internet.&lt;ref&gt;Jim Sinclair, "Re: Jim and Steve's snoring discussion." September 14, 1993. bit.listserv.autism, Usenet. [https://groups.google.com/forum/?fromgroups#!msg/bit.listserv.autism/2pyrOMzt_nQ/5J-RU5P3hnIJ https://groups.google.com/forum/?fromgroups#!msg/bit.listserv.autism/2pyrOMzt_nQ/5J-RU5P3hnIJ]&lt;/ref&gt;&lt;ref&gt;"Xe." ''Wiktionary.'' [http://en.wiktionary.org/wiki/xe http://en.wiktionary.org/wiki/xe]&lt;/ref&gt; The "xem" version of this pronoun set appears in a printed discussion from the mailing list of Autism Network International in 2000, with the explanation that it "was originally used to refer to an intersexed person, but is also used to refer to a person of any gender."&lt;ref&gt;J. Blackburn, K. Gottschewski, Elsa George, and Niki L. "A discussion about Theory of Mind : From an Autistic Perspective," Proceedings of ''Autism Europe's 6th International Congress'', Glasgow 19-21 May 2000, in print. [https://web.archive.org/web/20060213070451/http://www.autistics.org/library/AE2000-ToM.html https://web.archive.org/web/20060213070451/http://www.autistics.org/library/AE2000-ToM.html]&lt;/ref&gt; This pronoun set was recommended in 2005 by Jonathan de Boyne Pollard, with the version that includes "xem," and both "xyrself" and "xemself."&lt;ref&gt;Jonathan de Boyne Pollard. "'Xe', 'xem', and 'xyr' are sex-neutral pronouns and adjectives." 2005. [https://web.archive.org/web/20071010095912/http://homepages.tesco.net/J.deBoynePollard/FGA/sex-neutral-pronouns.html https://web.archive.org/web/20071010095912/http://homepages.tesco.net/J.deBoynePollard/FGA/sex-neutral-pronouns.html]&lt;/ref&gt;
+
+'''Use for real nonbinary people:'''
+* In the 2016 Nonbinary Stats survey, 10% of people said they'd be happy for people to use ''xe/xem/xyr/xyrs/xemself'' to refer to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''xe'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''xem''. (Or hug ''xyr''.)
+* '''Pronominal possessive:''' When someone does not get a haircut, ''xyr'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''xyrs''.
+* '''Reflexive:''' Each child feeds ''xyrself''. (Or feeds ''xemself''.)
+
+'''On Pronoun Island:''' [http://pronoun.is/xe http://pronoun.is/xe]
+
+===Ze===
+
+There are several similar sets of neologistic gender-neutral pronouns that use "xe," "ze," "zhe," or "zie" in nominative form. Regardless of spelling, their nominative form is pronounced "zee," and was based on the pronoun [[English neutral pronouns#Sie|sie]]. The earliest documented version was created in 1972.&lt;ref name="d baron epicene"&gt;&lt;/ref&gt; "Ze, hir" is the best-attested of the "ze" pronoun sets; see the Talk page for other sets with this nominative form.
+
+====Ze, hir====
+
+'''ze, hir, hir, hirs, hirself'''. Compare the similar "[[English neutral pronouns#Xe|xe]], hir..." set, which is the version less attested by print sources. Sarah Dopp wrote a blog post about the "ze" version in 2006.&lt;ref&gt;Sarah Dopp, "How transgender folk are fixing an age-old literary problem." August 13, 2006. [http://www.sarahdopp.com/blog/2006/how_transgender_folk_are_fixing_an_age_o/ http://www.sarahdopp.com/blog/2006/how_transgender_folk_are_fixing_an_age_o/]&lt;/ref&gt; Leslie Feinberg also used the "ze" version in the book ''Drag King Dreams'' (2006),&lt;ref&gt;Leslie Feinberg, ''Drag King Dreams.'' New York: Carroll &amp; Graf, 2006.&lt;/ref&gt; Erika Lopez used the "ze" version in ''The Girl Must Die: A Monster Girl Memoir'' (2010).&lt;ref&gt;Erika Lopez, ''The Girl Must Die: A Monster Girl Memoir.'' Hicken, Jeffrey, San Francisco: Monster Girl Media, 2010.&lt;/ref&gt; M. J. Locke used the "ze" version in the book ''Up Against It'' (2011).&lt;ref&gt;M. J. Locke, ''up Against It.'' New York: Tor, 2011.&lt;/ref&gt;
+
+'''Use in fiction:'''
+* Kameron Hurley used these pronouns in the fantasy novels ''The Mirror Empire'' and ''Empire Ascendant,'' for characters who are ''ataisa,'' an in-between gender role where their culture puts everyone who has a nonbinary gender.&lt;ref&gt;Kameron Hurley, "Beyond He-Man and She-Ra: Writing nonbinary characters." [https://intellectusspeculativus.wordpress.com/2014/09/03/guest-post-beyond-he-man-she-ra-writing-non-binary-characters-by-kameron-hurley/ https://intellectusspeculativus.wordpress.com/2014/09/03/guest-post-beyond-he-man-she-ra-writing-non-binary-characters-by-kameron-hurley/]&lt;/ref&gt;
+* In Seth Dickinson's short science fiction story, "[http://www.beneath-ceaseless-skies.com/stories/sekhmet-hunts-the-dying-gnosis-a-computation/ Sekhmet Hunts the Dying Gnosis: A Computation]" (2014), a transhuman character of "uncertain ... sex" is called by the pronoun "ze," which only appears in the nominative form.&lt;ref&gt;Seth Dickinson, "Sekhmet Hunts the Dying Gnosis: A Computation." ''Beneath Ceaseless Skies,'' issue 143. March 20, 2014. [http://www.beneath-ceaseless-skies.com/stories/sekhmet-hunts-the-dying-gnosis-a-computation/ http://www.beneath-ceaseless-skies.com/stories/sekhmet-hunts-the-dying-gnosis-a-computation/]&lt;/ref&gt;
+* In K. A. Cook's short story "Blue Paint, Chocolate and Other Similes," in ''Crooked Words,'' when the narrator Ben recognizes that Chris identifies as nonbinary, Ben begins using "ze, hir" pronouns for Chris, before finding a good moment to ask for Chris's actual pronoun preference.&lt;ref&gt;K. A. Cook, "Blue Paint, Chocolate and Other Similes." ''Crooked Words.'' Unpaged.&lt;/ref&gt; In another story by K. A. Cook, "The Differently Animated and Queer Society," the character Pat goes by "ze, hir" pronouns, and uses them for other characters before finding out each of their own pronoun preferences.&lt;ref&gt;K. A. Cook, "The Differently Animated and Queer Society." ''Crooked Words.'' Unpaged.&lt;/ref&gt;
+
+'''Use for real non-binary people:''' 
+* [[Nonbinary celebrities#Kate Bornstein|Kate Bornstein]] used them in the books ''Nearly Roadkill'' (1996) (with Caitlin Sullivan June)&lt;ref&gt;Caitlin Sullivan June and Kate Bornstein. ''Nearly Roadkill: An Infobahn erotic adventure.'' New York: Serpent's Tail, 1996, p. 10.&lt;/ref&gt;, and ''My Gender Workbook'' (1998) in reference to hirself, and to other specific transgender people, as well as hypothetical persons of unspecified gender.&lt;ref&gt;Kate Bornstein, ''My Gender Workbook.'' 1st ed. 1998, p. 106-107, 119, 130-131, 154, 248.&lt;/ref&gt;
+* Kate Bornstein goes by these "ze, hir" pronouns. Leslie Feinberg asked to be called by "ze, hir" pronouns, along with "zie, hir" and "she."&lt;ref&gt;Minnie Bruce Pratt, "Transgender Pioneer and Stone Butch Blues Author Leslie Feinberg Has Died." ''Advocate.'' November 17, 2014. [http://www.advocate.com/arts-entertainment/books/2014/11/17/transgender-pioneer-leslie-feinberg-stone-butch-blues-has-died http://www.advocate.com/arts-entertainment/books/2014/11/17/transgender-pioneer-leslie-feinberg-stone-butch-blues-has-died]&lt;/ref&gt; In a magazine interview from 2014, Gabriel Antonio and another anonymous person both asked to be called by these pronouns.&lt;ref&gt;Al Donato, "He And She, Ze And Xe: The Case For Gender-Neutral Pronouns." ''The Plaid Zebra.'' [http://www.theplaidzebra.com/ze-xe-case-gender-neutral-pronouns/ http://www.theplaidzebra.com/ze-xe-case-gender-neutral-pronouns/]&lt;/ref&gt;
+* In the 2016 Nonbinary Stats survey, 9% of people said they'd be happy for people to use ''"zie/hir/hir/hirs/hirself, or some variation thereof"'' to refer to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''ze'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''hir''.
+* '''Pronominal possessive:''' When someone does not get a haircut, ''hir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''hirs''.
+* '''Reflexive:''' Each child feeds ''hirself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/ze http://pronoun.is/ze]
+
+===Zie===
+
+'''zie, zir (zim), zir, zirs, zirself'''. (Compare the most similar pronoun set, "ze, zir", and other similar pronouns, "xe" and "zhe".) The Gender Neutral Pronoun FAQ says this set (with the "zie" spelling, and accusative "zir") was widely used on the Internet at the time, but doesn't know when it was created.&lt;ref&gt;"GNP FAQ." [https://web.archive.org/web/20120229202924/http:/aetherlumina.com/gnp/listing.html]&lt;/ref&gt; Andrés Pérez-Bergquist recommended a version of this set (with the "zie" spelling, and accusative "zim") in 2000, but claims not to have created it.&lt;ref&gt;Andrés Pérez-Bergquist, "Gender-neutral pronouns: The value of zie." 2000. [http://santiago.mapache.org/nonfiction/essays/zie.html http://santiago.mapache.org/nonfiction/essays/zie.html]&lt;/ref&gt;
+
+'''Use in fiction:'''
+* This set (with the "zie" spelling, and accusative "zir") is in the fantasy setting of Bard Bloom's ''World Tree'', for the many characters with sexes other than female or male. Many species in this setting have such sexes, including the protagonist of a book in that setting, [http://www.amazon.com/Sythyrys-Journal-Chronicle-Transaffection-Adventure/dp/1451562934 Sythyry's Journal], which was first serialized as a blog starting in 2002. The setting also has a role-playing game handbook, ''World Tree: A role playing game of species and civilization'' (2001).
+
+'''Use for real nonbinary people:'''
+* In the 2016 Nonbinary Stats survey, 8 people (around 0.3%) said they'd be happy for people to use ''zie/zir'' (or some similar spelling) to refer to them.&lt;ref name=NBGQ2016&gt;&lt;/ref&gt;
+
+'''Forms:'''
+* '''Nominative:''' When I tell someone a joke ''zie'' laughs.
+* '''Accusative:''' When I greet a friend I hug ''zir''. (Or hug ''zim''.)
+* '''Pronominal possessive:''' When someone does not get a haircut, ''zir'' hair grows long.
+* '''Predicative possessive:''' If I need a phone, my friend lets me borrow ''zirs''.
+* '''Reflexive:''' Each child feeds ''zirself''.
+
+'''On Pronoun Island:''' [http://pronoun.is/zie http://pronoun.is/zie]
+
+==See also==
+* [[Pronouns]]
+* [[Gender neutral language in English]]
+* [[Glossary of English gender and sex terminology]]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Language]][[Category:Gender neutral language]]

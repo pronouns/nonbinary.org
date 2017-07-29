@@ -1,0 +1,2 @@
+{{Stub}}
+This site is powered by [http://www.mediawiki.org/ MediaWiki], read the [http://www.mediawiki.org/wiki/Help:Contents MediaWiki help pages] for help with using and editing a wiki.

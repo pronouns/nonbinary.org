@@ -1,0 +1,35 @@
+{{#switch:{{{small|}}}
+| left = 
+  {{mbox/core
+  | small      = left
+  | type       = {{{type|}}}
+  | filename   = {{{filename|}}}
+  | image      = {{#if:{{{smallimage|}}}
+                 | {{{smallimage}}}
+                 | {{{image|}}}
+                 }}
+  | imageright = {{#if:{{{smallimageright|}}}
+                 | {{{smallimageright}}}
+                 | {{{imageright|}}}
+                 }}
+  | style      = {{{style|}}}
+  | textstyle  = {{{textstyle|}}}
+  | text       = {{#if:{{{smalltext|}}}
+                 | {{{smalltext}}} 
+                 | {{{text}}} 
+                 }}
+  }}
+| #default = 
+  {{mbox/core
+  | type       = {{{type|}}}
+  | filename   = {{{filename|}}}
+  | image      = {{{image|}}}
+  | imageright = {{{imageright|}}}
+  | style      = {{{style|}}}
+  | textstyle  = {{{textstyle|}}}
+  | text       = {{{text}}}
+  }}
+}}&lt;noinclude&gt;
+{{Documentation}}
+&lt;!-- Add categories and interwikis to the /doc subpage, not here! --&gt;
+&lt;/noinclude&gt;

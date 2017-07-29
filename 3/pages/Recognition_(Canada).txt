@@ -1,0 +1,219 @@
+[[File:TransGender Equality-Symbol black-and-white.svg|thumb|Transgender equality symbol.]]
+[[Recognition (Canada)]]. This article gives information on [[recognition]] of [[nonbinary]] gender identities in Canadian services and businesses.
+
+==Template==
+When expanding the tables:
+
+Colours:
+
+* green (#9f9) is not asking at all
+* blue (#9ff) is free form field
+* yellow (#ffb) is "asks, but optional" or has option for "None", "prefer not to state", etc.
+* purple (#f9d) is for mandatory selection which attempts to include other possibilities (such as "other")
+* red (#f99) is mandatory selection, allowing only [[female]] or [[male]] (or for title, only things such as "Dr.")
+* white background is some other situation (describe)
+
+Fields:
+
+* title is for title selection
+* gender is for explicit [[gender]] (or "[[sex]]") selection
+
+== Finance ==
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Company
+! Title
+! Gender
+! Notes
+|-
+| CIBC (personal banking)
+| style="background-color:#ffb;"| Optional: Mr, Mrs, Ms, Miss, Other
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Bank of Montreal (personal banking)
+| style="background-color:#ffb;"| Optional: Mr, Mrs, Miss, Ms, Dr
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| PC Financial (personal banking)
+| style="background-color:#f9d;"| Mandatory: Mr, Mrs, Miss, Ms, Dr, Other
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| TD Canada Trust (personal banking)
+| style="background-color:#f99;"| Mandatory: Dr, Miss, Mr, Mrs, Ms
+| style="background-color:#9f9;"| Doesn't ask
+| Agents at the bank cannot fix this problem.  The computer system will not allow the title field to be deleted or left blank.  A branch manager gave information about how to elevate the concern to 'head office' and that was done on 2015-07-02.  As of letter written July 17, 2005 from TD Vice President (Community Relations) Scott Mullin, "A review across TD was undertaken and unfortunately due to the interdependencies of various technology systems, we are unable to immediately remove your title [...] However, we recognize the importance of the issue you have raised, and will be conducting further investigations to explore possible solutions to this issue.  Please be assured that we are taking your concern very seriously."
+|-
+| Royal Bank (personal banking)
+| style="background-color:#f99;"| Mandatory: Mr, Mrs, Ms, Miss, Dr, Rev, Sr
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Tangerine (personal banking)
+| style="background-color:#f99;"| Mandatory: with options such as Dr, Rev, Fr, etc.
+| style="background-color:#9f9;"| Doesn't ask
+|-
+| Scotiabank (personal banking)
+| style="background-color:#f99;"| Mandatory: Mr, Ms, Mrs, Miss, Dr
+| style="background-color:#f99;"| Mandatory: Female, Male
+||
+|}
+
+== Utilities ==
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Company
+! Title
+! Gender
+! Notes
+|-
+| Toronto Hydro
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Teksavvy (Internet)
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Beanfield Metroconnect (Internet)
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|}
+
+== Loyalty Programmes ==
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Company
+! Title
+! Gender
+! Notes
+|-
+| PC Plus (President's Choice)
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Vicinity
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+| division of Rogers
+|-
+| Via Préférence
+| style="background-color:#ffb;"| Optional: Miss, Ms, Mrs, Mr, Dr
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Shoppers Optimum
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#f99;"| Mandatory: Female, Male
+| programme is known to be extremely gender-centric
+|-
+| Air Miles
+| style="background-color:#ffb;"| Optional: Dr, M, Mme, Mlle, Mr, Mrs, Ms, Miss
+| style="background-color:#f99;"| Mandatory: Female, Male
+||
+|-
+| Aeroplan
+| style="background-color:#f99;"| Mandatory: many choices like "Rev", "Hon", etc.
+| style="background-color:#f99;"| Mandatory: Male, Female
+|}
+
+
+== Insurance ==
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Company
+! Title
+! Gender
+! Notes
+|-
+| PC Insurance (Home)
+| style="background-color:#ffb;"| Has "None/Other" option in dropdown
+| style="background-color:#9f9;"| Doesn't ask
+| "Using a nickname for your first name is ok"
+|-
+| State Farm (Home)
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| TD Insurance (Home)
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#f99;"| Mandatory: Male, Female
+| also has mandatory field for marital status
+|}
+
+== Cultural Memberships ==
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Company
+! Title
+! Gender
+! Notes
+|-
+| Art Gallery of Hamilton
+| style="background-color:#ffb;"| Optional: Mr, Ms, Mrs, Miss, Dr, Hon, Prof
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Art Gallery of Ontario
+| style="background-color:#ffb;"| Optional: Mr, Mrs, Ms, Miss, Dr, other
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Royal Ontario Museum
+| style="background-color:#f9d;"| Mandatory: Mr, Mrs, Mis, Miss, Dr, other
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Ontario Science Centre
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Science North
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|}
+
+== Misc ==
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Company
+! Title
+! Gender
+! Notes
+|-
+| PRESTO card registration
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Bike Share Toronto
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#f99;"| Mandatory: Male, Female
+| 2015-07-01: sent email inquiry about removing gender field.  On 2015-09-08 received reply from General Manager Scott Hancock saying that upgrades are planned for October (but may be disrupted by other business) and requesting feedback on a new sign-up form.
+|-
+| Toronto Green P (parking)
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|-
+| Toronto Public Library
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#ffb;"| Must sign up in person and they will guess your gender and enter it.  They have an "N/A" option on their screen and you can request it.
+||
+
+|}
+
+==See also==
+*[[Recognition (UK)]]
+*[[Recognition (USA)]]
+
+[[Category:Recognition]][[Category:Practical resources]][[Category:Recognition (Canada)]][[Category:Canada]]

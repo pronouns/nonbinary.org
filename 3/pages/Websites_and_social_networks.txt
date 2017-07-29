@@ -1,0 +1,216 @@
+{{Stub}}
+[[Websites and social networks]] that do or don't give [[recognition]] to [[nonbinary]] [[gender identity]] in their user forms. For nonbinary people, the most undesirable sites are those that require all users to mark their [[gender]] as either "[[female]]" or "[[male]]," with no other options. Similarly bad are sites that mark this choice as "[[sex]]" rather than "[[gender]]". Sites that are more friendly to nonbinary people are those that let users write in their own gender, give a wide variety of gender options to choose from a drop-down menu, give a third gender option such as "[[other]]", or don't ask about gender at all. Some sites also ask about a user's [[gender neutral titles|title]] or [[pronouns]], and ideally let users include more than the standard [[binary]] options for these.
+
+==How to use this page==
+
+Please add to the entries on this page. 
+
+For easy skimming, the tables on this page use a colour code, loosely based on traffic lights, to show how friendly a site is to nonbinary people: 
+
+* blue (#9ff) means it's friendly to nonbinary people. For example, you can write in your gender (even blank it), opt out of showing it, or it doesn't ask about gender at all.
+* yellow (#ffb) means it's partly friendly to nonbinary people. For example, users must choose between showing a gender that is female, male, or other.
+* red (#f99) means it's not friendly at all to nonbinary people. For example, it may require all users to be openly listed as male or female.
+* white background means we don't have information about this yet, or some other situation (describe)
+
+If you want to quickly create an entry for a site, but you don't want to tangle with the tables, please use this as a template for writing a draft of an entry in list form instead, which you can put on the Talk page, and an administrator will put it into the table for you:
+
+: '''Site name,''' web address, and purpose.
+
+: '''User sex/gender:''' Does the software require users to choose a sex/gender? Does it call it a sex or a gender? What options does it give for users to choose from? Does it allow write-in genders?
+
+: '''User titles:''' Does the software call users by titles and honorifics? What options does it give for users to choose their own titles? Does it allow write-in titles?
+
+: '''User pronouns:''' Does the software call users by pronouns? What options does it give to users for choosing their own pronouns? Does it allow write-in titles?
+
+: '''Legal name policy:''' Does the site require users to give their legal name? Yes/no. Note how this is enforced.
+
+: '''Other notes:''' Tell anything else relevant about how the site's software or administrators treat trans, nonbinary, and intersex issues. 
+
+==Social media and Forums==
+
+Some websites allow one to hide gender or sex selection or choose none, choose other, or (more rarely) provide trans* and intersex selections. Listed in alphabetical order.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Website
+! User gender (and pronouns)
+! Legal name policy
+! Notes
+|-
+| [http://asexuality.org AVEN- Asexual Visibility and Education Network].
+| style="background-color:#9ff;"| The forum's gender field is a write-in box.
+| 
+| 
+|-
+| [http://datebound.com/index.php Datebound]. [[Queer]] dating site.
+| style="background-color:#ffb;"| Options apart from male and female are [[transgender women|Transgendered Female]], [[transgender men|Transgendered Male]], [[Gender Variant]], and [[Intersexed]].
+| 
+| 
+|-
+| [http://www.deviantart.com/ DeviantArt]. Art community. 
+| style="background-color:#ffb;"| Calls this field "Sex." The user is required to choose from one of the three sex options given in the drop-down menu, which allows ‘Other’. Another drop-down menu allows the user to show or not show their sex selection on their profile. [http://nonbinary.org/wiki/File:DeviantArt_profile_evidence.jpg Evidence, 2015].
+| style="background-color:#9ff;"| No. The user profile has a field called "real name," but the user can put any name into it they want. Legal names are neither enforced nor commonly used on the site.
+| No title field. The site has history of administrators saying transphobic things to users. 'Other' as an option was once available, but taken away sometime prior to 2011. After a [[neutrois]] user was told to leave the site if [[pronouns#It|it]] "did not wish to state [its] gender", and the administrators told [[pronouns#it|it]] the field was about a user's genital sex and not gender identity, the backlash caused DeviantArt's administrators to backpedal and re-add "Other" as an option in late 2011.
+|-
+| [https://joindiaspora.com/ DIASPORA]. Social network. 
+| style="background-color:#9ff;"| [http://www.sarahmei.com/blog/2010/11/26/disalienation/ Gender is a text field].
+| 
+| 
+|-
+| [http://dot429.com/ dot429]. Queer professional network (akin to [http://linkedin.com LinkedIn]).
+| style="background-color:#ffb;"| Options include MTF, FTM, Intersex, and Queer.
+| 
+| 
+|-
+| [http://dreamwidth.org/ Dreamwidth]. Social blogging community. 
+| style="background-color:#ffb;"| Includes options ‘Other’ or ‘Rather not say.’
+| style="background-color:#9ff;"| No
+| No title field.
+|-
+| [https://ello.co/ Ello]. Social network. 
+| style="background-color:#9ff;"| Doesn't ask for gender information when creating a site account or have a gender section in user profiles.
+| 
+| 
+|-
+| [http://emptyclosets.com/ Empty Closets]. Forum and chat site with coming out resources. 
+| style="background-color:#9ff;"| Options include Transgender - MTF, Transgender - FTM, [[Genderqueer]], and a write-in field.
+| 
+| 
+|-
+| [http://www.etsy.com/ Etsy]. Indie sales of vintage and crafts
+| style="background-color:#9ff;"| Options include female, male, or "Rather not say," which hides the gender field on your profile.
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://facebook.com/ Facebook]. Social network. 
+| style="background-color:#ffb;"| Requires user to choose male or female when creating an account, but [http://www.slate.com/blogs/future_tense/2014/02/13/facebook_custom_gender_options_here_are_all_56_custom_options.html up to ten of 56 gender options] may be selected subsequently. A [http://rt.com/usa/236283-facebook-gender-custom-choice/ custom field] was added in 2014. Pronouns: Refers to a user as "she" or "he" depending on the gender they selected. A hack can make the software refer to a user as "they": [http://transitioningdownunder.com/post/46753530402/how-to-change-facebook-pronouns-to-they-them-their How to change Facebook pronouns to they]. 
+| style="background-color:#f99;"| Yes. Enforced. Administrators suspend the accounts of people who they think might be violating the legal name policy, which tends to mean anyone with an unusual or non-Western name, or whose name the administrators think don't match their profile photo.
+| Facebook often suspends the accounts of transgender women by claiming they violated the legal name policy, even those who give much proof that they were in fact using their legal names. Facebook also suspended the accounts of [[drag]] artists that were under their performance pseudonyms.
+|-
+| [http://fetlife.com/ FetLife]. BDSM and fetish community. 
+| style="background-color:#ffb;"| The options the site allows for apart from male and female in the gender field are: crossdresser/transvestite, trans - male to female, trans - female to male, transgender, [[gender fluid]], genderqueer, intersex, [[butch]], [[femme]], and not applicable.
+| 
+| 
+|-
+| [http://flickr.com/ Flickr]. Photography community.
+| style="background-color:#9ff;"| Allows ‘Other’ or ‘I’d rather not say’ (the latter leaves the field blank on the profile). [http://lottelodge.tumblr.com/post/48775669339/hey-well-done-flickr Evidence: screengrab, April 2013.]
+| 
+| 
+|-
+| [http://www.folkdirect.com/home/join.php Folkdirect]. Social network. 
+| style="background-color:#ffb;"| When signing up to the site, three gender fields are available: "Man", "Woman" and "[[third gender|Third]]".
+| 
+| 
+|-
+| [http://plus.google.com/ Google+]. Social network. 
+| style="background-color:#9ff;"| Gender field allows ‘Other,’ and one can toggle who can see the choice: anyone, extended circles, your circles, or only you.
+| 
+| 
+|-
+| [http://habitrpg.com HabitRPG]. Time management made into a multiplayer game.
+| style="background-color:#9ff;"| No field. No way to enter your gender at all. Your game avatar is genderless. You can choose between two body types for your game avatar, called "slim" and "broad," but they're both gender-neutral figures. You can dress your game avatar in any combination of hairstyles, facial hair, or clothing you want, and none of these things are marked as being for one gender only. 
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://last.fm/ Last.fm]. Music listening service and social network.
+| style="background-color:#9ff;"| Gender field allows 'Unknown' selection, which hides gender from the profile.
+| 
+| 
+|-
+| [http://www.lauras-playground.com/forums/index.php? Laura’s Playground]. Transgender forums. 
+| style="background-color:#ffb;"| Gender selection includes androgyne, crossdresser, FTM, FT?, intersexed, MT?, transsexual, and transgender.
+| 
+| 
+|-
+| [http://livejournal.com Livejournal]. Social blogging community. 
+| style="background-color:#ffb;"| Drop-down selection menu includes 'Unspecified/Other' as an option.
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://nabyn.com Nabyn]. Art community. 
+| style="background-color:#ffb;"| Includes "Other" as an option.
+| 
+| 
+|-
+| [http://okcupid.com/ OK Cupid]. Dating site. 
+| style="background-color:#ffb;"| Man and woman are shown as selectable, with 20 more possible choices after clicking More options. Up to 5 may be selected.
+| 
+| 
+|-
+| [http://www.quizlet.com Quizlet]. Shareable flashcard site.
+| style="background-color:#9ff;"| Doesn't ask, no field.
+| style="background-color:#9ff;"| No. You also have the option to hide your "real name."
+| 
+|-
+| [http://skittlr.net/ Skittlr]. LGBT+ &amp; MOGAI only social network.
+| style="background-color:#9ff;"| Lots of options, and it is possible to get those that are missing added. None has to be selected.
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://www.transyada.net/forum/ TransYada]. Transgender forums. 
+| style="background-color:#9ff;"| Both the gender field and the (a)sexuality field are write-in. These fields are optional to fill in. One may also write-in preferred pronouns, and this field is optional.
+| 
+| 
+|-
+| [https://www.trevorspace.org/ TrevorSpace]. Social networking site aimed at [[LGBTQ]] [[children|youth]] aged 13-24. 
+| style="background-color:#ffb;"| Has 27 different gender identities to choose from, including [[Agender]], [[Androgyne]], [[Pangender]], Trans*, Trans man, Trans woman, MTF, FTM, Intersex, Other and No label. Any gender identity selected cannot be anything other than public on the site, but it is also possible not to check a box at all. [http://oi59.tinypic.com/jfgpj4.jpg Screengrab, December 2014]
+| 
+| 
+|-
+| [http://www.tumblr.com Tumblr]. Social blogging site. 
+| style="background-color:#9ff;"| Has no gender field of any kind. The interface doesn't use third person pronouns for users. 
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://www.turtleseed.com Turtleseed]. Social micro-blogging site. 
+| style="background-color:#9ff;"| Has no gender field of any kind. 
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://www.twitter.com Twitter]. Social micro-blogging site. 
+| style="background-color:#9ff;"| Has no gender field of any kind.
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://www.wikipedia.org/ Wikipedia]. Free encyclopedia Wiki. 
+| style="background-color:#9ff;"| If the user is a Wikipedia contributor, they can put [http://en.wikipedia.org/wiki/Wikipedia:Userboxes, Userboxes] on the profile, which allow for a great deal of gender, sex, and orientation description. See also [http://en.wikipedia.org/wiki/User:ISD/Userboxes/Sexuality#Gender_identity, User:ISD/Userboxes/Sexuality]. Some of the userboxes that have been made with English descriptions, many with images, include: [[femme]], [[boi]], [[two-spirit]], kathoey, [[hijra]], [[transgender]], [[transsexual]], [[genderqueer]], [[androgyny|androgynous]], [[intersexual]], [[bigender]], [[trigender]], [[pangender]], [[third gender]], “This user has no gender identity, nor a sexual orientation,” and “This user is still unsure about their gender identity.”
+| style="background-color:#9ff;"| No
+| 
+|-
+| [http://youtube.com YouTube]. Video community. 
+| style="background-color:#9ff;"| Allows for Other or a blank field.
+| 
+| 
+|}
+
+==Other international online services==
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Website
+! User gender (and pronouns)
+! Legal name policy
+! Notes
+|-
+| [https://www.change.org Change.org].
+| style="background-color:#9ff;"| Doesn't ask about gender/sex. [http://nonbinary.org/wiki/File:Change.org.jpg Evidence, October, 2013]
+| 
+| Doesn't ask about title. (See above evidence.)
+|-
+| [http://www.gopetition.com GoPetition].
+| style="background-color:#9ff;"| Doesn't ask about gender or sex. 
+| 
+| They let you type your own title into the text field so you can put Mx or anything else you like. [http://mxactivist.tumblr.com/post/40851665833 Evidence, January 2013.]
+|}
+
+==See also==
+* [[Recognition]]
+* [[Directory of online communities]]
+
+==External Links==
+* [http://practicalandrogyny.com/category/identity/web/ Practical Androgyny: Websites and Social Networks]
+* [http://genderqueerid.com/socialmedia Genderqueer Identities: Social Media]
+* [http://maybemaimed.com/2011/06/30/ssexbbox-gender-is-a-text-field/ SSEX BBOX: Gender is a text field &lt;&lt; Maybe Maimed But Never Harmed]
+* [http://my.nameis.me/category/lgbt-people/ My Name is Me: LGBT People]
+* [http://feministing.com/2011/07/12/google-has-a-gender-problem/ Feministing: Google+ has a gender problem]
+* [http://ketsu.dreamwidth.org/215469.html deviantART, binarism, and transphobia]
+
+[[Category:Practical resources]]

@@ -1,0 +1,103 @@
+{{Stub}}
+
+This list, in alphabetical order, lists travel-related organisations in the UK whose status on [[genderqueer]] and [[nonbinary]] identity acceptance is known. Edits should, where possible, link to evidence.
+
+Click here to return to the [[Recognition (UK)]] list of types of organisation.
+
+Travelers flying to, from, over, or through US airspace should note that the [http://www.tsa.gov/ TSA] requires airlines to collect gender information on each passenger, and the gender must be binary. This is true regardless of the nationality of the airline. The TSA has [http://www.tsa.gov/traveler-information/transgender-travelers a policy for transgender travelers], but it's not much help to those who don't fit the binary.
+
+==American Airlines==
+*'''Do they allow gender neutral titles?''' The online booking system doesn't ask for any passenger titles at all.
+*'''Do they allow no title?''' Yes.
+*'''Evidence:''' AmericanAirlines.co.uk
+
+==Air New Zealand==
+*'''Do they allow any gender neutral titles?''' Not online, but they'll waive the telephone booking fee if the website doesn't accept your title.
+*'''Do they allow no title?''' Unknown.
+*'''Evidence:''' Email from customer support
+
+==Disabled Persons Railcard==
+
+*'''Do they allow any gender neutral titles?''' Yes.
+*'''Do they allow no title?''' Unknown.
+*'''Evidence:''' [http://lottelodge.tumblr.com/post/55168603670 Photo of railcard, July 2013.]
+
+[http://www.disabledpersons-railcard.co.uk/ Link to homepage.]
+
+==East Coast==
+*'''Do they allow gender neutral titles?''' Yes.
+*'''Do they allow no title?''' Unknown, but it doesn't look like it
+*'''Evidence:''' [http://imgur.com/PjnNf Screenshot of homepage] after booking tickets
+
+==First Great Western==
+*'''Do they allow gender neutral titles?''' Yes.
+*'''Do they allow no title?''' No.
+*'''Evidence:''' [https://tickets.firstgreatwestern.co.uk/gw/en/account/register Registration form]
+*'''Note:''' The postal address used to deliver tickets to has its own completely free-form name field which does not require a title.
+
+==First TransPennine Express==
+*'''Do they allow gender neutral titles?''' Yes.
+*'''Do they allow no title?''' Doesn't look like it.
+*'''Evidence:''' [https://tickets.tpexpress.co.uk/tpe/en/account/register Registration form] and [[:File:MxEvidenceTPExpress.png| screenshot of website]] after buying tickets.
+
+[http://www.tpexpress.co.uk/ Link to homepage.]
+
+==Great Rail==
+*'''Do they allow gender neutral titles?''' No, but an issue is raised with their IT dept.  Web bookings aren't possible, telephone bookings have to be with a currently-recognised title but with a comment added to the record.
+*'''Do they allow no title?''' No.
+*'''Evidence:''' Phone call.
+
+==Heart of Wales Line Railcard==
+
+*'''Do they allow any gender neutral titles?''' Yes.
+*'''Do they allow no title?''' Unknown.
+*'''Evidence:''' [[:File:HOWL01.jpg| Scan of railcard, 2014]]
+*'''Note:''' Railcard can only be applied for in person or on paper form. The Heart of Wales Line is operated by Arriva Trains Wales, whose website requires a title from a restricted list.
+
+==National Express==
+*'''Do they allow gender neutral titles?''' Yes.
+*'''Do they allow no title?''' Unknown, but it doesn't look like it
+*'''Evidence:'''
+**[http://mxactivist.tumblr.com/post/50717701889 Screengrab, May 2013] - Title not required with registration, but provided titles are binary.
+**[http://mxactivist.tumblr.com/post/50717965564 Screengrab, May 2013] - Freeform titles accepted if you buy tickets without registering.
+
+==National Rail==
+
+*'''Do they allow any gender neutral titles?''' Yes; 'Misc'
+*'''Do they allow no title?''' Yes
+*'''Evidence:''' 
+**(Misc)[http://yfrog.com/h7wrhadj Travelcard (filled out in person at a station), April 2011.]
+**(no title)[[:File:Notitleevidencenationalrail.jpg| Scan of photocard, 2003]]
+
+[http://www.nationalrail.co.uk/ Link to homepage.]
+
+==Netflights.com==
+
+*'''Do they allow any gender neutral titles?''' Unknown.
+*'''Do they allow no title?''' Yes, if you contact them about it.
+*'''Evidence:''' [http://twitter.com/quarridors/status/169002642897518593 Tweet from Quarridors, February 2012:] ''"Fantastic customer service from @netflights, they've removed the gender title from my e-ticket and boarding pass all over Twitter and email!"''
+
+[http://www.netflights.com/ Link to homepage.]
+
+==Transport for London==
+
+*'''Do they allow any gender neutral titles?''' Yes; 'Other'
+*'''Do they allow no title?''' No
+*'''Evidence:''' [[:File:Notitleevidencetfl.jpg|Screenshot of TFL service, Oyster Online showing 'Other' as title]]
+
+[http://www.tfl.gov.uk Link to Transport for London] [https://oyster.tfl.gov.uk Link to Oyster Online]
+
+==Travel Republic==
+*'''Do they allow any gender neutral titles?''' Not for the person making the booking, any title is acceptable for the lead traveller though.
+*'''Do they allow no title?''' Unknown.
+
+[http://www.travelrepublic.co.uk Link to homepage.]
+
+==Tune Hotels==
+
+*'''Do they allow any gender neutral titles?''' No
+*'''Do they allow no title?''' No
+*'''Evidence:'''
+*'''Note:''' Edit the source html of their website and it happily accepts Mx as a title and Human as a gender. Nobody questioned this when I arrived.
+
+[[Category:Practical resources]] [[Category:Recognition]] [[Category:Recognition (UK)]] [[Category:United Kingdom]]

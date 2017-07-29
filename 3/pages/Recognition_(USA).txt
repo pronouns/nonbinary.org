@@ -1,0 +1,687 @@
+{{Stub}}
+[[Recognition (USA)]]. This article gives information on [[recognition]] of [[nonbinary]] gender identities in law, government, services, and businesses in the United States of America (USA). This also deals with policies about [[transgender]] people in general, and related policies about [[intersex]] people. Recognition here means whether an organization acknowledges that such people exist and have valid identities, and the organization does this by routinely giving them a place where they aren't forced into being wrongly categorized as a [[gender]] that doesn't match their [[gender identity]]. In the case of recognition of nonbinary people, this means the system doesn't force them to wrongly say they are one of the [[binary gender]]s ([[female]] or [[male]]). 
+
+==How to use==
+When adding to the tables, please note all sections are in alphabetical order, as are the entries within them. Here is an explanation of the columns and the color code in most of the tables on this page. 
+
+Color code for each cell in the below tables:
+
+* green (#9f9) means it doesn't ask for this information at all. This is ideal, because it doesn't need to be changed, won't make a mismatch with other paperwork, and is no trouble.
+* blue (#9ff) means it offers a write-in field. This is good, because it acknowledges the existence of nonbinary people, but it can make a mismatch with other paperwork.
+* yellow (#ffb) means it asks, but answering it is optional. For a title, this means it lets you leave it blank. For a gender, this means it lets you leave it blank, or select an option called "none", "prefer not to state", or "unspecified". This doesn't acknowledge the existence of nonbinary people, and can make mismatches with other paperwork, but it's better than otherwise.
+* purple (#f9d) means it has mandatory selection, but gives some gender-neutral options, which may even acknowledge the existence of people who are nonbinary or intersex. For a title, this means the available options include not only Dr, but [[Mx]]. For a gender, it acknowledges that there could be other genders than female or male, giving options such as "other" or "intersex". This acknowledges the existence of nonbinary people, which is good, but requires you to be either out or closeted, and can create mismatches with other paperwork, which is trouble.
+* red (#f99) is mandatory selection, without gender-neutral options. For a title, the only remotely gender neutral titles it offers are things such as "Dr". For a gender, it only allows only [[female]] or [[male]]. This is the worst, because it is [[nonbinary erasure]]. Activists need let the organization know it can be more inclusive.
+* white background means we don't have information about this yet, or some other situation (describe)
+
+Columns in the table:
+
+* Title is for title selection. Does the organization's paperwork require you to give a title such as Dr., does it let you leave it blank, or does it let you write in [[gender neutral titles]] such as [[Mx]]?
+* Gender is for explicit [[gender]] (or "[[sex]]") selection. Does the organization's paperwork require you to say what gender you are, or doesn't ask? If it does, are you limited only to female and male options, or does it offer more options, or can you write in something else?
+
+Ideally, please include a link to evidence, such as a screenshot or scan of the paperwork, with personal details blacked out, or cite a source.
+
+==Businesses==
+
+This section is for kinds of businesses other than listed elsewhere on this page. ''Please add to this section.''
+
+Planet Fitness in Richmond, CA is willing to let individuals "choose" which of the two binary locker rooms they would like to use.
+
+==Charities==
+
+Charitable organizations. ''Please add to this section.''
+
+==Education==
+
+Schools of all kinds, as well as other educational resources. 
+
+Note that for [[gender nonconforming]] [[children]] and teens, homeschooling or unschooling is an option. This still involves a lot of paperwork, but it's a life-saving option for youth who have difficulty with fitting in or feeling safe around peers and faculty at school. Homeschooled or drop-out teens can work to pass the General Education Development (GED) test instead of getting a highschool diploma. A GED certificate will satisfy all employers and colleges that ask for a highschool diploma.
+
+===Colleges and universities===
+
+In the USA, many colleges use paperwork that make problems for transgender people, especially nonbinary people: 
+
+&lt;blockquote&gt;"The Common Application, used by hundreds of colleges as their only means to apply, forces you to choose a gender of M or F, and states you must use your [assigned at birth] gender.  There is no way around it that doesn’t threaten the validity of your entire application. If you feel you can’t apply to college using your [assigned at birth] gender, then there are some very good colleges that don’t use the Common App, where you can apply without being forced to choose a binary gender designation. While Shimer College in Chicago is the ONLY school I have found that allows you to state your gender on the application [...] other colleges at least give you the ability to opt out of choosing M or F. [...] Even if a college doesn’t give you an opportunity to designate your gender [identity] in their supplemental questions, you can still do so in your essay, or in the 'additional comments' section of the Common App." - [https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1 Applying to College as a Non Binary Trans Person]&lt;/blockquote&gt;
+
+The [https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1 Applying to College as a Non Binary Trans Person] article is highly recommended, because it goes into more detail about many aspects of college life for a nonbinary person in the USA, and some common problems in paperwork.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Organization
+! Title
+! Gender
+! Notes
+|-
+| American University
+| 
+| 
+| Allows gender-neutral housing, "limited to the 'social justice' house for first years"&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Bard College
+| 
+| 
+| Allows gender-neutral housing&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Bowling Green State University
+|
+|
+| Allows gender neutral housing, but is limited to Founders Hall and one floor of MacDonald Hall for 2016-17 academic year&lt;ref&gt;https://www.bgsu.edu/residence-life/housing-options/gender-neutral-housing.html&lt;/ref&gt;&lt;ref&gt;http://www.toledoblade.com/Education/2016/05/01/BGSU-to-offer-less-expensive-all-gender-dorm.html&lt;/ref&gt; Also has some gender neutral bathrooms accross campus &lt;ref&gt;https://www.bgsu.edu/content/dam/BGSU/multicultural-affairs/documents/gender-neutral-bathrooms.pdf&lt;/ref&gt;&lt;ref&gt;https://www.bgsu.edu/content/dam/BGSU/multicultural-affairs/documents/Gender%20Neutral%20Bathrooms_List+Campus%20Map.pdf&lt;/ref&gt;
+|-
+| Burlington College
+| 
+| style="background-color:#ffb;"| Can choose "I do not wish to identify"&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+||
+|-
+| College of Wooster
+| 
+| 
+| Allows gender-neutral housing&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Connecticut College
+| 
+| style="background-color:#f99;"| Uses the Common App, which requires you to say whether you were assigned F or M at birth, not gender identity&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+| Recognizes the problem with the Common App, and lets you say your actual gender identity in more questions.&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Dickinson College
+| 
+| 
+| Allows gender-neutral housing, new to first years&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Evergreen State College, the
+| 
+| style="background-color:#ffb;"| Can choose "unspecified"&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+||
+|-
+| Gutenberg College
+| 
+| style="background-color:#9f9;"| Paper application doesn't ask&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+||
+|-
+| Goucher College
+| 
+| style="background-color:#f99;"| Application requires you to say whether your "sex" is M or F only, then asks a separate question in which you can write in your "gender."&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+||
+|-
+| Grinnell College
+| 
+| 
+| Allows gender-neutral housing&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Hampshire College
+| 
+| 
+| Allows gender-neutral housing. Has gender-neutral bathrooms in all dorms and all over campus. Campus-wide student culture treats asking about preferred pronouns as a matter of basic etiquette.&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Haverford
+| 
+| 
+| Doesn't say it has gender-neutral housing, but "regularly offers singles even to first years, and some floors have gender-neutral bathrooms".&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Ithaca College (Ithaca, NY)
+| 
+| 
+| Has a gender-inclusive housing option that is friendly to genderqueer students. Has a speech pathology clinic to help transgender students with voice training for free.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| Juniata College
+| 
+| 
+| Allows gender-neutral housing, new to first years&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Macalester College
+| 
+| style="background-color:#f99;"| Uses the Common App, which requires you to say whether you were assigned F or M at birth, not gender identity&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+| Recognizes the problem with the Common App, and lets you say your actual gender identity in more questions. Allows gender-neutral housing.&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| New College of Florida
+| 
+| 
+| Doesn't say it has gender-neutral housing, but "has a campus community known for accepting gender-variant students—it works for some trans students because of the college’s informal acceptance, even if the school doesn’t have stated policies."&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| New York University (New York, NY)
+| 
+| 
+| Has a trans student group and several popular transgender focused events.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| Oberlin College
+| 
+| 
+| Allows gender-neutral housing. Campus-wide student culture treats asking about preferred pronouns as a matter of basic etiquette.&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Pitzer College
+| 
+| 
+| Allows gender-neutral housing. Lets you "indicate a gender preference for your roommate (but won't guarantee you'll get your preference)" [...] Pitzer also has the best housing application I've seen in terms of trans-friendliness".&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Prescott College
+| 
+| style="background-color:#f99;"| Paper application has only M and F boxes&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|
+|-
+| Princeton University (Princeton, NJ)
+| 
+| 
+| Gives a lot of transgender focused programming and events, and works to be transgender inclusive in its services.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| Shimer College (in Chicago, Illinois)
+| 
+| style="background-color:#9ff;"| Online form lets you write in a gender as you wish&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|
+|-
+| Skidmore College
+| 
+| 
+| Allows gender-neutral housing&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| St. Johns College
+| 
+| style="background-color:#9f9;"| Paper application doesn't ask&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|
+|-
+| University of California - Los Angeles (UCLA)
+| 
+| 
+| One of the first schools to cover transgender health care under its student health insurance, and makes it easy to access these benefits. Campus has gender-inclusive athletic facilities and more than 120 gender-inclusive bathrooms.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| University of California - Riverside (UCR)
+| 
+| 
+| Has trans and genderqueer focused events. &lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt; Allows gender-neutral housing, as do all U of California schools, but this particular one is said to be "especially good" with "many options" of that kind.&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| University of California - Santa Cruz
+| 
+| Online application form gives about six gender options.&lt;ref&gt;http://practicalandrogyny.com/2011/03/24/a-call-for-examples/&lt;/ref&gt;
+| Allows gender-neutral housing&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| University of Massachusetts, Amherst
+| 
+| 
+| Formerly had actively transphobic faculty, but now works to be trans inclusive.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| University of Michigan, Ann Arbor
+| 
+| 
+| Works to be trans inclusive. Lets students be listed and called by a preferred name, in all contexts, rather than their legal name. Student culture accepts openly transgender students.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| University of Oregon (Eugene, OR)
+| 
+| style="background-color:#ffb;"| Can choose "unspecified"&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+| Works to be trans inclusive by introducing trans friendly policies before they're asked for. Rec center has gender-inclusive locker rooms. Most buildings have gender-inclusive bathrooms.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt; Allows gender-neutral housing.&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| University of Pennsylvania (Philadelphia, PA)
+| 
+| 
+| LGBT center has its own two-story building. Student culture is accepting of openly transgender people. Student health service is knowledgeable about trans health issues.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| University of Puget Sound
+| 
+| 
+| Allows gender-neutral housing, new to first years&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| University of Vermont (UVM) (Burlington, VT)
+| 
+| 
+| Nondiscrimination policy includes "gender identity/expression." Has trans focused events. Lets students be listed by preferred name. Works to help other schools be transgender inclusive.&lt;ref&gt;Dr. Genny Beemyn and Shane Windmeyer. ''The Advocate.'' August 15, 2012. http://www.advocate.com/politics/transgender/2012/08/15/top-10-trans-friendly-colleges-and-universities?page=0,0 Mirror: http://www.campuspride.org/resources/top-10-trans/&lt;/ref&gt;
+|-
+| University of Washington (UW) (Seattle, WA)
+| 
+| 
+| Allows gender-neutral housing.&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt; Has had a Q Center since 2005, which "welcomes students, staff, and faculty who are transgender". The University plans that in 2016 it will "broaden gender-neutral options for housing to include all of the new residence halls on west campus as well as Haggett Hall, which has provided gender-neutral bathrooms and living quarters for several years. ... UW staff is working on giving students an easy option to change gender on University forms."&lt;ref&gt;Julie Garner, "True to self." ''Columns: The University of Washington Alumni Magazine'', September 10, 2015. [https://www.washington.edu/alumni/columns-magazine/september-2015/features/transgender/ https://www.washington.edu/alumni/columns-magazine/september-2015/features/transgender/]&lt;/ref&gt;
+|-
+| Vassar
+| 
+| 
+| Doesn't say it has gender-neutral housing, but "has gender-neutral bathrooms throughout campus and in all the dorms".&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Warren Wilson college
+| 
+| style="background-color:#f99;"| Application requires you to say whether your "sex" is M or F only, then asks a separate question in which you can write in your "gender."&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+||
+|-
+| Wesleyan University
+| 
+| 
+| Allows gender-neutral housing&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|-
+| Western Washington University
+| 
+| style="background-color:#ffb;"| Can choose "unspecified"&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+| Allows gender-neutral housing&lt;ref&gt;https://docs.google.com/document/d/1iXcTiWKvTVfIYDx0ciZnZI5Bw5R_hfCdfTZKJPHpeHI/edit?pli=1&lt;/ref&gt;
+|}
+
+==Finance==
+
+Banks, credit unions, and other financial institutions. 
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Organization
+! Title
+! Gender
+! Notes
+|-
+| BECU (credit union)
+| 
+| 
+| Doesn't print title on debit or credit card.
+|-
+| Capitol One (bank)
+| 
+| 
+| Doesn't print title on debit or credit card.&lt;ref&gt;http://practicalandrogyny.com/2011/03/24/a-call-for-examples/&lt;/ref&gt;
+|-
+| Chase (bank)
+| 
+| 
+| Doesn't print title on debit or credit card.&lt;ref&gt;http://practicalandrogyny.com/2011/03/24/a-call-for-examples/&lt;/ref&gt;
+|-
+| SunTrust (bank)
+| 
+| 
+| Doesn't print title on debit or credit card.&lt;ref&gt;http://practicalandrogyny.com/2011/03/24/a-call-for-examples/&lt;/ref&gt;
+|-
+| Wells Fargo (bank)
+| 
+| 
+| Doesn't print title on debit or credit card.&lt;ref&gt;http://practicalandrogyny.com/2011/03/24/a-call-for-examples/&lt;/ref&gt;
+|}
+
+==Employment== 
+
+In general, employment discrimination laws regarding gender identity and LGBT identity vary by state. See [[Wikipedia:Legal_aspects_of_transsexualism_in_the_United_States#Employment_discrimination|Wikipedia: Legal aspects of transsexualism in the United States - Employment discrimination]].
+
+===Private employment agencies===
+
+Public employment agencies (the Department of Labor, the "unemployment agency") would be not in this section, but in the section for state government and federal government.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Organization
+! Title
+! Gender
+! Notes
+|-
+| [http://www.roberthalf.com/officeteam RobertHalf OfficeTeam] (office temping agency)
+| style="background-color:#9f9;"| Doesn't ask
+| style="background-color:#9f9;"| Doesn't ask
+||
+|}
+
+==Government==
+
+Federal and state government.
+
+===Official documents of identity===
+
+[[File:Requirements for altering birth certificate sex in the US.svg|right|250px|thumb|Legal requirements each state has for altering the sex on one's birth certificate.
+Lavender: State does not require SRS to alter sex on birth certificate
+Green: Altering sex on birth certificate requires SRS
+Red: State does not alter sex on birth certificates for transsexuals]]
+
+[[File:Birth certificate sex altering regulations in the US.svg|right|250px|thumb|The procedure each state uses to alter the sex on one's birth certificate.
+Blue: New birth certificate is issued with correct sex designation  
+Lavender: Old birth certificate is amended to correct sex designation
+Red: State does not alter sex on birth certificates for transsexual people]]
+
+In the USA, official documentation such as driver's licenses, passports, and birth certificates all show an M or an F only. Only one person in the USA has managed to get a different gender marker than M or F, who was an adult intersex person who asked for theirs to say "hermaphrodite."&lt;ref&gt;"Litigation." ''Intersex and Genderqueer Recognition.'' [http://www.intersexrecognition.org/litigation.html http://www.intersexrecognition.org/litigation.html]&lt;/ref&gt; Currently, even changing one's gender marker from M to F or vice versa is difficult. Some states require proof of surgery (meaning a letter from the surgeon, or from a doctor who has examined the person) in order to change the gender marker on the identification, some states don't, and some states don't allow the gender marker to be changed at all.
+
+Activism for nonbinary and intersex people-- and transgender people of all kinds-- should ask for these forms of identification to allow another gender marker, such as X, and to be able to change one's gender marker more easily, without proof of surgery or other paperwork. Or better yet, activism should ask for these forms of identification to stop recording sex or gender entirely, because there are better ways to identify people now. That would make life and paperwork safer and easier for transgender people of all kinds. 
+
+In the tables below, this section uses a slightly different color code and column labels than the rest of this page, though still loosely based on traffic lights: 
+
+* blue (#9ff) means it's routinely friendly to transgender, intersex, and nonbinary people. In the column labeled "gender" (or "sex," if that is the term used on that document), this would mean it doesn't ask for gender information at all, or gives an option not to give the information, or gives an option other than M or F. In the column labeled "change," it lets you change your gender marker without proof of surgery.
+* yellow (#ffb) means it has only rarely or with great difficulty been friendly to transgender, intersex, and nonbinary people. In the column labeled "gender," there have been rare cases where someone managed to get a gender marker other than M or F. In the column labeled "change," changing one's gender markers requires proof of surgery.
+* red (#f99) means it's not friendly at all to transgender, intersex, and nonbinary people. In "gender," this means it requires everyone to choose M or F. In "change," this means it doesn't let anyone change their gender markers.
+* white background means we don't have information about this yet, or some other situation (describe)
+
+====Birth certificate====
+
+In the USA, birth certificates show an M or F only, with the limitations described above. Birth certificates call their gender markers "sex" rather than "gender," and the legal definition they use for this is defined by the past or current condition of the genitals, as determined by an examination from a doctor. With this term, defined in this way, it will be difficult to get officials to recognize gender identity with no relation to genitals, or nonbinary gender identity in people who aren't intersex, or even in people who are.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! State
+! Sex
+! Change
+! Notes
+|-
+| Alabama
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Arizona
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Arkansas
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| California
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation, requiring only a letter from a doctor, not surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Colorado
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Connecticut
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation, no proof of surgery required.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Delaware
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| District of Columbia
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation, requiring only a letter from a doctor, not surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Florida
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Georgia
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Hawaii
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Idaho
+| style="background-color:#f99;"| M or F only
+| style="background-color:#f99;"| Doesn't allow anyone to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Illinois
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Indiana
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation upon request, without requiring a letter from a doctor or surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Iowa
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires a doctor's proof of "surgery or other treatment [so that] a sex change has occurred" to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Kansas
+| style="background-color:#f99;"| M or F only
+| style="background-color:#f99;"| Doesn't allow anyone to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Kentucky
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Louisiana
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Maine
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof "that surgery/treatment has been 'completed'" to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Maryland
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Massachusetts
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Michigan
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Minnesota
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation upon request, without requiring a letter from a doctor or surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Mississippi
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation upon request, without requiring a letter from a doctor or surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Missouri
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Montana
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Nebraska
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Nevada
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation upon request, without requiring a letter from a doctor or surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| New Hampshire
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation upon request, without requiring a letter from a doctor or surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| New Jersey
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| New Mexico
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| New York
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation, requiring only a letter from a doctor, not surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| North Carolina
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| North Dakota
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Ohio
+| style="background-color:#ffb;"| M or F only, with only one case to the exception: an adult intersex person won a lawsuit to change their birth certificate to say "[[hermaphrodite]]."&lt;ref&gt;"Litigation." ''Intersex and Genderqueer Recognition.'' [http://www.intersexrecognition.org/litigation.html http://www.intersexrecognition.org/litigation.html]&lt;/ref&gt;
+| style="background-color:#f99;"| Doesn't allow anyone to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Oklahoma
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Oregon
+| style="background-color:#ffb;"| M or F, with one exception where a birth certificate was changed to say "[[Nonbinary]]" &lt;ref&gt;http://www.dailydot.com/lifestyle/oregon-court-rules-non-binary-gender-legal/&lt;/ref&gt; 
+| style="background-color:#9ff;"| Allows people to change sex designation.  Applicant must have undergone surgical, hormonal, or other treatment appropriate for that individual for the purpose of gender transition and that sexual reassignment has been completed. Surgery not required.  Doctor letter may be required by a specific judge, though this is uncommon. &lt;ref&gt;http://www.dailydot.com/lifestyle/oregon-court-rules-non-binary-gender-legal/&lt;/ref&gt;
+|
+|-
+| Pennsylvania
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Rhode Island
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| South Carolina
+| style="background-color:#f99;"| M or F only
+| Allows people to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Tennessee
+| style="background-color:#f99;"| M or F only
+| style="background-color:#f99;"| Doesn't allow anyone to change sex designation. Furthermore, "this is the only state that has a statute specifically forbidding the correction of sex designations on birth certificates for transgender people."&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Texas
+| style="background-color:#f99;"| M or F only
+| Allows people to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Utah
+| style="background-color:#f99;"| M or F only
+| Allows people to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Vermont
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation, requiring only a letter from a doctor saying they've had a transition, not strictly surgery.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Virginia
+| style="background-color:#f99;"| M or F only
+| style="background-color:#ffb;"| Requires proof of surgery to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Washington
+| style="background-color:#f99;"| M or F only
+| style="background-color:#9ff;"| Allows people to change sex designation, requiring only a letter from a doctor.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Wisconsin
+| style="background-color:#f99;"| M or F only
+| Allows people to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|-
+| Wyoming
+| style="background-color:#f99;"| M or F only
+| Allows people to change sex designation.&lt;ref&gt;http://www.lambdalegal.org/know-your-rights/transgender/changing-birth-certificate-sex-designations&lt;/ref&gt;
+|
+|}
+
+====Driver's license====
+
+In the USA, driver's licenses show an M or F only, with the limitations described above that apply to all official documents. As with birth certificates, the gender marker on driver's licenses is called "sex" instead of "gender." All U.S. states allow the gender marker to be changed on a driver's license,&lt;ref&gt;"Driver's License Policies by State." National Center for Transgender Equality. Accessed June 20, 2012. http://transequality.org/Resources/DL/DL_policies.html&lt;/ref&gt; although the requirements for doing so vary by state. Often, the requirements for changing one's driver's license are less stringent than those for changing the marker on the birth certificate. This can create conflicts between documents, because sometimes a person is allowed to change their marker on one document, but not the other. 
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! State
+! Sex
+! Change
+! Notes
+|-
+|California
+| style="background-color:#f99;"| M or F only. In 2015, the Intersex &amp; Genderqueer Recognition Project is working on "proposing legislative changes to the California Code to allow for a non-binary gender on CA Driver's Licenses," with a tentative bill asking for removal of the sex marker, or allowing an option such as X or I.&lt;ref&gt;http://www.intersexrecognition.org/about.html&lt;/ref&gt;&lt;ref&gt;http://www.intersexrecognition.org/legislation.html&lt;/ref&gt;
+|
+|
+|-
+| Colorado
+| style="background-color:#f99;"| M or F only. "The legal team at the Intersex &amp; Genderqueer Recognition Project assisted with challenges by an intersex resident of Colorado who was denied a non-binary drivers license. A discrimination charge was made to the Colorado Civil Rights Commission. The applicant lost their case. Litigation team is regrouping and looking in to alternate strategies."&lt;ref&gt;"Litigation." ''Intersex and Genderqueer Recognition.'' [http://www.intersexrecognition.org/litigation.html http://www.intersexrecognition.org/litigation.html]&lt;/ref&gt;
+|
+| 
+|-
+| Oregon
+| style="background-color:#f99;"| M or F only. In June 2016, the Oregon DMV said they can't issue a nonbinary driver's license, even to Jamie Shupe, who is legally nonbinary.&lt;ref&gt;Gordon Friedman, "Ore. DMV says it can't issue license to nonbinary person." ''Statesman Journal.'' June 22, 2016. [http://www.statesmanjournal.com/story/news/politics/2016/06/21/ore-dmv-says-cant-issue-license-nonbinary-person/86183112/ http://www.statesmanjournal.com/story/news/politics/2016/06/21/ore-dmv-says-cant-issue-license-nonbinary-person/86183112/]&lt;/ref&gt;
+|
+|
+|}
+
+====Passports====
+
+In the USA, passports show an M or F only, with the limitations described above that apply to all official documents. The State Department determines what identifying biographical information is placed on passports. In 2010, they began to allow permanent gender marker changes to be made with a letter from a doctor saying that "the applicant has had appropriate clinical treatment for gender transition to the new gender,"&lt;ref&gt;"FAM 1300 APPENDIX M - GENDER CHANGE." United States Department of State. June 10, 2010. Accessed October 14, 2010. http://www.state.gov/documents/organization/143160.pdf&lt;/ref&gt; and no longer requires proof of surgery.&lt;ref&gt;"FAM 1300 APPENDIX F - PASSPORT AMENDMENTS." United States Department of State. March 18, 2009. Accessed May 7, 2009. http://www.state.gov/documents/organization/86784.pdf&lt;/ref&gt;
+
+====Military ID====
+
+Military retiree ID cards provide an option for photo ID for some transgender people, as they don't display gender on them. However, these cards are only available to those who served in the military, and not accessible to all transgender people.&lt;ref&gt;"Frequently Asked Questions" ''Transgender American Veterans Association'' [http://www.tavausa.org/faq.html http://www.tavausa.org/faq.html]&lt;/ref&gt;
+
+====Social Security card====
+
+Social Security cards are one of the few government-issued IDs that do not list gender on them. However, the Social Security Administration keeps a record of gender. Current policy holds that surgery is not required to change that gender record. Instead, the Administration will accept as proof of a new gender any of: a full-validity U.S. passport, a state birth certificate showing the new gender, a court order ordering legal recognition of the new gender, or a doctor's letter saying that the person "has had appropriate clinical treatment for gender transition to the new gender."&lt;ref&gt;&lt;em&gt;See&lt;/em&gt; Social Security Administration, &lt;em&gt;Changing Numident Data for Reasons Other Than Name Change&lt;/em&gt;, [https://secure.ssa.gov/poms.nsf/lnx/0110212200 Records Maintenance § 10212.200(B)(2)] (as of Mar. 19, 2015). The physician's certificate accepted by the Administration is the same as that accepted by the Department of State for permanently changing one's passport gender. &lt;em&gt;Compare&lt;/em&gt; &lt;em&gt;id.&lt;/em&gt; &lt;em&gt;with&lt;/em&gt; [http://www.state.gov/documents/organization/143160.pdf#page=3 7 U.S. Dep't of State, Foreign Affairs Manual § 1300 appx. M, at 3-4].&lt;/ref&gt; 
+
+===Marriage certificates===
+
+====Massachusetts====
+
+Marriage certificates at the City of Cambridge in Massachusetts ask for a binary sex, but by special permission, this can be left blank, so the marriage certificate has no gender on it.&lt;ref&gt;http://practicalandrogyny.tumblr.com/post/7025100121/gender-free-marriage-certificate-from-cambridge&lt;/ref&gt;
+
+===Voting===
+
+Transgender disenfranchisement is the practice of creating or upholding barriers that keep transgender people from voting. One way this happens is by requiring that people need to show ID in order to vote. That makes problems for transgender people who have mismatches on the gender markers on their ID. For nonbinary people in particular, they may be limited to forms of ID that don't show a gender marker, such as Social Security cards (which some states don't accept as ID) or military retiree ID cards (which some people don't have and perhaps can't get). Some states let people prove their identity by showing a utility bill, which doesn't show gender, assuming the bill doesn't address the customer by a gendered title. See [[Wikipedia:Transgender disenfranchisement in the United States]] for more about this transgender rights issue.
+
+==Housing==
+
+In general, laws regarding housing discrimination for gender identity and LGBT people vary by state. See [[Wikipedia:Legal_aspects_of_transsexualism_in_the_United_States#Employment_discrimination|Wikipedia: Legal aspects of transsexualism in the United States]].
+
+==Medical==
+
+Clinics, hospitals, health insurance. ''Please add to this section.''
+
+===Health insurance===
+
+Many kinds of health insurance don't cover transgender-related healthcare (meaning [[hormone therapy]] and [[surgery]]). However, in some states, insurance is required by law to cover it:&lt;ref&gt;http://nonbinary-support.tumblr.com/post/113431196413/states-where-it-is-the-law-for-insurance-to-cover&lt;/ref&gt;
+* [http://transgenderlawcenter.org/archives/4273 California] (April 2013)
+* [http://www.one-colorado.org/what-coloradans-need-to-know-about-the-division-of-insurance-recent-bulletin-on-health-insurance/ Colorado] (March 2013)
+* [http://www.advocate.com/politics/transgender/2013/12/31/connecticut-becomes-fifth-state-require-transgender-medical-coverage Connecticut] (December 2013)
+* [http://www.aidschicago.org/illinois-news/915-illinois-advocates-hail-great-first-step-to-end-discrimination-against-transgender-individuals-in-health-insurance-coverage Illinois] (July 2014)
+* [http://www.advocate.com/politics/transgender/2014/06/23/trans-residents-celebrate-monumental-health-care-ruling-mass Massachusetts] (June 2014)
+* [http://www.nytimes.com/2014/12/11/nyregion/in-new-york-insurance-must-cover-sex-changes-cuomo-says.html?_r=0 New York] (December 2014)
+* [http://www.basicrights.org/featured/historic-news-oregon-removes-barriers-to-transition-related-care/ Oregon] (January 2013)
+* [http://transgenderlawcenter.org/archives/7506 Vermont] (April 2013)
+* [http://transgenderlawcenter.org/archives/10537 Washington] state (June 2014)
+* [http://mayor.dc.gov/release/mayor-gray-announces-steps-protect-glbt-community-discrimination-health-care Washington D.C.] (February 2014)
+
+The Human Rights Campaign (HRC) maintains a list of health insurance companies and their relevant policies: "[http://www.hrc.org/resources/entry/finding-insurance-for-transgender-related-healthcare Finding Insurance For Transgender Related Health Care]."
+
+However, even with coverage, many insurance companies will misgender clients on ID cards, websites, and in promotional mailings (such as those offering a discount for getting a certain medical procedure).
+
+Many medical records use M or F markers and contain all aliases, and even in trans-centric places like the Lyon-Martin Clinic, paperwork is labeled by legal gender marker and a (T) for transgender when applicable.  These markers and names often print on medical ID bracelets, including emergency rooms, hospitals, and in-patient psychiatric wards.  At least one hospital, Sutter General in West Oakland, is willing to prevent deadnames from printing to ID bracelets upon formal request through the patient complaint customer service phone line; however, it was not willing to remove the gender marker.
+
+Additionally, even without medical records, ambulances and hospitals tend to pick a gender marker based off how they interpret a person to look, without asking.  And even in emergency rooms with a fill-in-the-blank option for gender, staff and records tend to completely ignore this altogether.
+
+==Shopping==
+
+Supermarkets, stores, and other kinds of shopping in the USA. ''Please add to this section.''
+
+==Utilities==
+
+Utilities such as power, gas, electricity, water, and communications. ''Please add to this section.''
+
+==Veterinary==
+
+Animal and pet clinics and hospitals. ''Please add to this section.''
+
+==Websites==
+
+Websites and online services specific to the USA, other than those listed elsewhere on this page. Otherwise, see [[websites and social networks]], which is international. ''Please add to this section.''
+
+==See also==
+* [[Recognition (Canada)]]
+* [[Recognition (UK)]]
+
+==External links==
+* [http://www.intersexrecognition.org/home.html Intersex &amp; Genderqueer Recognition Project] "is the only legal organization in the United States addressing the right of non-binary adults to gender-self-identify on legal documents. [...] IGRP's goal is to allow non-binary adults to self-identify as something other than male or female on their driver’s license, passport, and other government issued identification."
+
+==References==
+&lt;references/&gt;
+
+[[Category:Practical resources]] [[Category:Recognition]] [[Category:Recognition (USA)]] [[Category:United States]]

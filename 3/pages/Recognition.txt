@@ -1,0 +1,296 @@
+{{Stub}}
+[[File:TransGender Equality-Symbol black-and-white.svg|thumb|Transgender equality symbol.]]
+[[Recognition]] of [[Nonbinary gender|non-binary gender identities]] in law and other paperwork is an important issue confronting modern society. This also deals with policies about [[transgender]] people in general, and related policies about [[intersex]] people. Recognition here means whether an organization acknowledges that such people exist and have valid identities, and the organization does this by routinely giving them a place where they aren't forced into being wrongly categorized as a [[gender]] that doesn't match their [[gender identity]]. In the case of recognition of nonbinary people, this means the system doesn't force them to wrongly say they are one of the [[binary gender]]s ([[female]] or [[male]]). Through networking and [[Activism|activism]], people can find out which organisations acknowledge non-binary genders, and can ask for acknowledgement from organisations that still need to do so. 
+
+For international recognition on the Internet, see [[websites and social networks]].
+
+==Recognition worldwide==
+
+One international problem is that all passports list gender (usually there called "[[sex]]"),&lt;ref&gt;Lauren Bishop. "Gender and Sex Designations for Identification Purposes: A Discussion on Inclusive Documentation for a Less Assimilationist Society." ''30 Wis. J.L. Gender &amp; Soc'y 131, 134-35.'' Fall 2015 (containing a broad comparative discussion of this problem in academic legal scholarship). available at http://hosted.law.wisc.edu/wordpress/wjlgs/fall-2015-volume-xxx-no-2/&lt;/ref&gt; and most countries require that gender to be either female or male.&lt;ref&gt;"X gender markers on passports." http://lgbt.libdems.org.uk/en/page/x-gender-markers-on-passports&lt;/ref&gt; A few countries allow passports to have a nonbinary gender marker, called X (unspecified), T ([[transgender]] or [[third gender]]), E ([[eunuch]]), I ([[intersex]]) or O ([[other gender|other]]), depending on the country. Having a nonbinary marker on one's passport can make it impossible to [[travel]] to a country whose passports don't give that option.&lt;ref&gt;Aron Macarow. "These Seven Countries are Way Ahead of the US on Trans Issues." February 9, 2015. ''Attn.'' http://www.attn.com/stories/868/transgender-passport-status&lt;/ref&gt;
+
+Another global problem for transgender rights is that many countries require too much of a transgender person in order to allow them to have a legal transition. Many countries require proof of [[surgery]] in order to do this. Many countries even require transgender people to be [[sterilization|sterilized]] in order to [[transition]]. International law calls compulsory sterilization a crime against humanity,&lt;ref name="Horton"&gt;As quoted by Guy Horton in ''[http://www.ibiblio.org/obl/docs3/Horton-2005.pdf Dying Alive - A Legal Assessment of Human Rights Violations in Burma]'' April 2005, co-Funded by The Netherlands Ministry for Development Co-Operation. See section "12.52 Crimes against humanity", Page 201. He references RSICC/C, Vol. 1 p. 360&lt;/ref&gt;&lt;ref&gt;Rome Statute of the International Criminal Court  http://legal.un.org/icc/statute/romefra.htm&lt;/ref&gt; but it is still the law in many countries.
+
+In the table below, countries are listed in alphabetical order, with a traffic light based colour code to make it easier to skim: 
+* blue (#9ff) means it's friendly to nonbinary people. 
+* yellow (#ffb) means it's somewhat friendly to nonbinary people.
+* red (#f99) means it's not friendly at all to nonbinary people. 
+* white background means we don't have information about this yet, or some other situation (describe).
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Country
+! Nonbinary markers allowed on passports or other identity documents?
+! Legal gender change requirements
+! Other notes on transgender, nonbinary, and intersex rights and recognition
+|-
+| [[Recognition (Australia)|Australia]]
+| style="background-color:#9ff;"| Australia allows nonbinary ''and'' intersex people to get passports with the nonbinary gender marker "X (indeterminate/unspecified/intersex)," requiring only a letter from a doctor, not proof of surgery.&lt;ref&gt;https://www.passports.gov.au/web/sexgenderapplicants.aspx&lt;/ref&gt; Can change birth certificate to "sex: not specified."&lt;ref&gt;"NSW Registrar of Births, Deaths and Marriages v Norrie [2014] HCA 11 (2 April 2014)" . High Court of Australia. 2 April 2014. Retrieved 16 May 2015. http://www.austlii.edu.au/au/cases/cth/HCA/2014/11.html&lt;/ref&gt;
+| style="background-color:#ffb;"| Can change birth certificate, including to a nonbinary option, "sex: not specified," if the person has had a "sex affirmation procedure".&lt;ref&gt;"NSW Registrar of Births, Deaths and Marriages v Norrie [2014] HCA 11 (2 April 2014)" . High Court of Australia. 2 April 2014. Retrieved 16 May 2015. http://www.austlii.edu.au/au/cases/cth/HCA/2014/11.html&lt;/ref&gt; However, they have to be unmarried at the time.&lt;ref&gt;"BIRTHS, DEATHS AND MARRIAGES REGISTRATION ACT 1995 - SECT 32B Application to alter register to record change of sex" . Retrieved 26 July 2015. http://www5.austlii.edu.au/au/legis/nsw/consol_act/bdamra1995383/s32b.html&lt;/ref&gt;
+| 
+|-
+| [[Recognition (Austria)|Austria]]
+| style="background-color:#f99;"| M or F only. As of June 2016, intersex activist Alex Jürgen is attempting to get a different gender recognised on both the birth certificate and the passport.&lt;ref&gt;"Austria may legally recognize 3rd gender as intersex person challenges authorities in court." ''RT''. June 23, 2016. https://www.rt.com/news/347857-austria-intersex-person-lawsuit/&lt;/ref&gt;
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+| It is possible to change to an ambiguous name. However, there are high fees for a name change unless one can prove to have a reason that is approved by the state. A name that doesn't correspond to the legal gender can also be chosen, but only as a second or third name - the name that is listed first has to correspond to the legal gender or be ambiguous.&lt;ref&gt;"Vornamensänderung." ''TransX.'' http://www.transx.at/Pub/Recht_Vornamen.php&lt;/ref&gt;
+|-
+| [[Recognition (Argentina)|Argentina]]
+| 
+| style="background-color:#ffb;"| Argentina allows transgender people to get access to legal and medical resources they need to transition, without requiring these things in order to be legally recognized as their gender. They can change their legal gender based on their written declaration, without even a diagnosis.&lt;ref&gt;"Argentina Adopts Groundbreaking Gender Identity Law." ''Transgender Europe.'' May 10, 2012. http://tgeu.org/argentina-adopts-ground-breaking-gender-identity-law/&lt;/ref&gt; See Argentina's Gender Identity Law as of 2012 [http://tgeu.org/argentina-gender-identity-law/ here]. While this law is said to be the most progressive transgender law in the world,&lt;ref&gt;"FAQ about identity documents." ''Lambda Legal.'' http://www.lambdalegal.org/know-your-rights/transgender/identity-document-faq&lt;/ref&gt; it doesn't directly mention intersex or nonbinary people.
+|
+|-
+| [[Recognition (Armenia)|Armenia]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Azerbaijan)|Azerbaijan]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Bangladesh)|Bangladesh]]
+| style="background-color:#9ff;"| In 2011, started to allow passports to show a gender called "other".&lt;ref&gt;http://www.attn.com/stories/868/transgender-passport-status&lt;/ref&gt;&lt;ref&gt;Tristin Hopper, "Genderless passports ‘under review’ in Canada." May 8, 2012. ''National Post.'' http://news.nationalpost.com/news/canada/genderless-passports-under-review-in-canada&lt;/ref&gt;
+|
+| 
+|-
+| [[Recognition (Belarus)|Belarus]]
+|
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Belgium)|Belgium]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;"Trans Rights Europe Map &amp; Index 2016." ''Transgender Europe.'' http://tgeu.org/trans-rights_europe_map_2016/&lt;/ref&gt;
+|
+|-
+| [[Recognition (Bolivia)|Bolivia]]
+|
+| style="background-color:#f99;"| "Transgender people in Bolivia will soon be able to legally change their name, sex and gender."&lt;ref&gt;Joe Williams, "Trans people win right to change name and gender in Bolivia." November 28, 2015. ''Pink News'' (news). [http://www.pinknews.co.uk/2015/11/28/trans-people-win-right-to-change-name-and-gender-in-bolivia/ http://www.pinknews.co.uk/2015/11/28/trans-people-win-right-to-change-name-and-gender-in-bolivia/]&lt;/ref&gt;
+|
+|-
+| [[Recognition (Bulgaria)|Bulgaria]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Canada)|Canada]]
+| style="background-color:#ffb;"| Currently, Canada doesn't allow people to get passports with a nonbinary gender marker, but politicians are working toward this.&lt;ref&gt;RJ Vandrish. "Passport Canada rejects sex-unspecified passports." October 4, 2014. ''Daily Xtra'' (news). http://www.dailyxtra.com/canada/news-and-ideas/news/passport-canada-rejects-sex-unspecified-passports-93929&lt;/ref&gt; Canadian citizens can also do activism to ask for this option to be introduced: [http://chrismilloy.ca/2012/02/how-to-apply-for-sex-unspecified-canadian-passport-in-protest/ How to: Apply for "sex unspecified" Canadian passport in protest]. Beginning in June 2016, the government of Ontario started issuing all new health cards without an indication of sex or gender. In early 2017, Ontario Driver's licences will have an "X" option for sex. &lt;ref&gt;https://news.ontario.ca/mgs/en/2016/06/gender-on-health-cards-and-drivers-licences.html&lt;/ref&gt;
+| style="background-color:#ffb;"| Transgender persons can change their legal gender and name after completion of medical intervention in most provinces and territories (not required in Ontario, British Columbia, and Manitoba).&lt;ref&gt;[http://www.canlii.org/nt/laws/sta/2002c.18/20080818/whole.html Northwest Territories ''Human Rights Act'', S.N.W.T. 2002, c.18. Section 5.]&lt;/ref&gt;&lt;ref&gt;"Ontario passes law to protect transgender people"  CBC News June 13, 2012. Accessed June 13, 2012 http://www.cbc.ca/news/canada/toronto/story/2012/06/13/ontario-gender-equality.html&lt;/ref&gt;&lt;ref&gt;http://www2.gov.bc.ca/gov/topic.page?id=C53953157EE344A681EFD28325B526F4&lt;/ref&gt;&lt;ref&gt;http://vitalstats.gov.mb.ca/change_of_sex_designation.html&lt;/ref&gt;
+| Explicit anti-discrimination protections for transgender people only in Alberta, Northwest Territories, Manitoba, Saskatchewan and Ontario, implicit elsewhere.
+|-
+| [[Recognition (Colombia)|Colombia]]
+|
+| style="background-color:#ffb;"| Since 2015, transgender persons can change their legal gender and name manifesting their solemn will before a notar, no surgeries or judicial order required.&lt;ref&gt;https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory#cite_note-143&lt;/ref&gt;
+|
+|-
+| [[Recognition (Croatia)|Croatia]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Czech Republic)|Czech Republic]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Denmark)|Denmark]]
+| style="background-color:#9ff;"| Denmark allows people to get passports with the gender marker X.&lt;ref&gt;"Denmark: X in Passports and New Trans Law Works." ''Transgender Europe.'' September 12, 2014. http://tgeu.org/denmark-x-in-passports-and-new-trans-law-work/&lt;/ref&gt;
+| style="background-color:#ffb;"| Since 2014, no longer requires sterilization, gender identity disorder diagnosis, or ending a marriage in order to change legal sex.&lt;ref&gt;"Denmark becomes Europe’s leading country on legal gender recognition | The European Parliament Intergroup on LGBTI Rights" . Lgbt-ep.eu. 2014-06-12. Retrieved 2015-04-10. http://www.lgbt-ep.eu/press-releases/denmark-becomes-europes-leading-country-on-legal-gender-recognition/&lt;/ref&gt; Requires applicants to be over 18, and to wait six months after applying before legal sex change takes effect.&lt;ref&gt;World must follow Denmark's example after landmark transgender law  http://www.amnesty.org/en/en/news/denmark-transgender-law-2014-06-12&lt;/ref&gt;
+| Danish law includes protections against discrimination based on sexual orientation and gender identity/expression.&lt;ref name="ILGA 2013"&gt;[http://old.ilga.org/Statehomophobia/ILGA_State_Sponsored_Homophobia_2013.pdf State-sponsored Homophobia A world survey of laws criminalising same-sex sexual acts between consenting adults]&lt;/ref&gt;&lt;ref&gt;[http://www.non-discrimination.net/content/main-legislation-17 Main legislation]&lt;/ref&gt; Danish law includes hate crimes legislation, which adds extra penalties for crimes committed against people because of their sexuality and for their gender identity or form of gender expression.&lt;ref&gt;State-sponsored Homophobia A world survey of laws criminalising same-sex sexual acts between consenting adults http://old.ilga.org/Statehomophobia/ILGA_State_Sponsored_Homophobia_2013.pdf&lt;/ref&gt;
+|-
+| [[Recognition (Estonia)|Estonia]]
+|
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Finland)|Finland]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (France)|France]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+| In 2015, for the first time, France allowed an intersex adult to change their birth certificate to "gender neutral".&lt;ref&gt;Joseph Patrick McCormick. "France legally recognises person as ‘gender neutral’ for the first time." ''Pink News''. October 15, 2015. [http://www.pinknews.co.uk/2015/10/15/france-legally-recognises-person-as-gender-neutral-for-the-first-timehttp://www.pinknews.co.uk/2015/10/15/france-legally-recognises-person-as-gender-neutral-for-the-first-time]&lt;/ref&gt;
+|-
+| [[Recognition (Georgia) (country)|Georgia (country)]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Germany)|Germany]]
+| style="background-color:#ffb;"| Germany requires newborns with "ambiguous" genitals to have birth certificates with the gender marker "X", meaning no gender entry, to be changed to F or M later in life. Activists fear this will lead to even more pressure for nonconsensual surgery on intersex babies as parents are afraid of this stigmatizing non-marker.&lt;ref&gt;"German proposals for a “third gender” on birth certificates miss the mark". ''OII Australia''. [https://oii.org.au/23183/germany-third-gender-birth-certificates/]&lt;/ref&gt; Its passports still only allow [[binary genders|binary]] options.&lt;ref&gt;Friederike Heine, "M, F or Blank: 'Third Gender' Official in Germany from November." August 16, 2013. ''Spiegel Online International'' (news). [http://www.spiegel.de/international/germany/third-gender-option-to-become-available-on-german-birth-certificates-a-916940.html http://www.spiegel.de/international/germany/third-gender-option-to-become-available-on-german-birth-certificates-a-916940.html]&lt;/ref&gt;
+| style="background-color:#ffb;"| In 2011, Germany stopped requiring transgender people to be coercively [[sterilization|sterilized]] in order to transition.&lt;ref&gt;"German Federal Court Outlawing Forced Sterilisation (2011)." ''Transgender Europe.'' January 7, 2015. http://tgeu.org/german-federal-court-verdict-on-forced-sterilisation-2011/&lt;/ref&gt; 
+| Some nonbinary people have legally adopted neutral names, arguing the TSG ("law on transsexuals") does not apply to them.&lt;ref&gt;"Namensänderung ohne Transsexuellengesetz". ''nibiTrans*Ich'' (blog).[http://nibitransich.blogspot.de/2015/09/namensanderung-ohne-tsg.html]&lt;/ref&gt;
+|-
+| [[Recognition (Greece)|Greece]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (India)|India]]
+| style="background-color:#ffb;"| India allows passports to use the gender marker "T", meaning transgender,&lt;ref&gt;Mitch Kellaway. "Trans Indian's Predicament at Border Shows the U.S. Lags Behind." May 9, 2015.  ''Advocate.'' http://www.advocate.com/politics/transgender/2015/05/09/trans-indian-womans-predicament-border-shows-us-lags-behind&lt;/ref&gt; as well as "E" (eunuch).&lt;ref&gt;Tristin Hopper, "Genderless passports ‘under review’ in Canada." May 8, 2012. ''National Post.'' http://news.nationalpost.com/news/canada/genderless-passports-under-review-in-canada&lt;/ref&gt;
+|
+| 
+|-
+| [[Recognition (Ireland)|Ireland]]
+| style="background-color:#f99;"| M or F only.
+| style="background-color:#ffb;"| In 2015, Ireland passed a law allowing transgender adults to legally transition to either female or male only, without a requirement of medical intervention. Intersex and nonbinary people and minors are still left out.&lt;ref&gt;http://www.theguardian.com/world/2015/jul/16/ireland-transgender-law-gender-recognition-bill-passed&lt;/ref&gt; Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|
+|-
+| [[Recognition (Italy)|Italy]]
+|
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Japan)|Japan]]
+|
+| style="background-color:#f99;"| Japan made legal transition possible in 2004. In order to get one, Japan requires that a transgender person must be unmarried, has never had children, has had genital surgery, and has been sterilized.&lt;ref&gt;http://www.impowr.org/content/current-legal-framework-transgender-issues-japan&lt;/ref&gt;
+|
+|-
+| [[Recognition (Kenya)|Kenya]]
+| style="background-color:#f99;"| In 2015, activists in Kenya are still working for the introduction of another gender option on official forms for people who don't identify as female or male, who may be intersex or transgender.&lt;ref&gt;Lydia Matata, "Identifying as Neither Male Nor Female, Some Kenyans Seek a Third Option on Official Documents." December 1, 2015. ''Global Press Journal.'' [http://globalpressjournal.com/africa/kenya/identifying-as-neither-male-nor-female-some-kenyans-seek-a-third-option-on-official-documents/# http://globalpressjournal.com/africa/kenya/identifying-as-neither-male-nor-female-some-kenyans-seek-a-third-option-on-official-documents/#]&lt;/ref&gt;
+| 
+|
+|-
+| [[Recognition (Latvia)|Latvia]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Lithuania)|Lithuania]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Malaysia)|Malaysia]]
+|
+| style="background-color:#f99;"| Malaysia has no legislation for changing a legal sex, and instead deals with this on a case-by-case basis.
+|
+|-
+| [[Recognition (Malta)|Malta]]
+| style="background-color:#f99;"| In 2015, Malta is actively working toward allowing passports of transgender and intersex people to use an "X" gender marker, but this hasn't been resolved yet.&lt;ref&gt;Aron Macarow. "These Seven Countries are Way Ahead of the US on Trans Issues." February 9, 2015. ''Attn.'' http://www.attn.com/stories/868/transgender-passport-status&lt;/ref&gt; 
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+| 
+|-
+| [[Recognition (Montenegro)|Montenegro]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Nepal)|Nepal]]
+| style="background-color:#9ff;"| Allows passports to use an "X" gender marker.&lt;ref&gt;Clarissa-Jan Lim. "New "Third Gender" Option on Nepal Passports Finally Protects the Rights of LGBT Community." ''Bustle.'' January 8, 2015. http://www.bustle.com/articles/57466-new-third-gender-option-on-nepal-passports-finally-protects-the-rights-of-lgbt-community&lt;/ref&gt;
+| 
+|
+|-
+| [[Recognition (Netherlands)|Netherlands]]
+|
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (New Zealand)|New Zealand]]
+| style="background-color:#9ff;"| Allows passports to use a nonbinary gender option, X.&lt;ref&gt;Clarissa-Jan Lim. "New "Third Gender" Option on Nepal Passports Finally Protects the Rights of LGBT Community." ''Bustle.'' January 8, 2015. http://www.bustle.com/articles/57466-new-third-gender-option-on-nepal-passports-finally-protects-the-rights-of-lgbt-community&lt;/ref&gt; You can change it simply by applying for it.&lt;ref&gt;http://www.wclc.org.nz/wp-content/uploads/How-to-change-your-name-and-gender-under-New-Zealand-law.pdf&lt;/ref&gt;
+| style="background-color:#9ff;"| Since 1995, in order to change the gender on your birth certificate, you need to show that you wish to live in your intended gender, and that you have undergone "medical treatment" for it.&lt;ref&gt;http://www.wclc.org.nz/wp-content/uploads/How-to-change-your-name-and-gender-under-New-Zealand-law.pdf&lt;/ref&gt; You can change your driver's license simply by applying for it.&lt;ref&gt;http://www.wclc.org.nz/wp-content/uploads/How-to-change-your-name-and-gender-under-New-Zealand-law.pdf&lt;/ref&gt;
+| 
+|-
+| [[Recognition (Norway)|Norway]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Philippines)|Philippines]]
+|
+| style="background-color:#f99;"| This country doesn't allow transgender people to change their legal sex, but made an exception for an intersex person.
+|
+|-
+| [[Recognition (Poland)|Poland]]
+|
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Portugal)|Portugal]]
+|
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Romania)|Romania]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt; Genital surgery is required in order to change legal sex.&lt;ref&gt;"Transsexualismul in Romania" . Accept Romania. Retrieved 2 December 2012. http://accept-romania.ro/lgbt-issues/trans/&lt;/ref&gt; Allowed to marry in accordance with new legal sex.
+|
+|-
+| [[Recognition (Russia)|Russia]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Serbia)|Serbia]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Slovakia)|Slovakia]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Slovenia)|Slovenia]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (South Africa)|South Africa]]
+|
+| style="background-color:#ffb;"| Since 2003, legal gender can be changed after medical treatment. Hormone therapy is seen as enough, surgery isn't required.&lt;ref&gt;"Changing your name and gender in your identity document: the Alteration of Sex Description Act 49 of 2003" (PDF). Gender Dynamix. Retrieved 29 September 2013. http://www.genderdynamix.org.za/wp-content/uploads/2012/10/Act-49-English.pdf&lt;/ref&gt;
+| Anti-discrimination laws are interpreted to include gender identity.
+|-
+| [[Recognition (South Korea)|South Korea]]
+|
+| style="background-color:#ffb;"| In 2013 a court ruled that transsexuals can change their legal sex without undergoing genital surgery.&lt;ref&gt;{{cite news|last1=Un|first1=Ji-Won|last2=Park|first2=Hyun-Jung|title=Landmark legal ruling for South Korean transgenders|url=http://www.hani.co.kr/arti/english_edition/e_national/578323.html|accessdate=16 May 2015|publisher=''The Hankyoreh''|date=16 May 2013}}&lt;/ref&gt;
+|
+|-
+| [[Recognition (Spain)|Spain]]
+|
+| style="background-color:#ffb;"| Doesn't require transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Sweden)|Sweden]]
+| 
+| style="background-color:#ffb;"| In 2012, Sweden stopped requiring transgender people to be coercively sterilized in order to transition,&lt;ref&gt;"Swedish Verdict outlawing forced Sterilisation (2012)." ''Transgender Europe.'' http://tgeu.org/administrative-court-of-appeal-in-stockholm-on-sterilisation-requirement-in-gender-recognition-legislation-19-dec-2012/&lt;/ref&gt; and in 2014, stopped requiring a mental health diagnosis in order to get legal gender recognition.&lt;ref&gt;"Swedish Court outlaws diagnosis requirement." September 7, 2014. ''Transgender Europe.'' http://tgeu.org/administrative-court-in-stockholm-striking-out-diagnosis-in-gender-recognition-16-05-2014/&lt;/ref&gt;
+|
+|-
+| [[Recognition (Switzerland)|Switzerland]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (Turkey)|Turkey]]
+|
+| style="background-color:#f99;"| Requires transgender people to be sterilized in order to have legal gender recognition.&lt;ref name="tre map"&gt;&lt;/ref&gt;
+|
+|-
+| [[Recognition (UK)|United Kingdom]]
+| style="background-color:#f99;"| As of 2015, some politicians are working to introduce passports with an option for an X gender marker.&lt;ref&gt;"Gender neutral passports move a step closer to reality after Labour backing." [http://www.independent.co.uk/news/uk/politics/gender-neutral-passports-move-a-step-closer-to-reality-after-labour-backing-10123734.html http://www.independent.co.uk/news/uk/politics/gender-neutral-passports-move-a-step-closer-to-reality-after-labour-backing-10123734.html]&lt;/ref&gt; In 2015, the Ministry of Justice refused to allow a nonbinary legal gender.&lt;ref&gt;https://petition.parliament.uk/petitions/104639&lt;/ref&gt;
+| style="background-color:#ffb;"| In order to legally transition, you're first required to have a diagnosis of [[gender dysphoria]], and to have lived as your gender for two years, but you're not required to have had surgery.&lt;ref&gt;https://www.gov.uk/apply-gender-recognition-certificate/changing-your-gender&lt;/ref&gt; 
+| In 2015, the Ministry of Justice stated that, unlike binary trans people, nonbinary people aren't protected under equality law.&lt;ref&gt;https://petition.parliament.uk/petitions/104639&lt;/ref&gt;&lt;ref&gt;http://beyondthebinary.co.uk/specificdetriment-what-you-told-us/&lt;/ref&gt; In the UK, most kinds of paperwork and ID show a person's title, which is the main place where gender shows on those documents. Recognition of the [[gender neutral titles|gender-neutral title]] "[[Mx]]" is coming to be widespread.
+|-
+| [[Recognition (USA)|United States of America]]
+| style="background-color:#ffb;"| All US official identity documents (passports, birth certificates, driver's licenses, and so on) that record gender (called "sex" in those documents) require people to be called either female or male, with no nonbinary options. This makes problems not only for people who have always lived in the country. The US State Department has no process for dealing with people who have nonbinary passports from other countries.&lt;ref&gt;Jenny Kutner. "U.S. State Department has no process for accepting transgender passports." May 7, 2015. ''Salon.'' http://www.salon.com/2015/05/07/u_s_state_department_has_no_process_for_accepting_transgender_passports/&lt;/ref&gt; In 2016, Jamie Shupe of Oregon became the first person in the USA whose legal sex is "non-binary,"&lt;ref&gt;Casey Parks, "Oregon court allows person to change sex from 'female' to 'non-binary'." June 10, 2016. ''The Oregonian'' (news). [http://www.oregonlive.com/portland/index.ssf/2016/06/oregon_court_allows_person_to.html http://www.oregonlive.com/portland/index.ssf/2016/06/oregon_court_allows_person_to.html]&lt;/ref&gt; and uses identity documents that typically don't display sex (military retiree and social security cards), but the DMV doesn't yet allow nonbinary driver's licenses.&lt;ref&gt;Bob Heye, "Oregon DMV says they can't issue driver's license for non-binary individual." ''Katu News''. [http://local21news.com/news/local/oregon-dmv-says-they-cant-issue-drivers-license-for-non-binary-individual http://local21news.com/news/local/oregon-dmv-says-they-cant-issue-drivers-license-for-non-binary-individual]&lt;/ref&gt;
+| style="background-color:#ffb;"| Each state has different laws regarding legal transition. Most states require proof of surgery in order to legally transition, and the rest require a letter from a doctor saying you've had some kind of transition.
+| In the USA, documents and ID rarely show a person's title.
+|}
+
+==See also==
+*[[Practical resources]]
+*[[Charities and groups that benefit gender variant people]]
+
+==External links==
+*[https://en.wikipedia.org/wiki/LGBT_rights_by_country_or_territory Wikipedia: LGBT rights by country or territory]
+*[http://tgeu.org/toolkit_legal_gender_recognition_in_europe/ Transgender Europe: Toolkit: Legal gender recognition in Europe]
+*[http://tgeu.org/trans-rights-europe-card-game-2014/ Transgender Europe: Trans Rights Europe Card Game]
+*[http://tgeu.org/trans-rights_europe_map_2016/ Transgender Europe: Trans Rights Europe Map &amp; Index 2016]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Recognition]][[Category:Practical resources]]

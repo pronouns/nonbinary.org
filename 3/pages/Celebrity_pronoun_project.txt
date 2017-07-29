@@ -1,0 +1,105 @@
+The [[celebrity pronoun project]] collects the [[pronouns]] of all celebrities for easy reference. This is not just for [[transgender]] and [[nonbinary celebrities]], but for all celebrities.
+
+Introduction from [http://cassolotl.tumblr.com/post/141254876560 Cassian Lodge's blog post], March 2016:
+
+&lt;blockquote&gt;"This morning I am thinking about my recent session with a gender-specialist counsellor at my gender identity clinic, and my feeling that cis binary as default is a very real thing that makes me feel marginalised.
+
+"He asked me to describe a society that included me (a nonbinary person) by default. I said that I’d like it if people just stopped assuming gender based on appearance.
+
+"This morning I’m enjoying the idea of referring to everyone as ''they'' until I know otherwise, not to misgender or to degender but because ''they'' also happens to be the pronoun you use when someone’s gender is unknown.
+
+"And that means that most celebrities are going to have to be called ''they'' too. But most celebrities haven’t stated their pronoun preference, and if they have, there’s not really an easy way to find out what that preference is. Wouldn’t it be cool if there was a central place for people to list them in a crowdsource kind of a way?
+
+...
+
+"Tweet your favourite celebrities and ask them about their pronouns - then update the table so others can easily get it right."&lt;/blockquote&gt;
+
+
+==Guidelines==
+
+* If they have a page about them on Wikipedia, you can add them.
+* Add names alphabetically by surname.
+* Always add a date next to your source. If there is no date on the source, write the month and year that you added the source to the table.
+* If you have a more recent and at least equally reliable source for a celebrity's pronouns, feel free to change the source in the table.
+* Check for existing sources such as celebrity bios and existing interviews before asking a celebrity directly.
+* If you have to ask a celebrity what their pronouns are, be polite and sensitive - being asked about pronouns isn't always easy.
+
+If you don't feel confident to edit the table, you can use [https://docs.google.com/forms/d/1oYeSe98EyVkmzEpAHxGjPXQ7qL52HstHfp_uHO1S19I/viewform this Google form] to send the information to Cassian and they'll edit the table for you.
+
+==The table==
+
+{| class="wikitable"
+! style="font-weight: bold;" | Celebrity name (surname first)
+! style="font-weight: bold;" | Profession
+! style="font-weight: bold;" | Pronoun
+! style="font-weight: bold;" | Source and date
+|-
+&lt;!--
+| Surname, Firstname (link to wikipedia page)
+| Profession
+| He
+| Tweet (linked), March 2016
+|-
+--&gt;
+| Bond, Justin Vivian ([https://en.wikipedia.org/wiki/Justin_Vivian_Bond wikipedia], [[Justin Vivian Bond|here]])
+| Cabaret artist
+| v
+| ''[http://www.theguardian.com/stage/2011/jun/28/justin-bond?CMP=twt_gu Justin Bond: 'I think everybody's trans']'', June 2011
+|-
+| Bornstein, Kate ([https://en.wikipedia.org/wiki/Kate_Bornstein wikipedia], [[Kate Bornstein|here]])
+| Activist, author
+| they; she
+| [https://twitter.com/katebornstein/status/692135982716575745 Tweet], January 2016.
+|-
+| Dunham, Grace ([https://en.wikipedia.org/wiki/Grace_Dunham wikipedia])
+| Actor
+| they
+| [http://bust.com/feminism/14744-lena-dunhams-sibling-grace-walked-like-a-boy-at-nyfw.html ''"Lena Dunham's Sibling Grace 'Walked Like A Boy' At NYFW"'' on Bust.com], retrieved April 2016
+|-
+| Feinberg, Leslie ([https://en.wikipedia.org/wiki/Leslie_Feinberg wikipedia], [[Leslie Feinberg|here]])
+| Revolutionary communist, author
+| ze, hir; she
+| [http://www.advocate.com/arts-entertainment/books/2014/11/17/transgender-pioneer-leslie-feinberg-stone-butch-blues-has-died Obituary by hir partner], November 2014
+|-
+| Gibson, Andrea ([https://en.wikipedia.org/wiki/Andrea_Gibson wikipedia], [[Andrea Gibson|here]])
+| Poet, activist
+| they
+| [https://www.reddit.com/r/IAmA/comments/2d60ih/i_am_andrea_gibson_a_queer_touring_poet_with/cjmevgj Gibson's comment on a Reddit "Ask Me Anything"], August 2014
+|-
+| Coyote, Ivan E ([https://en.wikipedia.org/wiki/Ivan_Coyote wikipedia], [[Nonbinary celebrities#Ivan E Coyote|here]])
+| Spoken word performer, writer
+| they
+| [http://www.ivanecoyote.com/page/6/bio Coyote's bio on their personal website uses "they" to describe them], captured March 2016
+|-
+| Penny, Laurie ([https://en.wikipedia.org/wiki/Laurie_Penny wikipedia], [[here]])
+| Author, journalist, feminist
+| they; she
+| [http://www.buzzfeed.com/lauriepenny/how-to-be-a-genderqueer-feminist#.ds5MaoAQ2 Article by Laurie Penny], October 2015
+|-
+| P-orridge, Genesis Breyer ([https://en.wikipedia.org/wiki/Genesis_P-Orridge wikipedia], [[Nonbinary celebrities#Genesis Breyer P-Orridge|here]])
+| Singer-songwriter, occultist, and performance artist
+| s/he, h/er
+| [http://www.genesisbreyerporridge.com/genesisbreyerporridge.com/Genesis_BREYER_P-ORRIDGE_Home.html H/er own website], March 2016
+|-
+| Rose, Ruby ([https://en.wikipedia.org/wiki/Ruby_Rose wikipedia], [[Nonbinary celebrities#Ruby Rose|here]])
+| Actor, model
+| she
+| [https://twitter.com/RubyRose/status/589957651242487808 Tweet], April 2015
+|-
+| Spoon, Rae ([https://en.wikipedia.org/wiki/Rae_Spoon wikipedia], [[Nonbinary celebrities#Rae Spoon|here]])
+| Musician, writer
+| they
+| [http://raespoon.tumblr.com/post/15242754277/instead-of-an-interview-with-xtra Blog post by Rae Spoon], January 2012
+|-
+| Way, Gerard ([https://en.wikipedia.org/wiki/Gerard_Way wikipedia], [[Nonbinary celebrities#Gerard Way|here]])
+| Musician
+| he or they
+| [https://twitter.com/gerardway/status/607733754015006720 Tweet], June 2015
+|-
+
+|}
+
+==See also==
+* [[Pronouns]]
+* [[Pronouns#Examples of specific non-binary people's pronouns|Examples of specific non-binary people's pronouns]]
+* [[Nonbinary celebrities]]

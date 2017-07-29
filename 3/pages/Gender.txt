@@ -1,0 +1,25 @@
+{{Stub}}
+'''Gender''' is the range of mental, behavioral, and sometimes even physical characteristics differentiating between [[female]], [[male]], and others. 
+
+A person's gender has many parts. Some of these parts are: 
+ 
+* [[Gender identity]], which is how one perceives one's own gender. It may or may not include or have much to do with how a person feels about their body.
+* [[Sex#Gender Assigned At Birth|gender assigned at birth]], which is based on how their genitals look at birth, society assigns people the genders of female, male, or sometimes intersex.
+* [[Gender roles]], which is how a society fits people into categories that are based on how they are useful to that society. For example, a hunter-gatherer society often has three gender roles: women gather vegetables and weave baskets, men hunt animals and make stone tools, and [[third gender]] people do some skills from either of those roles, based on their ability. Western society recognizes only two [[binary gender]] roles.
+
+Some writers differentiate entirely between gender and [[sex]], making a contrast between personality and body. Other writers include sex as a physical part of gender, because society's and science's ideas of sex are no less social constructs than gender.
+
+In some groups, people say that "gender is performative," based on what they thought the [[feminism|feminist]] Judith Butler said. However, what people think she said is different from what she meant: 
+
+&lt;blockquote&gt;"A misreading of the 1989 book ''Gender Trouble'' by Judith Butler is responsible for the widespread misconception among academics and activists that all gender is just a performance. As Riki Wilchins points out in the 2004 book Queer Theory, Gender Theory: An Instant Primer (pp. 132-34), what Butler really said was that gender is performatively produced. Performative is defined as an utterance that performs an act or creates a state of affairs, an example being the use of the phrase 'I now pronounce you man and wife' to create a marriage. [http://www.theory.org.uk/but-int1.htm Butler herself refutes the notion of gender being just a performance]."&lt;ref&gt;''Androgyne Online.'' [http://androgyne.0catch.com/ http://androgyne.0catch.com/]&lt;/ref&gt;&lt;/blockquote&gt;
+
+When Butler said that gender is performative, she meant that it is an action. Many people took her words the wrong way, thinking she meant that gender is fake.
+
+==See also==
+*[[Gender dysphoria]]
+*[[Gender binary]]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Concepts]]

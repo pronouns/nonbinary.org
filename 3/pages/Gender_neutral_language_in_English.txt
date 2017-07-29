@@ -1,0 +1,283 @@
+'''Gender neutral language in English''' is easier than [[gender neutral language]] (also called gender inclusive language) in many other languages, because its grammatical gender is less pervasive than in, say, German or French. See the main article on [[gender neutral language]] for general reasons to use neutral language, common problems in using it, and its use for [[nonbinary]] people.
+
+==History==
+
+Although English has grammatical gender, it's only a vestige of what it once had. Old English once had grammatical gender for inanimate objects, but this practice started to disappear in the 700s, and vanished in the 1200s. The population of England at that time spoke several languages, and the same inanimate objects had different genders in those different languages. They may have stopped using that part entirely just to make it simpler. English stopped using grammatical gender for inanimate objects, but it still uses grammatical gender for people and personal pronouns.&lt;ref&gt;Dictionary.com. "English used to have gendered nouns?! Yes!" May 16, 2012. ''Dictionary.com'' (blog). [http://blog.dictionary.com/oldenglishgender/ http://blog.dictionary.com/oldenglishgender/]&lt;/ref&gt; There is enough to make a challenge for nonbinary people who don't want gendered language to be used for them.
+
+Gender-neutral language has become common in English today largely thanks to the pioneering work by feminists Casey Miller and Kate Swift. During the 1970s, they began the work of encouraging inclusive language, as an alternative to sexist language that excludes or dehumanizes women. Miller and Swift wrote a manual on gender-neutral language, ''The Handbook of Nonsexist Writing'' (1980). Miller and Swift also proposed a set of gender-neutral pronouns, [[English neutral pronouns#Tey|tey]], although they later favored [[English neutral pronouns#They|singular they]], or [[English neutral pronouns#He or she|he or she]].&lt;ref&gt;Elizabeth Isele, "Casey Miller and Kate Swift: Women who dared to disturb the lexicon." http://scholar.lib.vt.edu/ejournals/old-WILLA/fall94/h2-isele.html &lt;/ref&gt; There are several books on gender-neutral English, such as Rosalie Maggio's book ''The Nonsexist Word Finder: A Dictionary of Gender-Free Usage'' (1989). 
+
+==Words and alternatives==
+
+This is a list of both standard (dictionary) and non-standard (created) terms and pronouns to include [[nonbinary gender|nonbinary identities]]. It should be noted that while some are [[agender|genderless]] or [[third gender]], others are multigender. Terms will be marked with the implied gender identity when possible.  
+
+===Pronouns===
+
+''See main article at [[English neutral pronouns]].''
+
+===Titles===
+
+''See main article at [[Gender neutral titles]].''
+
+===Common nouns===
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Type of common noun
+! Feminine
+! Masculine
+! Gender inclusive (could be masculine or feminine)
+! Specifically nonbinary
+|-
+| Young person
+| Girl, maiden
+| Boy, youth
+| Child, kid, infant, teen, tween, young person
+| Enby
+|-
+| Adult person
+| Woman, lady
+| Man, gentleman
+| Adult, gentlebeing, gentleperson, grownup
+| Enby, enban
+|-
+| Person of any age
+| Female
+| Male
+| Being, puman, human being, one, person, somebody, someone
+| Enby
+|}
+
+===Family and relationship words===
+
+''See also: [[family]] and [[intimacy]].''
+
+====Parent====
+
+Parents as in the formal words mother or father, or the informal mama or dada. Gender-neutral and gender-inclusive words for a parent of any gender, or non-standard specifically nonbinary, [[queer]], or [[genderqueer]] words. A list in alphabetical order.
+
+* '''Baba.''' "Neutral, based on mama and dada. (Note, baba means dad in some languages and grandmother in others.)"&lt;ref name="titles queeries"&gt;"Gender neutral/queer titles." ''Gender Queeries.'' [http://genderqueeries.tumblr.com/titles http://genderqueeries.tumblr.com/titles]&lt;/ref&gt;
+* '''Bibi.''' "Queer, based on the B in NB [nonbinary], similar to mama and papa/dada."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Cenn.''' "Neutral, short for cennend," which see.&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Cennend.''' "Neutral, Old English (Anglo-Saxon) meaning parent."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Dommy.''' "Queer, mixture of mommy and daddy (note: sounds like Dom/me, a BDSM term)."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Mada.''' Queer, mixture of mama and dad.
+* '''Maddy.''' "Queer, mixture of mummy/mommy and daddy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Moddy.''' "Queer, mixture of mommy and daddy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Muddy.''' "Queer, mixture of mummy and daddy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Nini.''' "Queer, based on the N in NB, similar to mama and papa/dada."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Non.''' Follows a similar pattern (CvC) to Mom or Dad, could be short for "nonbinary". Variation '''Nonny''' for use with young children, similar to Mommy or Daddy. 
+* '''Par.''' "Neutral, short for parent."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Parent.''' "Neutral, formal."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Parental Unit (PU).''' Neutral, informal, humorous, possibly disrespectful. Used by the alien family in ''Coneheads,'' and taken up by popular culture.&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Per.''' "Neutral, short for parent."&lt;ref name="titles queeries"&gt;&lt;/ref&gt; (See also: [[Pronouns#Per|per pronouns]] and [[Gender neutral titles#Pr|Pr title]].)
+* '''Zaza.''' "Queer, based on mama and papa/dada."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Zither.''' "Queer, based on mother and father. (Note, zither is also the name of a musical instrument.)"&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+====Child====
+
+Some of these gender-inclusive or gender-queer words refer only to relationship (as in daughter, son, or offspring), others only to age (girl, boy, or young one), and some to both (children). Alphabetical order.
+
+* '''Baby.''' Standard neutral word for very young offspring or very young people.
+* '''Bitsy.''' Non-standard [[genderqueer]] term for a very young person.&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Charge.''' Standard gender neutral word for a person in the care of another, often one's child.
+* '''Child.''' Standard gender neutral word for a young person or an offspring. Implied age isn't adult, but may be.
+* '''Dependent.''' A person who relies on another-- usually a family member who may or may not be their parent-- for financial support; this is most often used as a standard gender-neutral word for a child too young to work. Formal.
+* '''Enby.''' From "NB (nonbinary)", a nonbinary equivalent of the words "boy" and "girl." However, some adults call themselves enbies.
+* '''Get.''' Poetic language for offspring.
+* '''Kid.''' Standard informal gender neutral term for young children or young offspring.
+* '''Little one.''' Neutral word for a very young child or young offspring.
+* '''Minor.''' Standard gender-neutral word for a person under the legal age of consent.
+* '''Nesser.''' Non-standard genderqueer term for "daughter/son".&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Offspring.''' Neutral, standard word, but not usually used for people, except in legal language.
+* '''Oldest.''' Neutral, a way of speaking of one's offspring by saying "my oldest," rather than saying "my daughter/son."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Sprog.''' Neutral, crude word for a young person.&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Youth.''' Neutral, poetic word for a young person, but usually implied to be male. 
+* '''Young.''' Neutral, standard word for offspring, but not usually used for people ("my young.")
+* '''Youngest.''' Neutral, a way of speaking of one's offspring by saying "my youngest," rather than saying "my daughter/son."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Young one.''' Neutral, poetic.
+* '''Young person.''' Neutral, standard, formal.
+* '''Ward.''' Standard gender-neutral word for a person, usually a child, under the care of an adult, who may or may not be their parent. Formal.
+
+====Aunt/Uncle====
+
+Standard English doesn't have a gender neutral word for one's parent's sibling. People have created some words to fill this lexical gap, but they are still uncommon words. Alphabetical order.
+
+* '''Auncle.''' "Queer, combination of aunt and uncle."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Bibi.''' "Queer, based on the B in NB [nonbinary], similar to Titi/Zizi."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Cousin.''' "Neutral, as sometimes people say aunt/uncle for parents’ cousins, or much older cousins."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Nini.''' "Queer, based on the N in NB, similar to Titi/Zizi."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Ommer.''' Non-standard genderqueer term for "aunt/uncle".
+* '''Pibling.''' "Neutral, your parent’s sibling."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Titi.''' "Neutral, from the Spanish for Aunt (Tia) and Uncle (Tio). (however, it is often a diminutive of aunt.)"&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Zizi.''' "Neutral, from the Italian for Aunt (Zia) and Uncle (Zio). (Note: zizi is also a French children’s ‘cute’ word for penis.)"&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Untie/Unty.''' "Queer, combination of uncle and auntie/aunty."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+====Niece/Nephew====
+
+Standard English doesn't have a gender neutral word for one's sibling's child. People have created some words to fill this lexical gap, but they are still uncommon words. Alphabetical order.
+
+* '''Chibling.''' "Neutral, the children of you sibling."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Cousin.''' "Neutral, as sometimes people say niece/nephew for cousins’ children, or much younger cousins."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Nibling.''' Non-standard gender neutral term for "niece/nephew". [http://en.wiktionary.org/wiki/nibling Coined by linguist Samuel E. Martin in 1951 from nephew/niece by analogy with sibling.]
+* '''Niecew.''' "Queer, mixture of niece and nephew."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Nieph.''' "Queer, mixture of niece and nephew."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Nephiece.''' "Queer, mixture of nephew and niece."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Sibkid.''' "Neutral, short for sibling’s kid."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+====Grandparent====
+
+Gender-neutral or genderqueer words for grandparent. Alphabetical order.
+
+* '''Bibi.''' "Queer, based on the B in NB, similar to nana and papa."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Grandparent.''' "Neutral, formal."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Grandwa.''' "Queer, based on grandma and grandpa."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Grandy.'''' "Neutral, short for Grandparent, Grandma or Grandpa."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Nini.''' "Queer, based on the N in NB, similar to nana and papa."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+====Sibling====
+
+Gender-neutral or genderqueer words for sibling. Alphabetical order.
+
+* '''Emmer.''' Non-standard genderqueer term for sibling.
+* '''Sib.''' Short for sibling. Equivalent of bro or sis.
+* '''Sibling.''' Standard gender neutral term for sister or brother.
+* '''Sibster.''' "Queer, combination of sibling and sister."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Sibter.''' "Queer, combination of sibling and brother."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+====Partner====
+
+Gender-inclusive or genderqueer words for tentative romantic and sexual partners (as in girlfriend, boyfriend, or date) as well as permanent ones (as in wife, husband, or spouse).
+
+=====Date=====
+
+Gender-neutral and genderqueer words for a non-committed relationship, such as boyfriend, girlfriend, or date. Alphabetical order.
+
+* '''Birlfriend.''' "Queer, mix of boyfriend and girlfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt; [[Birl]] is also a particular gender identity.
+* '''Boifriend.''' "Queer, [[boi]] is a particular gender identity."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Boo.''' From "beau". Originated as African American slang, but now used more widely.
+* '''Bothfriend.''' "Queer, for [[bigender]] or [[androgynous]] people."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Boygirlfriend.''' "Queer, for bigender or androgynous people."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Cuddle Buddy.''' "Neutral, cheesy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Date.''' "Neutral, the person you are dating."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Datefriend.''' "Neutral, the person you are dating, but fitting the boyfriend/girlfriend pattern."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Datemate.''' "Neutral, a rhyming version of datefriend, the person you are dating."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Enbyfriend.''' "Queer, based on boyfriend and girfriend. (note: enby comes from NB, non-binary)."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Feyfriend.''' Queer, due to the implications of "fey."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Genderfriend.''' "Queer, based on boyfriend and girlfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Girlboyfriend.''' "Queer, for bigender or androgynous people."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Lover.''' "Neutral, often implies sexual relationship, but simply refers to someone you love/who loves you."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''[name]friend.''' "Queer, based on girlfriend and boyfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Paramour.''' "Neutral, someone you are having a sexual relationship with."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Personfriend.''' "Neutral, leaning towards queer, based on boyfriend and girlfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Sweetie.''' "Neutral, slightly cheesy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Sweetheart.''' "Neutral, cheesy or old-fashioned."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+=====Significant other=====
+
+Gender-neutral and genderqueer words for a girlfriend, boyfriend, or partner in a committed relationship. Alphabetical order. 
+
+* '''Beloved.''' Neutral, one who one loves.
+* '''Birlfriend.''' "Queer, mix of boyfriend and girlfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt; [[Birl]] is also a particular gender identity.
+* '''Boifriend.''' "Queer, [[boi]] is a particular gender identity."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Bothfriend.''' "Queer, for [[bigender]] or [[androgynous]] people."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Boygirlfriend.''' "Queer, for bigender or androgynous people."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Companion.''' "Neutral, reference to Doctor Who’s companions, or Firefly’s Companions."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Cuddle Buddy.''' "Neutral, cheesy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Enbyfriend.''' "Queer, based on boyfriend and girfriend. (note: enby comes from NB, non-binary)."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Feyfriend.''' Queer, due to the implications of "fey."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Genderfriend.''' "Queer, based on boyfriend and girlfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Girlboyfriend.''' "Queer, for bigender or androgynous people."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Imzadi.''' "Neutral, from Star Trek, a Betazed word similar to beloved."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Loveperson.''' "Neutral, a person that you love."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''[name]friend.''' "Queer, based on girlfriend and boyfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Other Half.''' "Neutral, informal, and implies monogamy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Paramour.''' "Neutral, someone you are having a sexual relationship with."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Partner.''' Neutral, but often queer.
+* '''Personfriend.''' "Neutral, leaning towards queer, based on boyfriend and girlfriend."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Significant Other (S.O.).''' "Neutral, quite formal."&lt;ref name="titles queeries"&gt;&lt;/ref&gt; Implies monogamy.
+* '''Soul Mate.''' "Neutral, slightly cheesy, implies belief in soul mates."&lt;ref name="titles queeries"&gt;&lt;/ref&gt; Implies monogamy.
+* '''Steady.''' "Neutral, as in 'going steady' or 'steady girlfriend/boyfriend'."&lt;ref name="titles queeries"&gt;&lt;/ref&gt; Implies monogamy.
+* '''Sweetie.''' "Neutral, slightly cheesy."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Sweetheart.''' "Neutral, cheesy or old-fashioned."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+=====Fiancée/Fiancé=====
+
+In addition to the above list of words for significant other. 
+
+* '''Betrothed.''' "Neutral, formal."&lt;ref name="titles queeries"&gt;&lt;/ref&gt; Usually means an arranged marriage. 
+
+=====Spouse=====
+
+In addition to the above list of words for significant other. 
+
+* '''Spouse.''' "Standard, neutral, formal."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+
+====Other family relationships====
+
+Gender-neutral and genderqueer words for other kinds of family relationships.
+
+* '''Godparent.''' Standard gender neutral term for godfather or godmother. 
+* '''Grandchild.''' Standard gender neutral term for grandson or granddaughter.
+
+===Professions===
+
+* '''Bar tender.''' Standard gender neutral term for barman or barmaid.
+* '''Business person.''' Standard gender neutral term for businessman or businesswoman.
+* '''Clergy member.''' Standard gender neutral term for clergyman, priest, priestess, and many religious titles.
+* '''Cowhand.''' Standard gender neutral term for cowboy or cowgirl.
+* '''Heroix.''' Proposed nonbinary equivalent to hero or heroine that specifies an individual doing heroic work is nonbinary.
+* '''Horse rider.''' Standard gender neutral term for horseman or horsewoman.
+* '''Minister.''' Standard gender neutral term for priest or priestess.
+* '''Monarch.''' Standard gender neutral term for a king or queen.
+* '''Monarch's heir.''' Gender neutral term for a prince or princess.
+* '''Prime.''' Derived from Latin. Gender Neutral term for a prince or princess.
+* '''Princette.''' Queer, based on the Prince/ess ending. Gender Neutral term for a prince or princess.
+* '''Princexx/Princex/Prinx''' Other gender neutral terms for Prince/Princess/Royalty incorporating the letter x; a common indicator of gender neutral language
+* '''Royalty.''' Standard. Usually refers to a family but can be used as a Gender Neutral term for a prince/princess or a king/queen.
+* '''Noble.''' A nobleman/noblewoman, lord/lady, prince/princess, duke/duchess, or many other noble ranks that lack specific gender neutral titles.
+* '''Pilot.''' Standard gender neutral term for aviator or aviatrix. 
+* '''Police officer''' Standard gender neutral term for policeman or policewoman.
+* '''Server.''' Standard gender neutral term for a person who provides items to customers, such as a "waiter/waitress" or "steward/stewardess".
+
+===Descriptions===
+
+* '''Attractive.''' Gender neutral term equally applicable to "handsome" or "beautiful" individuals. Implies the speaker experiences some form of attraction, so might not be suitable for people who are [[aromantic]] or [[asexual]].
+* '''Gorgeous.''' Gender neutral alternative to "handsome" or "beautiful," but tends to be feminine.
+* '''Youthful.''' Gender neutral alternative to "boyish" or perhaps "girlish," but tends to be masculine.
+
+===Deity titles===
+
+* '''Absolute Being.''' Standard term for a monotheistic deity, without implied gender.
+* '''Almighty.''' Standard term for a monotheistic deity, without implied gender.
+* '''Creator.''' Standard term for a deity who created the world and/or humankind.
+* '''Deity.''' Standard gender neutral term for a god or goddess.
+* '''Divine, the.''' Common gender neutral term for a deity or supernatural forces.
+* '''Divine being.''' Common gender neutral term for a deity or supernatural entity.
+* '''God.''' Standard gender neutral term for a god or goddess, but tends to be presumed male.
+* '''Goddex.''' "Queer, based on the God/dess ending."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Goddette.''' "Queer, based on the God/ess ending."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Goddeq.''' "Queer, based on the God/ess ending."&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Heavens, the'''. Common gender neutral term for a deity, deities, or supernatural forces.
+* '''Higher Power'''. Standard gender neutral term for a deity, deities, or supernatural forces.
+* '''Liege.''' Neutral equivalent of lord or lady.
+* '''Powers that be.''' Common gender neutral term for a god, goddess, or similar supernatural beings or forces.
+* '''Ruler.''' Neutral equivalent of lord or lady.
+* '''Sovereign.''' Neutral equivalent of lord or lady.
+* '''Wild Divine, the.''' New Age name for God, Goddess, or primal supernatural forces.
+
+===Other terms===
+
+* '''Fanenby.''' Queer, using enby after fanboy or fangirl.&lt;ref name="titles queeries"&gt;&lt;/ref&gt;
+* '''Fankid.''' Neutral, after fanboy or fangirl.
+* '''Wedding usher.''' Neutral, alternative to bridesmaid or groomsman.
+
+==See also==
+* [[Gender neutral language]]
+* [[Glossary of English gender and sex terminology]]
+
+==External links==
+* "Gender neutral/queer titles." ''Gender Queeries.'' [http://genderqueeries.tumblr.com/titles http://genderqueeries.tumblr.com/titles]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Language]]

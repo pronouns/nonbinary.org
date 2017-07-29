@@ -1,0 +1,59 @@
+This article gives information on the '''[[recognition]] of [[nonbinary]] gender identities in law, government, services, and businesses in the United Kingdom'''. This also deals with policies about [[transgender]] people in general, and related policies about [[intersex]] people. Recognition here means whether an organization acknowledges that such people exist and have valid identities, and the organization does this by routinely giving them a place where they aren't forced into being wrongly categorized as a [[gender]] that doesn't match their [[gender identity]]. In the case of recognition of nonbinary people, this means the system doesn't force them to wrongly say they are one of the [[binary gender]]s ([[female]] or [[male]]). 
+
+Follow to find lists of organisations in each category, with status on nonbinary acceptance and evidence.
+
+You can find a PDF of some of the evidence here: [http://www.scribd.com/doc/137340953/The-Growing-Use-of-Mx-as-a-Gender-inclusive-Title-in-the-UK]
+
+*[[Finance (UK)|Finance]]
+**[[Credit Reference Agencies (UK)|Credit Reference Agencies]]
+*[[Charities (UK)|Charities]]
+*[[Deed poll services (UK)|Deed poll services]]
+*[[Educational bodies (UK)|Educational bodies]]
+*[[Entertainment services (UK)|Entertainment services]]
+*[[Health and medical (UK)|Health and medical]]
+*[[Local Government (UK)|Local Government]]
+*[[National Government (UK)|National Government]] (includes NHS)
+*[[Shops (UK)|Shops]]
+*[[Travel (UK)|Travel]]
+*Utility Companies
+**[[Post Office (UK)|Post Office]]
+**[[Gas and electricity (UK)|Gas and electricity]]
+**[[Water (UK)|Water]]
+**[[Communications (UK)|Communications]]
+*[[Veterinary surgeries (UK)|Veterinary surgeries]] and related services
+*[[Websites and online services (UK)|Websites and online services]] specific to the UK
+
+==Office for National Statistics (ONS)==
+The ONS are responsible for collecting information about the demographics of the United Kingdom, including the UK census.
+
+When asked over Twitter whether they recognised genders other than male and female, they responded:&lt;ref&gt;[http://twitter.com/ONS/status/553229244042854400 Tweet] by @ONS, January 2015.&lt;/ref&gt;
+
+:''Here's work we've done around the area ow.ly/H0bHu &amp; ow.ly/H0bOl for further info email families@ons.gov.uk''
+
+The second link is relevant. It's a PDF on their investigation into gender.&lt;ref name="ONSgenderPDF"&gt;[http://ow.ly/H0bOl Trans Data Position Paper] by the ONS, May 2009 (direct PDF download)&lt;/ref&gt; It says in the glossary on page 5:
+
+:Androgynous
+:A person who does not fit clearly into the typical gender roles of their society. Androgynous people may identify as beyond gender, between genders, moving across genders, entirely genderless, or any or all of these. Androgyne identities include pan-gender, bi-gender, ambi-gender, non-gendered, a-gender, gender-fluid or intergender.
+
+Despite recognising and even naming nonbinary people as "androgynous" since 2009, they did not collect information about nonbinary genders in the 2011 census. They have yet to give a clear answer on why this is. It is worth noting that residents are asked about their sex in the census rather than their gender, but trans people are asked to "choose whichever ‘sex’ they feel best represents their current identity".&lt;ref name="PractiAndroCensus2011"&gt;[http://practicalandrogyny.com/2011/03/13/united-kingdom-census-2011/ PracticalAndrogyny.com: United Kingdom Census 2011], March 2011.&lt;/ref&gt;
+
+When asked why a third option is not offered in the census, the ONS said:&lt;ref name="PractiAndroCensus2011"&gt;[http://practicalandrogyny.com/2011/03/13/united-kingdom-census-2011/ PracticalAndrogyny.com: United Kingdom Census 2011], March 2011.&lt;/ref&gt;
+
+:One of the criteria for including any question or response category in a census is that there must be a strong need for information to be collected. Consultation with census users on the content of the 2011 Census did not identify a requirement for options for non-gendered or transgender. Nor do international agencies such as the UN Economic Commission for Europe and Eurostat recommend the collection of such information in a mandatory population census. In addition, collection information on such a small population subgroup would raise confidentiality issues. There is also some concern that such an additional category might encourage some people to simply not reveal their male or female identity, and this could interfere with the demographic analysis we undertake.
+
+==See also==
+* [http://nonbinary.org/wiki/Legal_gender#UK Legal gender (UK)]
+* [[Websites and social networks]], which is international.
+* [[Recognition]]
+* [[Recognition (Canada)]]
+* [[Recognition (USA)]]
+
+==External links==
+*[https://cnlester.wordpress.com/2015/06/15/practical-advice-for-the-non-normatively-gendered/ Practical advice for the non-normatively gendered], by CN Lester. Advice specifically for nonbinary people living in the UK regarding their legal status, filling in forms, and organisations.
+
+==References==
+&lt;references/&gt;
+
+[[Category:Practical resources]]
+[[Category:Gender recognition]]
+[[Category:United Kingdom]]

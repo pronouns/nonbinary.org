@@ -1,0 +1,3 @@
+[[Category:Stubs]]{{mbox | text = This article is a [[:Category:Stubs|stub]]. You can help Nonbinary.org by [http://nonbinary.org/w/index.php?title={{FULLPAGENAMEE}}&amp;action=edit expanding it]}}
+&lt;noinclude&gt;==About this template==
+The contents of this template are included on every page marked as a stub. Such pages are automatically added to the [[:Category:Stubs|Stubs]] category.&lt;/noinclude&gt;

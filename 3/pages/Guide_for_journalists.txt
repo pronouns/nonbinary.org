@@ -1,0 +1,21 @@
+Writing about [[Nonbinary gender|nonbinary people]] can be tricky if you're unfamiliar with nonbinary issues. There are some mistakes that different journalists commonly make, so this article aims to address the most frequent.
+
+==What to do==
+* '''Ask the person what their [[Pronouns|pronouns]] are''', and if necessary, how to use them. Then ''use the right pronouns'' in the article. If it's not possible to ask someone what their pronouns are, default to "they/them" or avoid pronouns.
+* If an article is about something other than their nonbinary gender, '''stick to the subject'''. Don't ramble on about their gender; something short like "Sam, who is nonbinary, said of their amazing scientific achievement..." rather than "Sam came out as nonbinary seven years ago, and their co-workers accept their gender and..."
+* '''Consider whether mentioning their gender is even necessary''', by substituting a [[binary genders|binary gender]] to see if it feels awkward. "Sam, who is a woman, said of her amazing scientific achievement..." sounds very awkward, so in that sentence shouldn't include someone's gender; inclusive pronouns are enough.
+* '''Assume that mentioning they're transgender is not necessary or relevant.'''
+
+==What not to do==
+* '''Do not mention whether someone was "born a boy/girl"''' or similar. It's not relevant, and it's often private information. More importantly, even if everyone knows, this information is protected by law under the [[Equality Act 2010]].
+* '''Do not mention the name someone was given at birth''' or by their parents. It was chosen before the person was able to articulate their gender and express it accurately. If a person has changed their name, they no longer wish to be known by it; respect that.
+
+==Common cliches==
+Avoid where possible!
+* Illustration: toilet doors
+
+==External links==
+
+* [http://www.glaad.org/reference/ GLAAD Media Reference Guide], specifically [http://www.glaad.org/reference/transgender GLAAD Media Reference Guide - Transgender Issues]. A guide for journalists on how to talk about transgender issues in general. Useful for some points not covered here.
+
+[[Category:Visibility]]

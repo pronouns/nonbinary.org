@@ -1,0 +1,112 @@
+{{Stub}}
+'''Legal gender''' is documentation of an individual's gender in law. The majority of contemporary national legal systems operate according to a standard wherein each citizen must be registered as either '[[male]]' or '[[female]]', however an actual definition of those terms may be lacking in legislation. For example in Britain the terms 'male' and 'female' are not mentioned in registration law, the individual is solely referred to as either 'person' or 'the child' although there are some gendered references such as 'mother', 'father', etc. However, the terms (male or female) are usually required to be visible on personal identity documentation which is necessary to access many essential public services.
+
+Although it is used everywhere, legal gender is gradually becoming an irrelevant part of identification papers, as there are now better ways to determine whether someone is who they say they are, and because laws are gradually coming to apply in the same or more similar ways to people regardless of their legal genders. In 2015, in response to the United Kingdom Ministry of Justice refusing to allow people to have a nonbinary legal gender, one person observed: 
+
+&lt;blockquote&gt;“The government response includes: 'A person’s gender has important legal and social consequences' – exactly what are the existing implications of ‘legal gender’? As far as I was aware, there are only two areas where you’re treated differently under the law depending on whether you’re listed as ‘female’ or ‘male’, namely: marriage, and retirement age. ‘Same-sex’ marriage rights have now nullified the first difference, and the second difference is currently being phased out. I’m really curious as to what the government actually thinks these ‘legal implications’ are, apart from the raft of official documents where we’re stamped with ‘F’ or ‘M’ despite it being completely irrelevant from a legal perspective!”- Anonymous respondent to survey conducted by ''Beyond the Binary'' magazine&lt;ref&gt;"#SpecificDetriment: what you told us." ''Beyond the Binary''. September 19, 2015. [http://beyondthebinary.co.uk/specificdetriment-what-you-told-us http://beyondthebinary.co.uk/specificdetriment-what-you-told-us/]&lt;/ref&gt;&lt;/blockquote&gt;
+
+The survey respondent pointed out that legal gender is coming to have little importance. It could be useful if we could phase out legal gender as a common part of identity documents. Some [[trans-feminist]] groups campaign for birth certificates to stop recording [[sex]] (gender assigned at birth), arguing that since a person's [[gender identity]] can't be determined at birth, it shouldn't be recorded at that point. Legal gender is usually based on that recorded in birth certificates.
+
+
+==Brazil==
+
+: ''See also [[Recognition (Brazil)]]''. 
+
+===External links===
+
+* [http://wiki.susans.org/index.php/Changing_legal_gender_assignment_in_Brazil Susan's Place Transgender Resource Wiki: Changing legal gender assignment in Brazil].
+
+==Canada==
+
+: ''See also [[Recognition (Canada)]]''.
+
+===External links===
+
+* [http://en.wikipedia.org/wiki/Changing_legal_gender_assignment_in_Canada Wikipedia: Changing legal gender assignment in Canada]
+* [http://wiki.susans.org/index.php/Changing_legal_gender_assignment_in_Canada Susan's Place Transgender Resource Wiki: Changing legal gender assignment in Canada]
+
+==India==
+
+: ''See also [[Recognition (India)]]''. 
+
+India recognises one of its nonbinary demographics ([[Hijra]]) in law, giving them a status besides 'male' and 'female' in legal documentation, however as the rest of the legal system is designed to accommodate only 'male' and 'female' citizenship the Hijras' legal recognition can at times prevent affected individuals from enjoying the equality their legal status was originally intended to secure.
+
+==UK==
+
+: ''See also [[Recognition (UK)]]''
+
+In September 2015 the Ministry of Justice responded to a petition logged on their www.justice.gov.uk website entitled [https://petition.parliament.uk/petitions/104639?reveal_response=yes 'Allow transgender people to self-define their legal gender']. Their response included the following statement regarding non-binary identity;
+
+"''Non-binary gender is not recognised in UK law. Under the law of the United Kingdom, individuals are considered by the state to be of the gender that is registered on their birth certificate, either male or female. Under the Gender Recognition Act, the Gender Recognitions Panel is only able to grant a certificate to enable the applicant to become either male or female. The Panel has no power to issue a certificate indicating a non-binary gender. The Equality Act 2010 protects people from discrimination if it arises from their being perceived as either male or female. We recognise that a very small number of people consider themselves to be of neither gender. We are not aware that that results in any specific detriment, and it is not Government policy to identify such people for the purpose of issuing non-gender-specific official documents''".
+
+The petition has received over 30,000 signatures and requires 100,000 total for the issue to be considered for debate in parliament. [https://petition.parliament.uk/petitions/104639?reveal_response=yes CLICK HERE TO ADD YOUR SIGNATURE (deadline 22nd January 2016)].
+
+===The law===
+
+====''Registration of Births &amp; Deaths Regulations 1987''====
+Most countries have statutes and laws that regulate the registration of births; the compulsory registration of births with governmental agencies is a practice that originated in the UK in 1853. In England and Wales, the description "birth certificate" is commonly used to describe a copy of the relevant entry in a register of births held by the local Register office or at the [http://www.gro.gov.uk/gro/content/ General Register Office for England and Wales]. The 'birth certificate' does not certify the birth but the information given in the register entry, thus being legally conclusive evidence of the event unless proved otherwise. The full certificate is a copy of the entry, showing the child's surname, forename(s), date of birth, sex, place of birth, the parent(s) name(s), their address, and occupations at the time of registration. Government legislation pertaining to the particulars of birth certification is detailed in 'Form 1' in the [http://www.legislation.gov.uk/uksi/1987/2088/pdfs/uksi_19872088_en.pdf 'Registration of Births &amp; Deaths Regulations 1987'], though this legislation requires birth certification to include an entry in the 'Sex' category it does not specify what does or does not constitute an entry, thus 'Sex' is not actually defined in registration law. However, it is viewed as mandatory to record either 'male' or 'female' as a particular in the 'Sex' category on an entry in the register of births. The birth certificate is typically the first personal identity document a child born within British territory receives, and so is generally the foundation upon which citizenship is built.
+
+====''Gender Recognition Act 2004''====
+The [http://www.legislation.gov.uk/ukpga/2004/7/pdfs/ukpga_20040007_en.pdf Gender Recognition Act 2004] came into effect on the 4th April 2005. Subject to an individuals successful application to the [http://www.justice.gov.uk/tribunals/gender-recognition-panel Gender Recognition Panel], the panel can issue a Gender Recognition Certficate and notify the Registrar General which will establish an entry in the Gender Recognition Register. The Gender Recognition Act 2004 states that in order to qualify for a Gender Recognition Certificate one must be diagnosed by two health professionals with [http://nonbinary.org/wiki/Gender_dysphoria Gender Dysphoria], and that one must be living in the 'acquired gender' and intend to live in said gender for the rest of their lives.
+The Act is designed for changing legal gender from 'male' to 'female', and visa versa.
+
+====''Identity Cards Act 2006 &amp; Identity Documents Act 2010''====
+Initial attempts to introduce a voluntary identity card were made under the Conservative administration of John Major. Although it was included in the Conservative election manifesto, it seems that the proposal was halted by the Labour party victory in the 1997 general election. A proposal for ID cards, to be called 'entitlement cards', was initially revived by the Home Secretary following the American '9-11' event in 2001, but was reportedly opposed by Cabinet colleagues. However, rising concerns about identity theft and the misuse of public services led to a proposal in February 2002 for the introduction of 'entitlement cards' to be used to obtain social security services, and a consultation paper, Entitlement Cards and Identity Fraud, was published by the Home Office on the 3rd July 2002. A public consultation process followed, which resulted in a majority of submission by organisations being in favour of a scheme to verify a person's identity accurately. However, it was clear that the ability to properly identify a person to their true identity was central to the proposal's operation, with wider implications for operations against crime and terrorism. In 2003 David Blunkett announced that the government intended to introduce a 'British national identity card' linked to a national identity database, the National Identity Register. The proposals were included in the November 2003 Queen's Speech, and introduced to the House of Commons 6 days later. Following their 2005 election victory, the Labour Government introduced the Identity Cards Bill which received Royal Assent on the 30th March 2006 leading to the [http://www.legislation.gov.uk/ukpga/2006/15/pdfs/ukpga_20060015_en.pdf Identity Cards Act 2006]; introducing National Identity Cards and the National Identity Register database.
+
+A [http://www.publications.parliament.uk/pa/cm201011/cmpublic/identity/100706/am/100706s01.htm 6th July 2010 Identity Documents Public Bill committee debate] addressed how the Identity Cards Bill would affect 'transgendered persons'; 'transgendered persons' might be issued with two ID cards - one with a 'male' indicator, the other with a 'female' indicator. At this debate Dr Julian Huppert MP stated, "''...there are people who are neutrois and inter-sex people — there is a complicated collection. The simple solution to many of these circumstances is just not to have gender information on any of these identity documents. The people I spoke to would push for that very strongly... There does not seem to be a need for identity documents of any kind to have gender information. It is not a very good biometric; it is roughly a 50:50 split. Military ID, such as the MOD90, which obviously can have quite a high security clearance, contains no gender information. That might be what we should look at''".
+
+In the Conservative–Liberal Democrat Coalition Agreement that followed the 2010 general election, the new government announced that they planned to scrap the ID card scheme, including the National Identity Register. On the 27th May 2010 the draft [http://www.legislation.gov.uk/ukpga/2010/40/pdfs/ukpga_20100040_en.pdf Identity Documents Act 2010] was published with the aim of having it passed into law by August 2010. The Bill was passed by the House of Commons on the 15th September 2010 and received Royal Assent on the 21st December 2010. Section 1(1) of the Identity Documents Act repealed the Identity Cards Act 2006 on the 21st January 2011 (making all ID cards invalid) and mandated the destruction of all data on the National Identity Register by the 21st February 2011.
+
+====''Equality Act 2010''====
+
+The primary purpose of the [http://www.legislation.gov.uk/ukpga/2010/15/contents Equality Act 2010] is to codify the numerous array of Acts and Regulations which formed the basis of anti-discrimination law in Great Britain. This was, primarily, the [http://www.legislation.gov.uk/ukpga/1970/41 Equal Pay Act 1970], the [http://www.legislation.gov.uk/ukpga/1975/65 Sex Discrimination Act 1975], the [http://www.legislation.gov.uk/ukpga/1976/74 Race Relations Act 1976], the [http://www.legislation.gov.uk/ukpga/1995/50/contents Disability Discrimination Act 1995] and three major statutory instruments concerning discrimination in employment on grounds of religion or belief, sexual orientation, and age.
+
+===Personal identity documentation===
+
+The use of driving licence cards as a proof of identity of a person, particularly the photocard driving licence introduced in 1998, along with passports are the most widely used identity documents in the UK. 
+
+====''Passport''====
+UK passports are currently provided by [https://www.gov.uk/browse/abroad/passports Her Majesty's Passport Office (HMPO)], formerly known as the Identity and Passport Service (IPS). A passport is a government-issued document that certifies the identity and nationality of its holder for the purpose of international travel. The elements of identity contained in all standardized passports include information about the holder, including name, date of birth, sex, and place of birth. During World War I, European governments introduced border passport requirements for security reasons and to control the emigration of citizens with useful skills, retaining potential manpower. These controls remained in place after the war, and became standard procedure. In 1920, the [http://www.un.org/cyberschoolbus/unintro/unintro3.htm League of Nations] held a conference on passports and through tickets, the ''Paris Conference on Passports &amp; Customs Formalities and Through Tickets''. Passport guidelines and a general booklet design resulted from the conference. Passport standardization came about in 1980, under the auspices of the [http://www.icao.int/Pages/default.aspx International Civil Aviation Organization (ICAO)].
+
+The ICAO defines ‘sex’ as a mandatory data element for the machine readable passport as specified in [http://www.icao.int/Security/mrtd/Pages/Document9303.aspx ICAO Document 9303]. Contained in this document are three permitted particulars under ‘sex’; the permitted particulars are ‘F’ (female),’ M’ (male), and ‘X’ (unspecified). It is possible for British citizens to apply for a UK passport that records 'M' or 'F' under 'sex', but it is not currently possible to obtain a UK passport that contains the 'X' particular.
+
+From January 2012 to February 2013 HMPO began investigating proposals to allow the ‘X’ particular on UK passports in accordance with the government’s [https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/85498/transgender-action-plan.pdf action plan on trans* equality]. The outcome of the internal policy review has not been published, however in early 2013 HMPO advised Simon Hughes MP that they will not be permitting use of the 'X' particular on UK passports. In response to a letter from Mr Hughes, former HMPO chief executive Sarah Rapson wrote “''We do not consider that currently there is either the ability or the benefits for the British passport holder to require an ‘X’ in their passport''”[http://www.pinknews.co.uk/2013/04/22/uk-deputy-lib-dem-leader-really-disappointed-at-ips-rejection-of-trans-and-intersex-inclusive-passports/].
+
+On the 17th Dec 2013 Simon Hughes MP tabled an Early Day Motion (#889) in support of 'X passports'[http://www.publications.parliament.uk/pa/cm/cmedm/131217e01.htm] which was signed by nine other MPs before it was suspended following Mr Hughes promotion to Justice Minister the following day; Ministers cannot table EDM's. A new EDM (#907) was tabled in support of 'X passports' on the 6th January 2014 by Dr Julian Huppert MP [http://www.parliament.uk/edm/2013-14/907].
+
+A petition has been posted online by non-gendered rights activist [[Christie Elan-Cane]] "In support of ‘X’ passports in the United Kingdom". MP's Lynne Featherstone and Simon Hughes have added their signatures[http://www.pinknews.co.uk/2013/01/10/mps-sign-petition-encouraging-government-to-allow-gender-neutral-passports/]. The petition is still live; [http://www.gopetition.com/petitions/in-support-of-%E2%80%98x%E2%80%99-passports-in-the-united-kingdom.html CLICK HERE TO ADD YOUR SIGNATURE].
+
+====''Drivers licence''====
+
+Driver registration was introduced in 1903 with the Motor Car Act. The driving licence is the official document which authorises its holder to operate various types of motor vehicle on highways and some other roads to which the public have access. In Great Britain (England, Scotland and Wales) they are administered by the governments [https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency Driver and Vehicle Licensing Agency (DVLA)] and in Northern Ireland by the [http://www.dvani.gov.uk/ Driver &amp; Vehicle Agency (DVA)]. Until a United Kingdom driving test has been passed a person may hold only a provisional, rather than 'full' licence.
+
+There is no explicit request to state a sex or gender particular on the application form for a driving licence, however, under section 5 'Your proof of identity' there is a requirement to verify ones identity by means of specified identity documents which do include a sex or gender marker (passport, etc). A sex/gender marker is then inferred within the 'unique driver number' given to each licence holder. The 7th and 8th characters represent the month the licence-bearer was born (i.e., '01' for January), however if the bearer is identified as female upon application the 7th character of the driver number will be incremented by 5 (i.e., '51' for January)[http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/@motor/documents/digitalasset/dg_068626.pdf].
+
+==USA==
+
+''See also: [[Recognition (USA)]]''.
+
+===External links===
+* [http://en.wikipedia.org/wiki/Transgender_disenfranchisement_in_the_United_States Wikipedia: Transgender disenfranchisement in the United States]
+* [http://en.wikipedia.org/wiki/Transgender_Law_Center Wikipedia: Transgender Law Center]
+* [http://wiki.susans.org/index.php/Legal_aspects_of_transsexualism_in_the_United_States Susan's Place Transgender Resource Wiki: Legal aspects of transsexualism in the United States]
+* [http://wiki.susans.org/index.php/Legal_concerns_in_the_United_States Susan's Place Transgender Resource Wiki: Legal concerns in the United States]
+* [http://wiki.susans.org/index.php/Changing_legal_name_in_the_US Susan's Place Transgender Resource Wiki: Changing legal name in the US]
+* [http://wiki.susans.org/index.php/Changing_sex_on_birth_certificates_in_the_US Susan's Place Transgender Resource Wiki: Changing sex on birth certificates in the US]
+* [http://wiki.susans.org/index.php/Changing_sex_on_driver%27s_licenses_in_the_US Susan's Place Transgender Resource Wiki: changing sex on driver's licenses in the US]
+* [http://wiki.susans.org/index.php/Changing_Social_Security_records Susan's Place Transgender Resource Wiki: Changing Social Security records]
+* [http://wiki.susans.org/index.php/Changing_U.S._pilot%27s_licenses_and_other_FAA_certificates Susan's Place Transgender Resource Wiki: Changing US pilot's licenses and other FAA certificates]
+* [http://wiki.susans.org/index.php/Issues_of_service_in_the_United_States_Military Susan's Place Transgender Resource Wiki: Issues of service in the United States Military]
+* [http://wiki.susans.org/index.php/Changing_passports Susan's Place Transgender Resource Wiki: Changing passports] (focused on USA).
+* [http://wiki.susans.org/index.php/Healthcare_in_the_United_States Susan's Place Transgender Resource Wiki: Healthcare in the United States]
+
+==External links (International)==
+* [http://wiki.susans.org/index.php/Legal_aspects_of_transsexualism Susan's Place Transgender Resource Wiki: Legal aspects of transsexualism]
+* [http://wiki.susans.org/index.php/Marriage Susan's Place Transgender Resource Wiki: Marriage]
+* [http://wiki.susans.org/index.php/Changing_sex_on_birth_certificates Susan's Place Transgender Resource Wiki: Changing sex on birth certificates]
+* [http://wiki.susans.org/index.php/Changing_sex_on_driver%27s_licenses Susan's Place Transgender Resource Wiki: Changing sex on driver's licenses]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Practical resources]] [[Category:Transition]] [[Category:Gender expression]] [[Category:United Kingdom]] [[Category:Recognition]]

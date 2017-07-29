@@ -1,0 +1,34 @@
+{{Stub}}
+
+A list of notable books on non-binary gender and related topics.
+
+== Books ==
+
+{| class="wikitable sortable"
+|-
+! Title !! Author !! Year
+|-
+| [[Gender Diversity: Crosscultural Variations]] || [[Serena Nanda]] || 2000
+|-
+| [[Gender Now Coloring Book]] || [[Maya Christina Gonzales]] || 2010
+|-
+| [[Gender Outlaw: On Men, Women, and the Rest of Us]] || [[Kate Bornstein]] || 1995
+|-
+| [[Gender Outlaws: The Next Generation]] || [[Kate Bornstein]] || 2010
+|-
+| [[GenderQueer: Voices From Beyond the Sexual Binary]] || [[Joan Nestle]], [[Riki Wilchins]], and [[Clare Howell]] || 2002
+|-
+| [[Girlfag: A Life Told in Sex and Musicals]] || [[Janet Hardy]] || 2012
+|-
+| [[Grrl Alex: A Personal Journey to a Transgender Identity]] || [[Alex Drummond]] || 2012
+|-
+| [[My Gender Workbook: How to Become a Real Man, a Real Woman, the Real You, or Something Else Entirely]] || [[Kate Bornstein]] || 1997
+|-
+| [[Nobody Passes: Rejecting the Rules of Gender and Conformity]] || [[Mattilda Bernstein Sycamore]] || 2006
+|-
+| [[PoMoSexuals: Challenging Assumptions About Gender and Sexuality]] || [[Carol Queen]] and [[Lawrence Schimel]] || 1997
+|-
+| [[Queer Theory, Gender Theory: An Instant Primer]] || [[Riki Wilchins]] || 2004
+|-
+| [[Third Sex, Third Gender: Beyond Sexual Dimorphism in Culture and History]] || [[Gilbert H. Herdt]] || 1994
+|}

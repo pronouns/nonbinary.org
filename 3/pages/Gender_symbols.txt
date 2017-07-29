@@ -1,0 +1,170 @@
+'''Gender symbols''' are graphic designs that represent a [[gender]], such as the Venus symbol for female, and Mars symbol for male. Symbols for [[nonbinary]] gender identities explore variations on these. This page gives an imcomplete list of symbols for gender identities.
+
+==Symbols based on Venus/Mars paradigm==
+
+Like the Venus and Mars symbols for the [[binary genders]], these designs have a large, central circle, just with different prongs, angles, or other details. These designs may also use other astrological symbols.
+
+===Binary gender symbols===
+
+These are the basic symbols of the [[binary genders]].
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Symbol
+! Description
+! Unicode
+|-
+| [[File:Venus symbol.svg|frameless|thumb|100px]]
+| The Venus symbol, for [[women]]. Depicts the handmirror or distaff of the Roman goddess of love. Alchemical symbol for copper. 
+| U+2640 ♀
+|-
+| [[File:Mars symbol.svg|frameless|thumb|100px]]
+| The Mars symbol, for [[men]]. Depicts the shield and spear of the Roman god of war. Alchemical symbol for iron. 
+| U+2642 ♂
+|}
+
+===Transgender symbols===
+
+The transgender symbol has a combination of female, male, and mixed symbols.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Symbol
+! Description
+! Unicode
+|-
+| [[File:A TransGender-Symbol Plain2.png|frameless|thumb|100px]]
+| The transgender symbol. A mix of female (Venus), male (Mars), and androgyne (Venus and Mars mixed). This symbol was designed in the 1990s by Holly Boswell, Wendy Parker, and Nancy R. Nangeroni. A specific version-- blue, with rounded line ends, on a lavender triangle-- belongs to Nangeroni, but otherwise the symbol belongs to none and can be used freely.&lt;ref&gt;Nancy R. Nangeroni. "Transgender symbol." July 1994. [http://www.gendertalk.com/tg-symbol/ http://www.gendertalk.com/tg-symbol/]&lt;/ref&gt;
+| U+26A7 ⚧
+|-
+| [[File:Transfeminism symbol.svg|frameless|thumb|100px]]
+| [[Transfeminism]] symbol, combining the transgender symbol with the feminism symbol (a Venus symbol containing a fist of power).
+|
+|-
+| [[File:TransGender Equality-Symbol black-and-white.svg|frameless|thumb|100px]]
+| Transgender equality symbol.
+|
+|}
+
+===Androgyne symbols===
+
+There are several common symbols that don't have clearly defined meanings, and may refer to several different gender identities.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Symbol
+! Description
+! Unicode
+|-
+| [[File:Another hermaphrodite symbol transparent.svg|frameless|thumb|100px]]
+| Symbol for a mix of female (Venus) and male (Mars). [[Intersex]] or [[transgender]]. Botanical symbol for [[hermaphrodite]].
+| U+26A5 ⚥
+|-
+| [[File:Gender-Symbol Hermaphrodite Androgyne dark transparent Background.png|frameless|thumb|100px]]
+| [[Androgyne]], [[intersex]], or [[other gender]] symbol. Made from female (Venus) and male (Mars) symbols. Can point other directions, but meanings of this aren't agreed upon. Also the alchemical symbol for iron sulfate.
+| U+26A8 ⚨ or U+26A6 ⚦ or U+26A9 ⚩
+|}
+
+===Nonbinary gender identity symbols===
+
+These are symbols for specific nonbinary gender identities. Listed in alphabetical order. 
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Symbol
+! Description
+! Unicode
+|-
+| [[File:Nonbinary gender symbol.gif|frameless|thumb|100px]]
+| A gender symbol meant to represent [[nonbinary]] individuals specifically. The use of the "x" was a descision made by the [http://genderqueerid.com/post/27216986889/cakemeister-because-people-seem-to-like-it creator] (Johnathan R), in 2012, due to the rise of use of "x" as a letter that represents nonbinary individuals both legally and in [[pronouns]] and titles.
+| 
+|-
+| [[File:Gender-Symbol Neutrois dark transparent Background.png|frameless|thumb|100px]]
+| A [[neutrois]] or [[neuter]] symbol. Based on Venus and Mars symbols, but with no prongs.
+| U+26AA ⚪
+|-
+| [[File:Gender-Symbol Neutrois Alternative dark transparent Background.png|frameless|thumb|100px]]
+| A [[neutrois]] or [[neuter]] gender symbol, the latter used in botany. Also an older version of the Venus symbol.
+| U+26B2 ⚲
+|-
+| [[File:Neutrois Outpost symbol.JPG|frameless|thumb|100px]]
+| [[Neutrois]] symbol used by the ''Neutrois Outpost'' in 2000. The circles represent a null gender. Additionally, the lavender triangle is for pride in [[LGBT]] identity.&lt;ref&gt;Axey, Qwill, Rave, and Luscious Daniel, eds. “FAQ.” ''Neutrois Outpost''. Last updated 2000-11-23. Retrieved 2001-03-07. [http://web.archive.org/web/20010307115554/http://www.neutrois.com/faq.htm http://web.archive.org/web/20010307115554/http://www.neutrois.com/faq.htm]&lt;/ref&gt;
+|
+|-
+| [[File:Neutrois_null_symbol.png‎|frameless|thumb|100px]]
+| A [[neutrois]] symbol. Can be seen as a variation on the Venus and Mars symbols that omits the prongs of either. Null or empty set symbol.
+| U+2205 ∅
+|-
+| [[File:Comet-sym.svg.png|frameless|thumb|100px]]
+| The astronomical symbol for comets used as a [[nonbinary]] symbol. Proposed because the male and female signs are both signs for planets.
+| U+2604 ☄
+|-
+| [[File:Gender-Symbol Other dark transparent Background.png|frameless|thumb|100px]]
+| [[Other gender]] symbol.
+|
+|-
+| [[File:Pangender-Symbol.png|frameless|thumb|100px]]
+| [[Pangender]] symbol.
+|
+|}
+
+===More identity symbols===
+
+These symbols are for identities that aren't always seen as nonbinary gender identities, or sometimes even as gender identities. Listed in alphabetical order.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Symbol
+! Description
+! Unicode
+|-
+| [[File:Eunuch.svg|frameless|thumb|100px]]
+| [[Eunuch]] symbol. A male (Mars) symbol, modified.
+|
+|-
+| [[File:Gallae.jpg|frameless|thumb|100px]]
+| [[Gallae]] gender symbol, by Laura Anne Seabrook. Based on the female (Venus) symbol, but also an alchemical symbol for sulfur (representing a fire triangle on a cross of earth)
+| U+1F70D   &amp;#128781;
+|-
+| [[File:Gender-Symbol Intersex Alternative dark transparent Background.png|frameless|thumb|100px]]
+| [[Intersex]] symbol, the astrological symbol for Earth.
+| U+1F728 ⴲ
+|-
+| [[File:Mercury_symbol.svg|frameless|thumb|100px]]
+| Mercury symbol, used for intersex people. Botanical symbol for hermaphrodite. Depicts the staff of the Roman messenger god, based on the caduceus (below).
+| U+263F ☿
+|-
+| [[File:Caduceus.png|frameless|thumb|100px]]
+| Caduceus, depicting the two copulating snakes Tiresias saw before the gods turned him into a woman. Historically used for androgyny and intersex people, and the basis for the Mercury symbol (above).
+| 
+|-
+| [[File:Gender-Symbol Questioning dark transparent Background.png|frameless|thumb|100px]]
+| [[Gender questioning]] symbol. The circle of the female (Venus) and male (Mars) symbols, but instead of their prongs, a question mark shape.
+|
+|-
+|}
+
+==Other kinds of gender symbols==
+
+Some gender symbols aren't based on the Venus and Mars symbols. This can be an intentional choice for those who don't like Venus and Mars symbolism, or to get farther away from the gender binary.
+
+{|class="wikitable sortable" style="font-size: 85%; text-align: center;"
+! Symbol
+! Description
+! Unicode
+|-
+| [[File:Androgyne Necker Cube.png|frameless|thumb|100px]]
+| In 1996, Raphael Carter proposed that this ambiguous geometric shape called the Necker Cube be a symbol for [[Androgyne|androgynes]], "because it is either concave or convex depending on how you look at it."&lt;ref&gt;Raphael Carter, "Angel's Dictionary." July 14, 1996. [http://web.archive.org/web/19990427014012/www.chaparraltree.com/raq/angels.shtml http://web.archive.org/web/19990427014012/www.chaparraltree.com/raq/angels.shtml]&lt;/ref&gt;&lt;ref&gt;Nat Titman, "The Necker Cube: Symbol for androgyny." June 25, 2011. ''Practical Androgyny.'' [http://practicalandrogyny.com/2011/06/25/the-necker-cube-symbol-for-androgyny/ http://practicalandrogyny.com/2011/06/25/the-necker-cube-symbol-for-androgyny/]&lt;/ref&gt;
+|
+|-
+| [[File:Plec nieznana.png|frameless|thumb|100px]]
+| In some kinds of [[family]] tree diagrams (genograms or pedigrees), a triangle is a symbol for a person whose gender is unknown. It's also for fetuses that were miscarred, or were not yet born when the genogram was drawn. This is as opposed to squares (male) and circles (female).
+|
+|-
+| [[File:Lozenge - black simple.svg|frameless|thumb|100px]]
+| A rhombus is a botanical symbol for a plant of unknown sex, as well as a family tree symbol for a person of unknown sex.
+|
+|}
+
+==See also==
+*[[Flags]]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Concepts]][[Category:Identities]][[Category:Nonbinary identities]][[Category:Imagery]]

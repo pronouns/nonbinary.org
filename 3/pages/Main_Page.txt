@@ -1,0 +1,36 @@
+__NOTITLE__ __NOTOC__
+{{mbox
+ | type = notice
+ | text = Please note, we're currently evaluating a new spam blocking system after having been overrun by spambots. There is currently an issue where edits containing links may be denied. If you experience this or any other problems with new system please report them to [https://twitter.com/nonbinaryorg @nonbinaryorg on Twitter] or [http://nonbinary.org/forums/viewtopic.php?f=10&amp;t=2024 on this forum post]. Thank you for your patience and understanding during this process and sorry for any inconvenience caused.
+
+'''Additionally, PDF files may no longer be uploaded to the wiki after several were uploaded as spam.'''
+}}
+[[File:Nonbinaryorg_logo.png|frame]]
+= Welcome to the Nonbinary.org Wiki =
+
+[http://nonbinary.org/ Nonbinary.org] is a [[nonbinary gender]] visibility, education and advocacy network, arguing for equal access to employment, services and medical treatment for those who don't fit the [[gender binary]].
+
+This wiki is a community edited site collecting information and resources about all aspects of gender outside the binary. Please consider getting involved.
+
+==Get involved==
+* [[Special:UserLogin|Contribute to the wiki]] by [[:Category:Stubs|expanding stubs]] or [[Special:WantedPages|creating pages]]
+* [[Talk:Main_Page#Feedback|Give feedback or make suggestions]]
+* [http://nonbinary.org/forums/ Join the activism forums]
+
+{{Follow us}}
+
+==Sections==
+Some of the most useful or wanted areas in this wiki include: 
+* [[FAQ|Frequently Asked Questions]]
+* [[Glossary of English gender and sex terminology|Glossary]]
+* [[Visibility|Nonbinary visibility]]
+** [[Nonbinary gender in the media]]
+** [[Fictional depictions of nonbinary gender]]
+** [[:Category:People|Notable people]] and [[nonbinary celebrities]]
+* [[Organisations|Notable sites and organisations]]
+* [[Practical resources|Practical nonbinary resources]]
+** [[Gender neutral language]], [[pronouns]], and [[Gender neutral titles|titles]]
+* [[Gender_recognition|Recognition of nonbinary gender identities worldwide]]
+
+
+{{Nonbinary identities}}

@@ -1,0 +1,22 @@
+{
+  "name": "nonbinary.org-data",
+  "version": "1.0.0",
+  "description": "Temporary attempt to make content of nonbinary.org available.",
+  "main": "runquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pronouns/nonbinary.org-data.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pronouns/nonbinary.org-data/issues"
+  },
+  "homepage": "https://github.com/pronouns/nonbinary.org-data#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}

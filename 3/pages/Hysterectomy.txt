@@ -1,0 +1,44 @@
+{{Stub}}
+[[Hysterectomy]] is any kind of [[surgery]] to take away some or all of the uterus, and sometimes other parts of the reproductive system, depending on the kind of hysterectomy. 
+
+Since this wiki isn't Wikipedia (see Wikipedia's article on [https://en.wikipedia.org/wiki/Hysterectomy hysterectomy]), this page should focus on aspects of hysterectomy that are relevant to people who are [[nonbinary]], [[transgender]], and [[intersex]]. Unlike many resources on hysterectomy that assume the patient is either a [[cisgender women|cisgender woman]] or a [[transgender men|transgender man]], this page should use [[gender neutral language]] for the surgery patient.
+
+'''Content warnings:''' This page is not safe for work, because it talks about reproductive organs and genitals.
+
+==Transgender people and hysterectomy==
+For transgender people, including some nonbinary people, a hysterectomy is part of their [[transition]]. A person doesn't need to have a hysterectomy in order to validate their [[gender identity]] unless if that is what they personally want to do. For transgender people, their reasons for getting a hysterectomy may include: 
+* Getting rid of menstruation because it troubles their [[gender dysphoria]]
+* Making it so they can't get pregnant
+* As part of changing their genitals to how they want them to be
+* Satisfying their region's requirements for changing their [[legal gender]]. (Some countries require [[transgender men]] to get hysterectomies in order to change their paperwork to say "male." Other countries don't require this specific procedure, and require only that they get some kind of "[[bottom surgery]]" in order to say that the person's "[[sex]]" has been changed. Some countries don't require any kind of bottom surgery for transgender men at all.)
+
+Most kinds of hysterectomy make it so the person is very unlikely to get pregnant ([[sterilization]]). However, as long as there are still some parts of the ovaries and cervix, there may be some risk left of being able to get a very dangerous non-viable kind of pregnancy (ectopic pregnancy). Some kinds of hysterectomy make a person stop menstruating and go through menopause, though it doesn't necessarily get rid of all symptoms related to menstruation. 
+
+==Kinds of hysterectomy==
+There are several kinds of hysterectomy, which take away or change different parts of the reproductive system.
+
+===Hysterectomy without oophorectomy===
+Hysterectomy without oophorectomy is surgery to take away the uterus and perhaps other parts of the reproductive organs, but without taking away the gonads (ovaries), so the patient's body can still make hormones. This means that the patient won't have to depend on [[hormone therapy]] for the rest of their life. They also won't go through early menopause, as would happen if they had a hysterectomy with oophorectomy. Some transgender people choose to have their uterus and gonads taken out because they plan to always take hormones, but other transgender people prefer not to depend on medicine so much.
+
+===Hysterectomy with vaginectomy===
+Hysterectomy with vaginectomy is surgery to take away the uterus as well as the vagina, so there is no opening there. The patient can still otherwise have the external parts of their genitals (the vulva) that they had before, just not the vaginal opening itself. This makes it impossible for the person to have menstrual flow, or to get pregnant. However, the person might still have endometriosis, which is menstrual bleeding inside other parts of the body. This operation might not get rid of all their symptoms related to menstruation. Some transgender people seek this because they're uncomfortable with having a vagina. 
+
+==Alternatives to hysterectomy== 
+Hysterectomy is a major surgery, and it can take the patient a year to fully recover from it. It can also be very difficult to get doctors to give a hysterectomy just by a patient's request. These are both big challenges. People who want some of the benefits of a hysterectomy would do well to find out about alternatives to the procedure that give similar benefits. 
+
+For people who want to make sure they can't get pregnant, but don't mind menstruation so much: 
+* There are some kinds of long-term but non-permanent kinds of birth control, such as birth control pills, or an Intra-Uterine Device (IUD). This can be useful if it's taking a long time to get a doctor who will give the person a permanent method. It can also be useful if the person thinks they might consider pregnancy in the future. The drawbacks are that pills change one's hormone balance in ways that transgender people might not want. The IUD has a long-term risk of getting unexpectedly dislodged, in which case it can hurt the person badly, or fail to protect against pregnancy.
+* For people who are sure they want a permanent method, they can get their "tubes tied". [[Tubal ligation]] is 99.9% effective against pregnancy, forever. It's a much easier surgery to recover from than hysterectomy. Tubal ligation doesn't change the patient's hormone balance or menstruation. There are even non-surgical methods of tubal ligation, which are as easy to recover from as getting an IUD.
+
+For people who want to stop menstruating, but don't mind the possibility of pregnancy so much: 
+* Birth control pills can be used to change a person's menstrual flow. Ask a doctor about how to do this.
+* Taking testosterone can make a person's menstrual flow lessen or stop. It's not an effective way to prevent pregnancy.
+
+For people who want to prevent both menstruation and pregnancy: 
+* Birth control pills. 
+* Tubal ligation with [[uterine ablation]]. For people with a uterus, this operation is meant to lessen or stop a patient's menstrual flow, by cauterizing the inside of the uterus. This an alternative to removing the uterus, and has no effect on the menstrual cycle or hormone balance. Uterine ablation has to be done after a tubal ligation (or, alternatively, oophorectomy) to make pregnancy impossible, because otherwise the patient is at risk for getting dangerous non-viable pregnancies. 
+
+==External links==
+*[http://neutrois.me/2013/03/05/hysterectomy-for-ftms-part-1/ Neutrois Nonsense: Hysterectomy for FTMs]
+
+[[Category:Practical resources]][[Category:Surgery]][[Category:Transition]]

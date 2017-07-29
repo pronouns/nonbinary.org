@@ -1,0 +1,83 @@
+{{Stub}} 
+These [[template letters]] are for [[nonbinary]] people to use as a basis for letters, blog posts, and e-mails that these people might want to send as part of [[coming out]], social [[transition]], and [[activism]]. This is one of many [[Practical Resources|practical resources]] collected in this wiki. Template letters come from a long tradition of etiquette handbooks, meant to help give ideas for how to put challenging feelings into words, and to help give ideas for what actions to take during challenging times. Today, people can rely on pre-printed greeting cards to express many common sentiments, including gratitude, sympathy, and invitations to specific kinds of events. However, there are no comparable resources available for how to communicate about some of the big events in the lives of [[transgender]] and nonbinary people. Use template letters to get a general idea for how to write about a topic, not only inserting the appropriate names, dates, and so on, but also changing some turns of phrase so that you end up with a unique letter, written in your own voice.
+
+==Some general advice on writing letters==
+
+This article won't try to replicate all advice on how to write letters, blog entries, and e-mails, since it's focused only on how to write letters on matters of concern in relation to nonbinary gender. However, some general-purpose points are worth keeping in mind before proceeding.
+
+* Any letter, e-mail, or blog entry that you post should be a final draft. It shouldn't have any writing mistakes or signs of having been revised. It needs to look as clean and perfect as a paper you would turn in for a class. Proofread it with the help of a machine or another person. Always sign and date your letters, so they can be a useful record later. Handwritten letters should be a final draft that is neat, with no sign of revision or spelling mistakes.
+* Timeliness. If you're writing a response to something, post it immediately, within a day of it happening. If you're writing to announce something, post it at least one to three weeks before you need others to respond.
+* Privacy. Think twice before putting very personal or private matters on a postcard, a public blog entry, or an e-mail to someone's business address. Putting private matters in such visible places can make trouble for you, and can look inappropriate and disrespectful to your recipient.
+* Length. Business letters should be as short as possible (a short paragraph), so as to make sure the point can't be overlooked, whereas personal letters should tend to be long (maybe two pages), so as not to seem curt. Personal letters are the memory of a friendship, so do your best to make it a vivid and pleasant memory. Business letters need to respect that people at work don't have much time or energy to spare to think about or act on your problems.
+* Don't use sarcasm in writing. That would run the risk that the recipient could take it the wrong way.
+* Be careful about what you put in writing, because it can make trouble for you long after spoken words would have been forgotten. It could come across more serious than you meant, preserve memories that you'd rather have left behind, outlast a bad mood in which you wrote them, end up in the wrong hands, get taken out of context, or used against you. 
+* Don't put in intimate detail. Give the basics, and if the recipient wants to know more, you can have a private conversation in person.
+* Angry letters. Never post a letter, e-mail, or blog entry that you wrote in anger. If you do, the effect will look humorous and embarrassing to you, and not at all as persuasive or as scathing as you wished. You would also risk the chance that the letter doesn't even reflect your views once you've calmed down and thought better. On the other hand, if there's a matter that you're justifiably angry about, such as political issues or a violation of your rights, your letter will only come across as you wish if you write about it very carefully, which can best be done when not in anger. Some tips for making sure your letter doesn't look comically angry: 
+** Keep your writing focused on giving the facts. For example, just tell what the problem was, when, and where it happened, why it matters, and what you want fixed.
+** Don't mention your feelings. It's more dignified to make a letter that seems dry and unemotional than one that seems overly emotional. The former is more likely to give the impression that you have your composure. The exception is if it's necessary to your point to say that the situation made you angry or distressed.
+** Leave out adjectives and interjections as much as possible, to keep your tone unemotional. 
+** Again, don't use sarcasm. 
+* Never write down anything that you wouldn't want to read aloud in court. Don't write down anything where you even jokingly hint at having done-- or having a desire to do-- violence, crime, sexual assault, suicide, or perhaps even witnessing such things. The written word is no place to confide such experiences or feelings even to a friend, where it could very likely make trouble for you at some time.
+* In order to make a letter clear and not confusing, it should be short, and on only one topic. Length and additional topics add to the possibility that it could be misunderstood.
+
+==Transition and gender expression==
+
+===Coming out===
+
+''Needed for this section: template letters for [[coming out]] as nonbinary to [[family]], friends, work, and organizations.''
+
+See template letters for coming out as transsexual to one's mother at [https://www.susans.org/wiki/A_Letter_to_Mom Susan's Place Transgender Resource Wiki - A Letter To Mom].
+
+See a template letter for coming out as a trans woman to one's place of work at [https://www.susans.org/wiki/Initial_Contact_Letter Susan's Place Transgender Resource Wiki - Initial Contact Letter].
+
+===Announcement of name and pronouns===
+
+For students, here is a template letter for telling your teacher your preferred name and pronouns. Send it at least one week before the course begins.
+
+&lt;blockquote&gt;
+Dear Professor [name],
+
+My name is [Preferred name], and I will be attending your course [blank] on [days] at [time] this [term]. I am transgender and have not yet legally changed my name. On your roster is my legal name, [Legal name]. I would greatly appreciate it if you refer to me as [Preferred name] and use [pronouns] when referring to me. Thank you for your understanding, and I look forward to starting your course [next week].
+
+Sincerely,
+
+-[Preferred name]&lt;ref&gt;thespookyprofessor, "Template for Preferred Name/Pronouns Letter to Teachers." thespookyprofessor (personal blog). [http://spacephantom.co.vu/post/94321845724/template-for-preferred-name-pronouns-letter-to http://spacephantom.co.vu/post/94321845724/template-for-preferred-name-pronouns-letter-to]&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+The above template has been used successfully by some transgender students.&lt;ref&gt;[http://gendersintensify.tumblr.com/post/95680013934/aisnotforally-aroavenger http://gendersintensify.tumblr.com/post/95680013934/aisnotforally-aroavenger]&lt;/ref&gt; You can use a revised version of the above template if your legal name is your preferred name, and so only need to tell your teacher about your pronouns. If your name is unusual, it's acceptable to add an explanation about how to pronounce it. If you use unusual pronouns, you should add some examples of how to use them in a sentence. 
+
+For a teacher, here is an example of an appropriate response to the above request. 
+
+&lt;blockquote&gt;
+Dear [student's preferred name], 
+
+I will accommodate your request. I look forward to seeing you in class. 
+
+- Professor [name]
+&lt;/blockquote&gt;
+
+Accommodation is the only appropriate response to this request. It's not appropriate to deny or to ignore the student's request. If you aren't sure how to pronounce the name, or how to use the pronouns, it's acceptable to ask.
+
+===Announcement of pronouns===
+
+See a template letter for [[Pronouns#Announcing your change of pronouns|announcing your change of pronouns]] to family, friends, or co-workers, with the assumption that you have previously come out to them as nonbinary.
+
+===Announcement of surgery===
+
+''Needed for this section: template letters for announcing that one will be taking leave for gender-validating surgery and recovery.''
+
+==Activism==
+
+''Some suggestions for what to create for this section:''
+
+* ''Templates for petitions regarding paperwork and forms that should allow more options for [[gender neutral titles]] and [[gender markers]] than those of the [[gender binary]] alone.''
+
+==See also==
+*[[Therapist's letter]]
+*[[Practical Resources]]
+*[[Glossary of English gender and sex terminology]]
+
+==References==
+&lt;references/&gt;
+
+[[Category:Practical resources]]
